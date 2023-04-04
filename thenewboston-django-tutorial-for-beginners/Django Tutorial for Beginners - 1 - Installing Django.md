@@ -2,8 +2,6 @@
 
 Week 14.2 | Tuesday, April 04, 2023 | 02:20 AM
 
-Related notes : 
-
 -   [`easy_install` is now deprecated](https://packaging.python.org/en/latest/discussions/pip-vs-easy-install/)
 -   [Easy Install](https://setuptools.pypa.io/en/latest/deprecated/easy_install.html)
 

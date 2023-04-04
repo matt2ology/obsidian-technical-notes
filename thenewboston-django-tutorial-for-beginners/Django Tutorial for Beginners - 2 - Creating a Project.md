@@ -2,8 +2,6 @@
 
 Week 14.2 | Tuesday, April 04, 2023 | 02:26 AM
 
-Related note : 
-
 Initial start to creating a Django project - create the starter files
 
 > django-admin startproject website
