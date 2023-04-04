@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "1fd116936408ffe8",
+    "type": "split",
+    "children": [
+      {
+        "id": "a16833be24bf279f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c66b81907400235b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "025cb8ae5bbedb34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_templates/daily-notes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92cd24efaea1e62c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_templates/literature-notes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aad7ec2760cdb30e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_templates/permanent-notes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "38aacbb1be0859b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "thenewboston-django-tutorial-for-beginners/README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e10db39a06c910c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "thenewboston-django-tutorial-for-beginners/README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7ee517896d84c362",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b157740a53f8072",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76a4f10a2cbdfa3c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1f6823529cdfa197",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "88b6310d5eae7533",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ebbc1aa36277788b",
+    "type": "split",
+    "children": [
+      {
+        "id": "faede46ff6456df7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ed9a61d98fa0057",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "thenewboston-django-tutorial-for-beginners/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2c5369ae884324e3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "thenewboston-django-tutorial-for-beginners/README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3f3299ca50ccaf4f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9941e5543f276f55",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "thenewboston-django-tutorial-for-beginners/README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false
+    }
+  },
+  "active": "38aacbb1be0859b3",
+  "lastOpenFiles": [
+    "_inbox/thenewboston.md",
+    "thenewboston-django-tutorial-for-beginners/README.md",
+    "thenewboston-django-tutorial-for-beginners/Django Tutorial for Beginners - 2 - Creating a Project.md",
+    "README.md",
+    "thenewboston-django-tutorial-for-beginners/Django Tutorial for Beginners - 1 - Installing Django.md",
+    "_templates/permanent-notes.md",
+    "_templates/literature-notes.md",
+    "_templates/hub-notes.md",
+    "_templates/daily-notes.md",
+    "thenewboston-django-tutorial-for-beginners/aws-core-deployment-guide.pdf",
+    "thenewboston-django-tutorial-for-beginners/Unconfirmed 786422.crdownload",
+    "_inbox",
+    "1-fleeting-notes-📅",
+    "_templates",
+    "thenewboston-django-tutorial-for-beginners"
+  ]
+}
