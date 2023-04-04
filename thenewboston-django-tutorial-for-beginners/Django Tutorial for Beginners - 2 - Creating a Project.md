@@ -1,4 +1,4 @@
-# Django Tutorial for Beginners - 2 - Creating a Project
+# [[Django]] Tutorial for Beginners - 2 - Creating a Project
 
 Week 14.2 | Tuesday, April 04, 2023 | 02:26 AM
 
@@ -27,20 +27,6 @@ You can rename the root directory of the folder structure defined below
             __init__.py
 ```
 
-### Explanation of each file in parent website, "project", folder
+![New Django Project Template File Explanation](New%20Django%20Project%20Template%20File%20Explanation.md)
 
-- manage.py
-  - Don't touch, modify, or delete this folder
-  - A program that allows you to access the database and create users for website
-- website/asgi.py
-- website/settings.py
-  - Settings and configuration options for the entire-overall website
-- website/urls.py
-  - The URL declorations, the table of contents, for the website
-  - `path('admin/', admin.site.urls)`
-    - Look at whatever URL the user requested : `'admin/'`
-    - Perform some functionality : admin.site.urls
-- website/wsgi.py
-  - Stands for Web-Server-Gateway-Interface (a special type of webserver)
-- website/__init__.py
-  - Is left blank to tell Python to treat it's foder as a package
+![Django Comes with a Local Development Server](Django%20Comes%20with%20a%20Local%20Development%20Server.md)

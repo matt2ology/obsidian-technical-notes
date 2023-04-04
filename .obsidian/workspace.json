@@ -64,7 +64,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thenewboston-django-tutorial-for-beginners/README.md",
+                "file": "thenewboston-django-tutorial-for-beginners/Django Tutorial for Beginners - 2 - Creating a Project.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "547201e286565567",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "thenewboston-django-tutorial-for-beginners/Django Comes with a Local Development Server.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1e5c234fa4ae9067",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_templates/note-composer-extract-refactor.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -85,7 +111,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -151,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thenewboston-django-tutorial-for-beginners/README.md",
+                "file": "thenewboston-django-tutorial-for-beginners/Django Comes with a Local Development Server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thenewboston-django-tutorial-for-beginners/README.md",
+                "file": "thenewboston-django-tutorial-for-beginners/Django Comes with a Local Development Server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thenewboston-django-tutorial-for-beginners/README.md"
+                "file": "thenewboston-django-tutorial-for-beginners/Django Comes with a Local Development Server.md"
               }
             }
           }
@@ -214,13 +240,17 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "38aacbb1be0859b3",
+  "active": "547201e286565567",
   "lastOpenFiles": [
-    "_inbox/thenewboston.md",
-    "thenewboston-django-tutorial-for-beginners/README.md",
     "thenewboston-django-tutorial-for-beginners/Django Tutorial for Beginners - 2 - Creating a Project.md",
-    "README.md",
+    "thenewboston-django-tutorial-for-beginners/Django Comes with a Local Development Server.md",
+    "thenewboston-django-tutorial-for-beginners/New Django Project Template File Explanation.md",
     "thenewboston-django-tutorial-for-beginners/Django Tutorial for Beginners - 1 - Installing Django.md",
+    "_templates/note-composer-extract-refactor.md",
+    "_inbox/Untitled.md",
+    "README.md",
+    "thenewboston-django-tutorial-for-beginners/README.md",
+    "_inbox/thenewboston.md",
     "_templates/permanent-notes.md",
     "_templates/literature-notes.md",
     "_templates/hub-notes.md",

@@ -1,4 +1,4 @@
-# README
+# Technical Notes
 
 A collection and repository of all technical notes to reference and locate/recall where I gained/learned a factoid or insight.
 

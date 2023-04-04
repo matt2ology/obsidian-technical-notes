@@ -1,4 +1,4 @@
-# Django Tutorial for Beginners - 1 - Installing Django
+# [[Django]] Tutorial for Beginners - 1 - Installing Django
 
 Week 14.2 | Tuesday, April 04, 2023 | 02:20 AM
 
