@@ -4,5 +4,6 @@
   "useMarkdownLinks": true,
   "showUnsupportedFiles": true,
   "showLineNumber": true,
-  "newFileFolderPath": "_inbox"
+  "newFileFolderPath": "_inbox",
+  "spellcheck": true
 }
