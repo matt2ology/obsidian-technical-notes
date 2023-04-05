@@ -1,6 +1,6 @@
 # Django Comes with a Local Development Server
 
-from: [[Django Tutorial for Beginners - 2 - Creating a Project]]
+from: [Django Tutorial for Beginners - 2 - Creating a Project](Django%20Tutorial%20for%20Beginners%20-%202%20-%20Creating%20a%20Project.md)
 
 Week 14.2 | Tuesday, April 04, 2023 | 03:08 AM
 
