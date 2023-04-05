@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thenewboston-django-tutorial-for-beginners/New Django Project Template File Explanation.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -84,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 548.5
+    "width": 415.5
   },
   "right": {
     "id": "ebbc1aa36277788b",
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thenewboston-django-tutorial-for-beginners/New Django Project Template File Explanation.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thenewboston-django-tutorial-for-beginners/New Django Project Template File Explanation.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,16 +140,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thenewboston-django-tutorial-for-beginners/New Django Project Template File Explanation.md"
+                "file": "README.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,21 +163,22 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "33b1ce04144b78f0",
+  "active": "3f3299ca50ccaf4f",
   "lastOpenFiles": [
+    "Tutorials.md",
+    "thenewboston.md",
+    "README.md",
+    "thenewboston-django-tutorial-for-beginners/New Django Project Template File Explanation.md",
     "thenewboston-django-tutorial-for-beginners/02 - Creating a Project.md",
     "thenewboston-django-tutorial-for-beginners/03 - Creating Our First App.md",
     "thenewboston-django-tutorial-for-beginners/aws-core-deployment-guide.pdf",
     "thenewboston-django-tutorial-for-beginners/01 - Installing Django.md",
     "thenewboston-django-tutorial-for-beginners/README.md",
-    "README.md",
-    "thenewboston-django-tutorial-for-beginners/New Django Project Template File Explanation.md",
     "_templates/daily-notes.md",
     "_templates/hub-notes.md",
     "_templates/literature-notes.md",
     "Web Development.md",
     "_templates/note-composer-extract-refactor.md",
-    "thenewboston.md",
     "Python.md",
     "thenewboston-django-tutorial-for-beginners/Django Comes with a Local Development Server.md",
     "_inbox/thenewboston-django-tutorial-for-beginners/Django 1.md",
