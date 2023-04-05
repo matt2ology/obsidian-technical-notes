@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "thenewboston.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "thenewboston.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "thenewboston.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "thenewboston.md"
               }
             }
           }
@@ -163,11 +163,12 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "3f3299ca50ccaf4f",
+  "active": "33b1ce04144b78f0",
   "lastOpenFiles": [
+    "Web Development.md",
     "Tutorials.md",
-    "thenewboston.md",
     "README.md",
+    "thenewboston.md",
     "thenewboston-django-tutorial-for-beginners/New Django Project Template File Explanation.md",
     "thenewboston-django-tutorial-for-beginners/02 - Creating a Project.md",
     "thenewboston-django-tutorial-for-beginners/03 - Creating Our First App.md",
@@ -177,7 +178,6 @@
     "_templates/daily-notes.md",
     "_templates/hub-notes.md",
     "_templates/literature-notes.md",
-    "Web Development.md",
     "_templates/note-composer-extract-refactor.md",
     "Python.md",
     "thenewboston-django-tutorial-for-beginners/Django Comes with a Local Development Server.md",
