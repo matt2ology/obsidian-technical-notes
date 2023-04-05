@@ -6,7 +6,8 @@ Week 14.2 | Tuesday, April 04, 2023 | 03:08 AM
 
 ## Django Local Development Server
 
-Navigate to your project (the parent folder) where you can see both the project source code subfolder and `manage.py`
+Navigate to your project (the parent folder) where you can
+see both the project source code subfolder and `manage.py`
 
 ```text
 ───website
