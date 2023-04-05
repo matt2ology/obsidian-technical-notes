@@ -1,1 +1,1 @@
-Youtube Channel : <https://www.youtube.com/@thenewboston>
+YouTube Channel : <https://www.youtube.com/@thenewboston>
