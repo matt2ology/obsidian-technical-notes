@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a16833be24bf279f",
+        "id": "4e4b2dd666140fc5",
         "type": "tabs",
         "children": [
           {
-            "id": "c66b81907400235b",
+            "id": "7e30a0ecec2e83bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "thenewboston-django-tutorial-for-beginners/02 - Creating a Project.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,51 +21,12 @@
             }
           },
           {
-            "id": "025cb8ae5bbedb34",
+            "id": "33b1ce04144b78f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_templates/daily-notes.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "92cd24efaea1e62c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "thenewboston-django-tutorial-for-beginners/README.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1e5c234fa4ae9067",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_templates/note-composer-extract-refactor.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e10db39a06c910c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "thenewboston-django-tutorial-for-beginners/README.md",
+                "file": "thenewboston-django-tutorial-for-beginners/New Django Project Template File Explanation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 548.5
   },
   "right": {
     "id": "ebbc1aa36277788b",
@@ -139,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thenewboston-django-tutorial-for-beginners/README.md",
+                "file": "thenewboston-django-tutorial-for-beginners/New Django Project Template File Explanation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thenewboston-django-tutorial-for-beginners/README.md",
+                "file": "thenewboston-django-tutorial-for-beginners/New Django Project Template File Explanation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thenewboston-django-tutorial-for-beginners/README.md"
+                "file": "thenewboston-django-tutorial-for-beginners/New Django Project Template File Explanation.md"
               }
             }
           }
@@ -202,26 +163,28 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "92cd24efaea1e62c",
+  "active": "33b1ce04144b78f0",
   "lastOpenFiles": [
-    "thenewboston-django-tutorial-for-beginners/Django Tutorial for Beginners - 2 - Creating a Project.md",
-    "thenewboston-django-tutorial-for-beginners/Django Comes with a Local Development Server.md",
-    "_templates/literature-notes.md",
+    "thenewboston-django-tutorial-for-beginners/02 - Creating a Project.md",
+    "thenewboston-django-tutorial-for-beginners/03 - Creating Our First App.md",
+    "thenewboston-django-tutorial-for-beginners/aws-core-deployment-guide.pdf",
+    "thenewboston-django-tutorial-for-beginners/01 - Installing Django.md",
+    "thenewboston-django-tutorial-for-beginners/README.md",
+    "README.md",
+    "thenewboston-django-tutorial-for-beginners/New Django Project Template File Explanation.md",
     "_templates/daily-notes.md",
+    "_templates/hub-notes.md",
+    "_templates/literature-notes.md",
+    "Web Development.md",
+    "_templates/note-composer-extract-refactor.md",
+    "thenewboston.md",
+    "Python.md",
+    "thenewboston-django-tutorial-for-beginners/Django Comes with a Local Development Server.md",
     "_inbox/thenewboston-django-tutorial-for-beginners/Django 1.md",
     "_templates/permanent-notes.md",
     "_inbox/thenewboston-django-tutorial-for-beginners/Django.md",
     "_inbox/thenewboston-django-tutorial-for-beginners",
-    "thenewboston-django-tutorial-for-beginners/Django Tutorial for Beginners - 1 - Installing Django.md",
-    "README.md",
-    "thenewboston-django-tutorial-for-beginners/README.md",
-    "_inbox/Web Development.md",
-    "thenewboston-django-tutorial-for-beginners/New Django Project Template File Explanation.md",
-    "_templates/note-composer-extract-refactor.md",
     "_inbox/Untitled.md",
-    "_inbox/thenewboston.md",
-    "_templates/hub-notes.md",
-    "thenewboston-django-tutorial-for-beginners/aws-core-deployment-guide.pdf",
     "thenewboston-django-tutorial-for-beginners/Unconfirmed 786422.crdownload",
     "_inbox",
     "1-fleeting-notes-📅",
