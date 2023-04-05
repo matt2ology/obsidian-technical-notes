@@ -1,6 +1,8 @@
-# [[Django]] Tutorial for Beginners - 2 - Creating a Project
+# Django Tutorial for Beginners - 2 - Creating a Project
 
 Week 14.2 | Tuesday, April 04, 2023 | 02:26 AM
+
+Source : https://youtu.be/CHjXtRrhqxc
 
 Initial start to creating a Django project - create the starter files
 
