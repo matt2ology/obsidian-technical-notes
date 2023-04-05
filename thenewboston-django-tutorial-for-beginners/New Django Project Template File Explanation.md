@@ -16,14 +16,15 @@ Week 14.2 | Tuesday, April 04, 2023 | 03:02 AM
 - ???
 
 ### website/settings.py
+
 - Settings and configuration options for the entire-overall website
 
 ### website/urls.py
 
 - The URL declorations, the table of contents, for the website
-	- `path('admin/', admin.site.urls)`
-		- Look at whatever URL the user requested : `'admin/'`
-		- Perform some functionality : `admin.site.urls`
+  - `path('admin/', admin.site.urls)`
+    - Look at whatever URL the user requested : `'admin/'`
+    - Perform some functionality : `admin.site.urls`
 
 ### website/wsgi.py
 
