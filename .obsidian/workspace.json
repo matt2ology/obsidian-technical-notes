@@ -15,6 +15,7 @@
               "state": {
                 "file": "README.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -34,32 +35,6 @@
           },
           {
             "id": "92cd24efaea1e62c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_templates/literature-notes.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aad7ec2760cdb30e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_templates/permanent-notes.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "38aacbb1be0859b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -98,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -227,22 +202,25 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "38aacbb1be0859b3",
+  "active": "92cd24efaea1e62c",
   "lastOpenFiles": [
     "thenewboston-django-tutorial-for-beginners/Django Tutorial for Beginners - 2 - Creating a Project.md",
+    "thenewboston-django-tutorial-for-beginners/Django Comes with a Local Development Server.md",
+    "_templates/literature-notes.md",
+    "_templates/daily-notes.md",
+    "_inbox/thenewboston-django-tutorial-for-beginners/Django 1.md",
+    "_templates/permanent-notes.md",
+    "_inbox/thenewboston-django-tutorial-for-beginners/Django.md",
+    "_inbox/thenewboston-django-tutorial-for-beginners",
     "thenewboston-django-tutorial-for-beginners/Django Tutorial for Beginners - 1 - Installing Django.md",
+    "README.md",
     "thenewboston-django-tutorial-for-beginners/README.md",
     "_inbox/Web Development.md",
     "thenewboston-django-tutorial-for-beginners/New Django Project Template File Explanation.md",
-    "thenewboston-django-tutorial-for-beginners/Django Comes with a Local Development Server.md",
     "_templates/note-composer-extract-refactor.md",
     "_inbox/Untitled.md",
-    "README.md",
     "_inbox/thenewboston.md",
-    "_templates/permanent-notes.md",
-    "_templates/literature-notes.md",
     "_templates/hub-notes.md",
-    "_templates/daily-notes.md",
     "thenewboston-django-tutorial-for-beginners/aws-core-deployment-guide.pdf",
     "thenewboston-django-tutorial-for-beginners/Unconfirmed 786422.crdownload",
     "_inbox",
