@@ -1,6 +1,6 @@
 # [thenewboston](thenewboston.md) - [Django Tutorials for Beginners](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK)
 
-Related notes : [Python](Python.md) - [Web Development](Web%20Development.md) - [Django](Django)
+Related notes : [Python](Python.md) - [Web Development](Web%20Development.md) - [Django](Django.md)
 
 Deploy with AWS : [AWS Core Development Guide](aws-core-deployment-guide.pdf)
 
