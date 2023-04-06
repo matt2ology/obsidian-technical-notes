@@ -42,13 +42,13 @@ The `views.py` takes a request and sends back a HTTP response.
     │   │
     │   └───migrations
     │           __init__.py
-		│
-	└───website              # <- this sub-folder must be left the same
-		asgi.py
-		settings.py
-		urls.py          # <- First thing Django looks at on user request
-		wsgi.py
-		__init__.py
+│
+└───website              # <- this sub-folder must be left the same
+	asgi.py
+	settings.py
+	urls.py          # <- First thing Django looks at on user request
+	wsgi.py
+	__init__.py
 ```
 
 ```python
