@@ -1,6 +1,6 @@
 # Note Taking Workflow
 
-from: [[README]]
+from : [README](../README.md)
 
 Week 14.3 | Wednesday, April 05, 2023 | 06:35 PM
 
