@@ -2,6 +2,8 @@
 
 from : [03 - Creating Our First App](03%20-%20Creating%20Our%20First%20App.md)
 
+related notes : [05 - Views](05%20-%20Views.md)
+
 Week 14.3 | Wednesday, April 05, 2023 | 05:09 PM
 
 ## Django Apps
