@@ -8,7 +8,9 @@ Related notes : [Django Project Template File Explanation](Django%20Project%20Te
 
 Initial start to creating a Django project - create the starter files
 
-> django-admin startproject website
+```txt
+django-admin startproject website
+```
 
 this will make a parent-folder and sub-folder "website" (or any name that you defined after `django-admin startproject`)
 
