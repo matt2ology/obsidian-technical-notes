@@ -4,7 +4,7 @@ Related notes : [Python](Python.md) - [Web Development](Web%20Development.md) - 
 
 Deploy with AWS : [AWS Core Development Guide](aws-core-deployment-guide.pdf)
 
-At time of development I'm using Python 3.11.2.
+At time of development, 2023-04-05, I'm using Python 3.11.2.
 The tutorial, thenewboston, uses Python 3.4.3
 
 1. [01 - Installing Django](01%20-%20Installing%20Django.md)
