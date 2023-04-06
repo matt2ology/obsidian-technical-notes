@@ -1,6 +1,6 @@
 # [Django](../Django.md) App Template File Explanation
 
-from : [[04 - Overview of a Basic App]]
+from : [04 - Overview of a Basic App](04%20-%20Overview%20of%20a%20Basic%20App.md)
 
 related note : [Django Project Template File Explanation](Django%20Project%20Template%20File%20Explanation.md) - [\_\_init\_\_.py](__init__.py.md)
 
