@@ -18,7 +18,7 @@ see both the project source code subfolder and `manage.py`
 
 Use the manage tool to "boot" the server
 
-```
+```txt
 python manage.py runserver
 ```
 
