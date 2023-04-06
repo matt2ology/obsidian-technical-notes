@@ -4,6 +4,8 @@ Related notes : [Python](Python.md) - [Web Development](Web%20Development.md) - 
 
 Deploy with AWS : [AWS Core Development Guide](aws-core-deployment-guide.pdf)
 
+Repo : <https://github.com/matt2ology/django-thenewboston>
+
 At time of development, 2023-04-05, I'm using Python 3.11.2.
 The tutorial, thenewboston, uses Python 3.4.3
 
