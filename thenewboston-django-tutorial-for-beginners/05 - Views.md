@@ -1,8 +1,8 @@
 # Django Tutorial for Beginners - 5 - Views
 
-source : <https://youtu.be/nAn1KpPlN2w>
+related note : [thenewboston-django-tutorial-for-beginners](thenewboston-django-tutorial-for-beginners.md) - [Django Project Template File Explanation](Django%20Project%20Template%20File%20Explanation.md) - [Django App Template File Explanation](Django%20App%20Template%20File%20Explanation.md)
 
-related note : [Django Project Template File Explanation](Django%20Project%20Template%20File%20Explanation.md) - [Django App Template File Explanation](Django%20App%20Template%20File%20Explanation.md)
+source : <https://youtu.be/nAn1KpPlN2w>
 
 Week 14.3 | Wednesday, April 05, 2023 | 09:22 PM
 

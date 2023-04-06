@@ -2,6 +2,8 @@
 
 Week 14.2 | Tuesday, April 04, 2023 | 02:20 AM
 
+related : [thenewboston-django-tutorial-for-beginners](thenewboston-django-tutorial-for-beginners.md)
+
 source : <https://youtu.be/qgGIqRFvFFk>
 
 - [`easy_install` is now deprecated](https://packaging.python.org/en/latest/discussions/pip-vs-easy-install/)
