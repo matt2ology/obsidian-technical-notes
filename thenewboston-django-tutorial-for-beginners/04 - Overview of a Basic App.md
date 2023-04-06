@@ -29,4 +29,4 @@ When you create a new app Django will set you up with default files in the app's
     └───website
 ```
 
-[Django App Template File Explanation](Django%20App%20Template%20File%20Explanation.md)
+![Django App Template File Explanation](Django%20App%20Template%20File%20Explanation.md)
