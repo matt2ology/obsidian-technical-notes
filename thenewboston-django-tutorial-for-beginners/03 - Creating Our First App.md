@@ -2,7 +2,7 @@
 
 Week 14.3 | Wednesday, April 05, 2023 | 04:07 PM
 
-Related note : [Django Comes with a Local Development Server](Django%20Comes%20with%20a%20Local%20Development%20Server.md)
+Related note : [Django Comes with a Local Development Server](Django%20Comes%20with%20a%20Local%20Development%20Server.md) - [Django Apps](Django%20Apps.md)
 
 Source note : <https://youtu.be/4saN7GZnawU>
 
@@ -29,5 +29,3 @@ python manage.py startapp AppName
 Result of running `python manage.py runserver`
 
 ![](Pasted%20image%2020230405165700.png)
-
-![Django Apps](Django%20Apps.md)

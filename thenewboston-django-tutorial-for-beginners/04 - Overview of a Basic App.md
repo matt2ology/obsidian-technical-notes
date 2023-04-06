@@ -6,7 +6,7 @@ alias:
 
 Week 14.3 | Wednesday, April 05, 2023 | 07:32 PM
 
-Related note : [Django Apps](Django%20Apps.md)
+Related note : [Django Apps](Django%20Apps.md) - [Django App Template File Explanation](Django%20App%20Template%20File%20Explanation.md)
 
 When you create a new app Django will set you up with default files in the app's folder
 
@@ -28,5 +28,3 @@ When you create a new app Django will set you up with default files in the app's
     │
     └───website
 ```
-
-![Django App Template File Explanation](Django%20App%20Template%20File%20Explanation.md)
