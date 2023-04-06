@@ -1,6 +1,6 @@
 # New [[Django]] Project Template File Explanation
 
-from: [02 - Creating a Project](02%20-%20Creating%20a%20Project.md)
+from : [02 - Creating a Project](02%20-%20Creating%20a%20Project.md)
 
 Week 14.2 | Tuesday, April 04, 2023 | 03:02 AM
 
