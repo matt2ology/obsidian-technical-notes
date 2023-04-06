@@ -1,4 +1,4 @@
-# New [Django](Django.md) Project Template File Explanation
+# New [Django](../Django.md) Project Template File Explanation
 
 from : [02 - Creating a Project](02%20-%20Creating%20a%20Project.md)
 
