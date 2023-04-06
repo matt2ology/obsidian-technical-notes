@@ -41,7 +41,7 @@ The `views.py` takes a request and sends back a HTTP response.
     |   |                     # Purpose is to create urls just for music
     │   │
     │   └───migrations
-    │           __init__.py
+    │          \_\_init\_\_.py
 	│
 	└───website              # <- this sub-folder must be left the same
 		asgi.py
