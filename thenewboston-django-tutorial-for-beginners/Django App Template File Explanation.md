@@ -2,7 +2,7 @@
 
 from : [[04 - Overview of a Basic App]]
 
-related note : [Django Project Template File Explanation](Django%20Project%20Template%20File%20Explanation.md) - [\_\_init\_\_.py](__init__.py.md) 
+related note : [Django Project Template File Explanation](Django%20Project%20Template%20File%20Explanation.md) - [\_\_init\_\_.py](__init__.py.md)
 
 Week 14.3 | Wednesday, April 05, 2023 | 09:18 PM
 
@@ -39,4 +39,3 @@ Create tests.
 ### views.py
 
 Python functions that take user request and responds with a particular action.
-
