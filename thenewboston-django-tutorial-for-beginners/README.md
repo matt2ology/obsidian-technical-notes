@@ -10,3 +10,4 @@ The tutorial, thenewboston, uses Python 3.4.3
 1. [01 - Installing Django](01%20-%20Installing%20Django.md)
 2. [02 - Creating a Project](02%20-%20Creating%20a%20Project.md)
 3. [03 - Creating Our First App](03%20-%20Creating%20Our%20First%20App.md)
+4. [04 - Overview of a Basic App](04%20-%20Overview%20of%20a%20Basic%20App.md)
