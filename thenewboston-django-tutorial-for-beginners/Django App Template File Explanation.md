@@ -1,4 +1,4 @@
-# Django App Template File Explanation
+# [Django](../Django.md) App Template File Explanation
 
 from : [[04 - Overview of a Basic App]]
 
