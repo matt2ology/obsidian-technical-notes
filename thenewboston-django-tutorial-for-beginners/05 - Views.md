@@ -2,7 +2,7 @@
 
 source : <https://youtu.be/nAn1KpPlN2w>
 
-related note : [Django Project Template File Explanation](Django%20Project%20Template%20File%20Explanation.md)
+related note : [Django Project Template File Explanation](Django%20Project%20Template%20File%20Explanation.md) - [Django App Template File Explanation](Django%20App%20Template%20File%20Explanation.md)
 
 Week 14.3 | Wednesday, April 05, 2023 | 09:22 PM
 
