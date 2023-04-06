@@ -13,7 +13,9 @@ Week 14.2 | Tuesday, April 04, 2023 | 03:02 AM
 
 ### website/asgi.py
 
-- ???
+- Stands for "Asynchronous Server Gateway Interface"
+- **Like WSGI**, ASGI describes a common interface between a Python web application and the web server.
+- **Unlike WSGI**, ASGI allows multiple, asynchronous events per application
 
 ### website/settings.py
 
