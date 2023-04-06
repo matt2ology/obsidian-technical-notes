@@ -6,6 +6,6 @@ Using obsidian to manage note creation and note-link referencing : <https://obsi
 
 [Note Taking Workflow](_inbox/Note%20Taking%20Workflow.md)
 
-## [Web Development](Web%20Development.md)
+## [Tutorials](Tutorials.md)
 
-1. [thenewboston - Django Tutorial for Beginners](thenewboston-django-tutorial-for-beginners/README.md)
+Online instructions and walkthroughs via an article or videos
