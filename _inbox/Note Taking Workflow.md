@@ -4,7 +4,7 @@ from : [README](../README.md)
 
 Week 14.3 | Wednesday, April 05, 2023 | 06:35 PM
 
-## Note Taking Workflow 
+## Note Taking Workflow
 #in-progress
 
 ### Technical Learning/Tutorial/Reference Notes
