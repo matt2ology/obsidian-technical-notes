@@ -7,7 +7,7 @@ Source : <https://youtu.be/qgGIqRFvFFk>
 - [`easy_install` is now deprecated](https://packaging.python.org/en/latest/discussions/pip-vs-easy-install/)
 - [Easy Install](https://setuptools.pypa.io/en/latest/deprecated/easy_install.html)
 
-Make sure both pip are up to date and are configured in you Environment Varables of your system
+Make sure both pip are up to date and are configured in you Environment Variables of your system
 
 > python.exe -m pip install --upgrade pip
 
