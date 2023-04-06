@@ -21,7 +21,7 @@ Week 14.2 | Tuesday, April 04, 2023 | 03:02 AM
 
 ### website/urls.py
 
-- The URL declorations, the table of contents, for the website
+- The URL declarations, the table of contents, for the website
   - `path('admin/', admin.site.urls)`
     - Look at whatever URL the user requested : `'admin/'`
     - Perform some functionality : `admin.site.urls`
@@ -30,6 +30,6 @@ Week 14.2 | Tuesday, April 04, 2023 | 03:02 AM
 
 - Stands for Web-Server-Gateway-Interface (a special type of webserver)
 
-### website/__init__.py
+### website/**init**.py
 
-- Is left blank to tell Python to treat it's foder as a package
+- Is left blank to tell Python to treat it's fodder as a package
