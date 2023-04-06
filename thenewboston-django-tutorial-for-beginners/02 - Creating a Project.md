@@ -27,6 +27,6 @@ You can rename the root directory of the folder structure defined below
             __init__.py
 ```
 
-![New Django Project Template File Explanation](New%20Django%20Project%20Template%20File%20Explanation.md)
+![Django Project Template File Explanation](Django%20Project%20Template%20File%20Explanation.md)
 
 ![Django Comes with a Local Development Server](Django%20Comes%20with%20a%20Local%20Development%20Server.md)
