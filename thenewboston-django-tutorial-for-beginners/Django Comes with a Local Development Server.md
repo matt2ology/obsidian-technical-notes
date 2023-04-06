@@ -1,4 +1,4 @@
-# Django Comes with a Local Development Server
+# [Django](Django.md) Comes with a Local Development Server
 
 from: [02 - Creating a Project](02%20-%20Creating%20a%20Project.md)
 
