@@ -18,6 +18,8 @@ see both the project source code subfolder and `manage.py`
 
 Use the manage tool to "boot" the server
 
-> python manage.py runserver
+```
+python manage.py runserver
+```
 
 It helps to bookmark the address it provides for you
