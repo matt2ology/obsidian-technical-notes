@@ -7,4 +7,4 @@ source :
 topics : 
 related :
 
-## Takeaways and Inspirations
+<!-- Takeaways and Inspirations -->
