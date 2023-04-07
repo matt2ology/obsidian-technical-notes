@@ -1,10 +1,10 @@
 # Django Tutorial for Beginners - 5 - Views
 
+Week 14.3 | Wednesday, April 05, 2023 | 09:22 PM
+
 related note : [thenewboston-django-tutorial-for-beginners](thenewboston-django-tutorial-for-beginners.md) - [Django Project Template File Explanation](Django%20Project%20Template%20File%20Explanation.md) - [Django App Template File Explanation](Django%20App%20Template%20File%20Explanation.md)
 
 source : <https://youtu.be/nAn1KpPlN2w>
-
-Week 14.3 | Wednesday, April 05, 2023 | 09:22 PM
 
 When a user request anything from the website Django will project titled subfolder
 and looks to the `urls.py` file.
@@ -22,7 +22,8 @@ All URLs of a particular app should be placed in that specific app directory: we
 The `views.py` takes a request and sends back a HTTP response.
 
 > The workflow
->>`website\website\urls.py` -> `website\music\urls.py` -> `website\music\urls.py`
+>
+> > `website\website\urls.py` -> `website\music\urls.py` -> `website\music\urls.py`
 
 ```txt
 # Parent folder website - folder structure created
