@@ -15,5 +15,5 @@ pip freeze > requirements.txt
 Installing the Python dependencies
 
 ```cmd
-pip install` `-``r requirements.txt
+pip install -r requirements.txt
 ```
