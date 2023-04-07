@@ -2,7 +2,7 @@
 
 Week 14.2 | Tuesday, April 04, 2023 | 02:26 AM
 
-related notes : [thenewboston-django-tutorial-for-beginners](thenewboston-django-tutorial-for-beginners.md) - [Django Project Template File Explanation](Django%20Project%20Template%20File%20Explanation.md) - [Django Comes with a Local Development Server](Django%20Comes%20with%20a%20Local%20Development%20Server.md)
+related note : [thenewboston-django-tutorial-for-beginners](thenewboston-django-tutorial-for-beginners.md) - [Django Project Template File Explanation](Django%20Project%20Template%20File%20Explanation.md) - [Django Comes with a Local Development Server](Django%20Comes%20with%20a%20Local%20Development%20Server.md)
 
 source : https://youtu.be/CHjXtRrhqxc
 
@@ -20,7 +20,7 @@ You can rename the root directory of the folder structure defined below
 ```txt
 # $ django-admin startproject website
 # Parent folder website - folder structure created
-───website                # <- can rename parent-folder of the same name 
+───website                # <- can rename parent-folder of the same name
     │   manage.py
     │
     └───website           # <- this sub-folder must be left the same
