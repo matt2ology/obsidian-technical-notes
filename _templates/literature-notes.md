@@ -2,9 +2,9 @@
 
 {{date:[Week] WW.E}} | {{date:dddd, MMMM DD, YYYY}} | {{time:hh:mm A}}
 
-Author : 
-Source : 
-Topics : 
-Related :
+author : 
+source : 
+topics : 
+related :
 
 ## Takeaways and Inspirations
