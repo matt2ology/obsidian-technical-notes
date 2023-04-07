@@ -7,4 +7,4 @@ related notes : [Django](../Django.md) - [Python](../Python.md) - [Web Developme
 3. [03 - Creating Our First App](03%20-%20Creating%20Our%20First%20App.md)
 4. [04 - Overview of a Basic App](04%20-%20Overview%20of%20a%20Basic%20App.md)
 5. [05 - Views](05%20-%20Views.md)
-6. 
+6. [06 - Database Setup](06%20-%20Database%20Setup.md)
