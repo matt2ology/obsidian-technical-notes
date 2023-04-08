@@ -2,7 +2,7 @@
 
 Week 14.4 | Thursday, April 06, 2023 | 10:33 PM
 
-related : [thenewboston-django-tutorial-for-beginners](thenewboston-django-tutorial-for-beginners.md)
+related : [thenewboston-django-tutorial-for-beginners](thenewboston-django-tutorial-for-beginners.md) - [08 - Activating Models](08%20-%20Activating%20Models.md)
 source : <https://youtu.be/UpssHYl6bjA>
 
 <!-- Takeaways and Inspirations -->
