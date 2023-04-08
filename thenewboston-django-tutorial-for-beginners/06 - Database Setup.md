@@ -13,9 +13,7 @@ Django comes with a default database in form of SQL Lite : `db.sqlite3`
 
 In `website\website\settings.py` you'll find the engine constructs the database.
 
-Django is not limited to just SQL-lite and can use, for example, Post or MySQL in real 
-production environments; however, it's nice that Django comes with SQL-lite for 
-development-testing.
+Django is not limited to just SQL-lite and can use, for example, Post or MySQL in real production environments; however, it's nice that Django comes with SQL-lite for development-testing.
 
 ```python
 # website\website\settings.py
