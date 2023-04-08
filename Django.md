@@ -1,6 +1,43 @@
 ---
 alias:
 ---
+
 # Django
 
-Related : [Python](Python.md)
+Related : [Python](Python.md) - [Web Development](Web%20Development.md)
+
+Initial start to creating a Django project - create the starter files
+
+```txt
+django-admin startproject website
+```
+
+Run the application in Windows cmd/PowerShell
+
+```cmd
+python manage.py runserver
+```
+
+> `ctr-c` to stop the local development server
+
+To create a Django app page be at the root project directory (the folder that contains `manage.py`)
+
+```cmd
+python manage.py startapp AppName
+```
+
+Update database with apps model.
+
+```sh
+python manage.py makemigrations app_name
+```
+
+> OR shows the tables and columns created to database
+>
+> > `python manage.py sqlmigrate app_name 0001`
+
+Now we have to run the SQL file
+
+```powershell
+python manage.py migrate
+```
