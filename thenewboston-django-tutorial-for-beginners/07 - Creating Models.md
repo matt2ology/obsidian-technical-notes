@@ -23,6 +23,8 @@ A primary key (a unique key) is just needed whenever you have a bunch of element
 
 `on_delete=models.CASCADE `means that if the album is deleted, all songs associated with that album will be deleted as well (cascading delete)
 
+![](_image-attachments/Pasted%20image%2020230407232608.png)
+
 ```python
 from django.db import models
 
