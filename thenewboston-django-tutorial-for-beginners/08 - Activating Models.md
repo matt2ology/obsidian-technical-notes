@@ -10,14 +10,17 @@ When you make an app, after we make the template model, we need to go into proje
 
 Although we've defined our database models we still need to migrate the app's model to the actual database.
 
+This makes the change file
+
 ```sh
 python manage.py makemigrations app_name
 ```
 
->OR shows the tables and columns created to database
->> `python manage.py sqlmigrate app_name 0001`
+> OR shows the tables and columns created to database
+>
+> > `python manage.py sqlmigrate app_name 0001`
 
-Now we have to run the SQL file
+Now we have to run the SQL (change) file
 
 ```powershell
 python manage.py migrate
@@ -25,11 +28,11 @@ python manage.py migrate
 
 ```txt
 # Parent folder website - folder structure created
-└───website_project_folder
+────website_project_folder
     │   db.sqlite3
     │   manage.py
     │
-    ├───music
+    ├───music                # python manage.py makemigrations music
     │   │   admin.py
     │   │   apps.py          # Reference this into settings.py
     │   │   models.py
