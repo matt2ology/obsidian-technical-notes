@@ -6,6 +6,14 @@ related : [thenewboston-django-tutorial-for-beginners](thenewboston-django-tutor
 
 source : <https://youtu.be/dONYOtb2ySI>
 
+## TL;DR
+
+When ever you need to make a change to your database structure
+
+1. Make the changes to your python code in the corresponding app's `models.py`
+2. `python manage.py makemigrations app_name`
+3. `python manage.py migrate`
+ 
 When you make an app, after we make the template model, we need to go into project source folder into settings and place our app into `INSTALLED_APPS` section. This will allow the app to interop with the database correctly. `'music.apps.MusicConfig',` is added to the `INSTALLED_APPS` list.
 
 Although we've defined our database models we still need to migrate the app's model to the actual database.
