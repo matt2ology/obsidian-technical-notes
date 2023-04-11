@@ -21,8 +21,8 @@ We need to import the Python class/table and register the Python class/table mod
 
 Now we have the ability to Create - Read - Update - Delete items in our database.
 
-![](../_inbox/Pasted%20image%2020230410233153.png)
-![](../_inbox/Pasted%20image%2020230410233226.png)
+![](_image-attachments/Pasted%20image%2020230410233153.png)
+![](_image-attachments/Pasted%20image%2020230410233226.png)
 
 ```txt
 # Parent folder website - folder structure created
