@@ -2,7 +2,7 @@
 
 Week 14.6 | Saturday, April 08, 2023 | 10:13 PM
 
-related : [thenewboston-django-tutorial-for-beginners](thenewboston-django-tutorial-for-beginners.md)
+related : [thenewboston-django-tutorial-for-beginners](thenewboston-django-tutorial-for-beginners.md) - [10 - Filtering Database Results](10%20-%20Filtering%20Database%20Results.md)
 source : https://youtu.be/uYTiPwEGKyQ
 
 ## TL;DR
