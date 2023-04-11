@@ -10,3 +10,4 @@ related notes : [Django](../Django.md) - [Python](../Python.md) - [Web Developme
 6. [06 - Database Setup](06%20-%20Database%20Setup.md)
 7. [07 - Creating Models](07%20-%20Creating%20Models.md)
 8. [08 - Activating Models](08%20-%20Activating%20Models.md)
+9. [09 - Database API](09%20-%20Database%20API.md)
