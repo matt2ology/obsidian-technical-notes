@@ -10,7 +10,7 @@ source : https://youtu.be/uYTiPwEGKyQ
 When ever creating an object we can do so in one of two ways
 
 1. Add everything in via the constructor
-    1. Example : `a = Album(artist"Taylor Swift", album_tilte="Red", genre="Country",album_logo="website\album_logo_ts.png")`
+   1. Example : `a = Album(artist"Taylor Swift", album_tilte="Red", genre="Country",album_logo="website\album_logo_ts.png")`
 2. Create a blank constructor and then add in manually via each attribute
 
 Regardless of which approach be sure to save your work : `object.save()`
@@ -29,10 +29,10 @@ Using our example we need to import before being able to import function
 
 ```python
 from music.models import Album, Song
-Album.ovjects.all()
+Album.objects.all()
 
 # this object is now in memory - passed everything in via constructor
-a = Album(artist"Taylor Swift", album_tilte="Red", genre="Country",album_logo="website\album_logo_ts.png")
+a = Album(artist="Taylor Swift", album_title="Red", genre="Country",album_logo="website\album_logo_ts.png")
 
 # saves the object into database
 a.save()
@@ -46,8 +46,12 @@ a.album_title
 # Auto gen from Djanog is the primary key/ID/UniqueID : expects 1
 a.id
 a.pk
+```
 
-# Alternatively you can populate the album via each attribute assignment
+Alternatively you can populate the album via each attribute assignment
+
+```python
+from music.models import Album, Song
 b = Album() # blank object without any attributes
 b.artist = "Myth"
 b.album_title = "High School"
