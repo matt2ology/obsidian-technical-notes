@@ -41,3 +41,11 @@ Now we have to run the SQL file
 ```powershell
 python manage.py migrate
 ```
+
+## Database API
+
+A special Django database API shell that will allow us to use database commands
+
+```powershell
+python manage.py shell
+```
