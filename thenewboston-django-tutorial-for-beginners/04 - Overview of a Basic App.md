@@ -1,7 +1,8 @@
 ---
 alias:
-- Django Tutorial for Beginners - 4 - Overview of a Basic App
+  - Django Tutorial for Beginners - 4 - Overview of a Basic App
 ---
+
 # Django Tutorial for Beginners - 4 - Overview of a Basic App
 
 Week 14.3 | Wednesday, April 05, 2023 | 07:32 PM
