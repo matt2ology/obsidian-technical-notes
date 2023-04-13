@@ -7,6 +7,7 @@ alias:
 Week 15.3 | Wednesday, April 12, 2023 | 11:58 PM
 
 From : [14 - Templates](14%20-%20Templates.md)
+
 Related :
 
 ## Special syntax when using Django in an HTML document

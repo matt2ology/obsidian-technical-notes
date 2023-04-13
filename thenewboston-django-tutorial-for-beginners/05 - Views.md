@@ -3,6 +3,7 @@
 Week 14.3 | Wednesday, April 05, 2023 | 09:22 PM
 
 Related : [thenewboston-django-tutorial-for-beginners](thenewboston-django-tutorial-for-beginners.md) - [Django Project Template File Explanation](Django%20Project%20Template%20File%20Explanation.md) - [Django App Template File Explanation](Django%20App%20Template%20File%20Explanation.md)
+
 Source : <https://youtu.be/nAn1KpPlN2w>
 
 When a user request anything from the website Django will project titled subfolder

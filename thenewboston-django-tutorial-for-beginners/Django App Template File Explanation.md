@@ -3,6 +3,7 @@
 Week 14.3 | Wednesday, April 05, 2023 | 09:18 PM
 
 From : [04 - Overview of a Basic App](04%20-%20Overview%20of%20a%20Basic%20App.md)
+
 Related : [Django Project Template File Explanation](Django%20Project%20Template%20File%20Explanation.md) - [\_\_init\_\_.py](__init__.py.md)
 
 ## New Django App Template File Explanation

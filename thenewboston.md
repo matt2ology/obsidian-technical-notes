@@ -3,6 +3,6 @@ alias:
 ---
 # thenewboston
 
-Related notes : [Tutorials](Tutorials.md)
+Related : [Tutorials](Tutorials.md)
 
 YouTube Channel : <https://www.youtube.com/@thenewboston>

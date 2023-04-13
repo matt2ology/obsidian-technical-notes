@@ -3,7 +3,9 @@
 Week 15.3 | Wednesday, April 12, 2023 | 07:02 PM
 
 Related : [thenewboston-django-tutorial-for-beginners](thenewboston-django-tutorial-for-beginners.md) - [14 - Templates](14%20-%20Templates.md) - [12 - Writing Another View](12%20-%20Writing%20Another%20View.md) - [09 - Database API](09%20-%20Database%20API.md)
+
 Reference : <https://www.w3schools.com/tags/att_a_href.asp>
+
 Source : <https://youtu.be/b0d09mYsORs>
 
 ## Connecting to the Database
