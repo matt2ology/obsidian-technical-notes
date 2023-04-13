@@ -12,3 +12,5 @@ related notes : [Django](../Django.md) - [Python](../Python.md) - [Web Developme
 8. [08 - Activating Models](08%20-%20Activating%20Models.md)
 9. [09 - Database API](09%20-%20Database%20API.md)
 10. [10 - Filtering Database Results](10%20-%20Filtering%20Database%20Results.md)
+11. [11 - Admin Interface](11%20-%20Admin%20Interface.md)
+12. [12 - Writing Another View](12%20-%20Writing%20Another%20View.md)
