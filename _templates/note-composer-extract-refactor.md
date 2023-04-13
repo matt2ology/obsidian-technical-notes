@@ -1,6 +1,11 @@
+---
+alias:
+---
+
 # {{newTitle}}
 
-from : [[{{fromTitle}}]]
+From : [[{{fromTitle}}]]
+Related : 
 
 {{date:[Week] WW.E}} | {{date:dddd, MMMM DD, YYYY}} | {{time:hh:mm A}}
 
