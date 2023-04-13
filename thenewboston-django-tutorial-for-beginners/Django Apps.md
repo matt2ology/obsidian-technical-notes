@@ -27,4 +27,4 @@ Think "Apps" as pages of the website where each app should do one thing (can be 
 - A profile page : `python manage.py startapp profile`
   - Can view a user's profile page
 - A music page : `python manage.py startapp music`
- - To play and download audio files
+  - To play and download audio files
