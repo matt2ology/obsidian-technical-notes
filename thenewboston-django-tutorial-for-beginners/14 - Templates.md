@@ -2,7 +2,7 @@
 
 Week 15.3 | Wednesday, April 12, 2023 | 07:46 PM
 
-Related : [thenewboston-django-tutorial-for-beginners](thenewboston-django-tutorial-for-beginners.md) - [13 - Connecting to the Database](13%20-%20Connecting%20to%20the%20Database.md) -
+Related : [thenewboston-django-tutorial-for-beginners](thenewboston-django-tutorial-for-beginners.md) - [13 - Connecting to the Database](13%20-%20Connecting%20to%20the%20Database.md) - [Special syntax when using Django in an HTML document](Special%20syntax%20when%20using%20Django%20in%20an%20HTML%20document.md)
 Source : <https://youtu.be/0HVwUQ0Ok7Y>
 GitHub permalink : [<!DOCTYPE html>](https://github.com/matt2ology/django-thenewboston/blob/2c6a54c3168c430dd57c4af39cf988b05d9ec20a/website/music/templates/music/index.html#L1-L22) - [def index(request: any) -> HttpResponse:](https://github.com/matt2ology/django-thenewboston/blob/2c6a54c3168c430dd57c4af39cf988b05d9ec20a/website/music/views.py#L6-L24)
 
@@ -53,7 +53,10 @@ return HttpResponse(TEMPLATE.render(CONTEXT, request))
 
 Now we need to pass in the information into the template.
 
-![Special syntax when using Django in an HTML document](Special%20syntax%20when%20using%20Django%20in%20an%20HTML%20document.md)
+## Special syntax when using Django in an HTML document
+
+-   When you need to use Python code you enclose your statements in `{% <CODE> %}`
+-   When using plain variables, values that can be placed "as-is", you use `{{ }}`
 
 Think on behalf of the user in the event there is nothing populated in the database have conditionals, so to have text on screen that the data is empty
 
