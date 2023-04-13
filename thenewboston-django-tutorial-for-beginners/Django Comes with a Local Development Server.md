@@ -1,8 +1,9 @@
-# [Django](Django.md) Comes with a Local Development Server
-
-from: [02 - Creating a Project](02%20-%20Creating%20a%20Project.md)
+# [Django](../Django.md) Comes with a Local Development Server
 
 Week 14.2 | Tuesday, April 04, 2023 | 03:08 AM
+
+From : [02 - Creating a Project](02%20-%20Creating%20a%20Project.md)
+Related :
 
 ## Django Local Development Server
 
