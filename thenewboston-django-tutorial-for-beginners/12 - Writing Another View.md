@@ -2,8 +2,8 @@
 
 Week 15.3 | Wednesday, April 12, 2023 | 05:51 PM
 
-related : [thenewboston-django-tutorial-for-beginners](thenewboston-django-tutorial-for-beginners.md) - [Regular expression](../Regular%20expression.md) - [13 - Connecting to the Database](13%20-%20Connecting%20to%20the%20Database.md)
-source : <https://youtu.be/mWofrhTwGWQ>
+Related : [thenewboston-django-tutorial-for-beginners](thenewboston-django-tutorial-for-beginners.md) - [Regular expression](../Regular%20expression.md) - [13 - Connecting to the Database](13%20-%20Connecting%20to%20the%20Database.md)
+Source : <https://youtu.be/mWofrhTwGWQ>
 
 ## Writing Another View - TL;DR
 

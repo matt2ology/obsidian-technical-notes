@@ -2,8 +2,8 @@
 
 Week 14.6 | Saturday, April 08, 2023 | 11:45 PM
 
-related : [thenewboston-django-tutorial-for-beginners](thenewboston-django-tutorial-for-beginners.md) - [09 - Database API](09%20-%20Database%20API.md)
-source : <https://youtu.be/GalTlEsOBdo>
+Related : [thenewboston-django-tutorial-for-beginners](thenewboston-django-tutorial-for-beginners.md) - [09 - Database API](09%20-%20Database%20API.md)
+Source : <https://youtu.be/GalTlEsOBdo>
 
 ## Filtering Database Results
 

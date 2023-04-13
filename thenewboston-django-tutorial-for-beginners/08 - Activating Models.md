@@ -2,9 +2,8 @@
 
 Week 14.5 | Friday, April 07, 2023 | 11:14 PM
 
-related : [thenewboston-django-tutorial-for-beginners](thenewboston-django-tutorial-for-beginners.md) - [07 - Creating Models](07%20-%20Creating%20Models.md) - [Updating Django Database Model](Updating%20Django%20Database%20Model.md)
-
-source : <https://youtu.be/dONYOtb2ySI>
+Related : [thenewboston-django-tutorial-for-beginners](thenewboston-django-tutorial-for-beginners.md) - [07 - Creating Models](07%20-%20Creating%20Models.md) - [Updating Django Database Model](Updating%20Django%20Database%20Model.md)
+Source : <https://youtu.be/dONYOtb2ySI>
 
 ## TL;DR
 
