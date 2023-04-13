@@ -6,7 +6,7 @@ Related : [thenewboston-django-tutorial-for-beginners](thenewboston-django-tutor
 
 Source : <https://youtu.be/RkBL9pAF8As>
 
-GitHub permalink :
+GitHub permalink : [def index(request: any) -> HttpResponse:](https://github.com/matt2ology/django-thenewboston/blob/139864863b7e42527311b3619e91c6cb14170e22/website/music/views.py#L26-L39)
 
 A quicker way to render a HTTP response
 
