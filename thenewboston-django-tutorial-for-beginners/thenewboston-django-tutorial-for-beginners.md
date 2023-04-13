@@ -14,3 +14,4 @@ related notes : [Django](../Django.md) - [Python](../Python.md) - [Web Developme
 10. [10 - Filtering Database Results](10%20-%20Filtering%20Database%20Results.md)
 11. [11 - Admin Interface](11%20-%20Admin%20Interface.md)
 12. [12 - Writing Another View](12%20-%20Writing%20Another%20View.md)
+13. [13 - Connecting to the Database](13%20-%20Connecting%20to%20the%20Database.md)
