@@ -8,6 +8,14 @@ Source : <https://youtu.be/0HVwUQ0Ok7Y>
 
 GitHub permalink : [<!DOCTYPE html>](https://github.com/matt2ology/django-thenewboston/blob/2c6a54c3168c430dd57c4af39cf988b05d9ec20a/website/music/templates/music/index.html#L1-L22) - [def index(request: any) -> HttpResponse:](https://github.com/matt2ology/django-thenewboston/blob/2c6a54c3168c430dd57c4af39cf988b05d9ec20a/website/music/views.py#L6-L24)
 
+## Templates - TL;DR
+
+1. Take a template and load it in
+    1. `TEMPLATE: object = loader.get_template('music/index.html')`
+2. Render the template
+    1. `return HttpResponse(TEMPLATE.render(CONTEXT, request))`
+    2. Renders Django items and converts it into regular plain HTML
+
 ## Templates
 
 Separating HTML code from backend Python code.
