@@ -2,7 +2,7 @@
 
 Week 14.3 | Wednesday, April 05, 2023 | 04:07 PM
 
-Related note : [thenewboston-django-tutorial-for-beginners](thenewboston-django-tutorial-for-beginners.md) - [Django Comes with a Local Development Server](Django%20Comes%20with%20a%20Local%20Development%20Server.md) - [Django Apps](Django%20Apps.md)
+Related : [thenewboston-django-tutorial-for-beginners](thenewboston-django-tutorial-for-beginners.md) - [Django Comes with a Local Development Server](Django%20Comes%20with%20a%20Local%20Development%20Server.md) - [Django Apps](Django%20Apps.md)
 Source : <https://youtu.be/4saN7GZnawU>
 
 Run the application in Windows cmd/PowerShell
