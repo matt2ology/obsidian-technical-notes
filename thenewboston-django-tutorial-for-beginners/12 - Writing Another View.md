@@ -14,12 +14,12 @@ path('<int:album_id>/', views.detail, name='detail'),
 ```
 
 1. Look for whatever URL the user typed in
-    1. `r'^(?P<album_id>[0-9]+)/$'`
-    2. `'<int:album_id>/'
+   1. `r'^(?P<album_id>[0-9]+)/$'`
+   2. `'<int:album_id>/'
 2. Connect it to the corresponding functions in the view.py file
-    1. `views.detail`
+   1. `views.detail`
 3. Give the path a name that matches the function in the view.py file
-    1. `name='detail'`
+   1. `name='detail'`
 
 ## Writing Another View
 
