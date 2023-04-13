@@ -1,10 +1,9 @@
 # New [Django](../Django.md) Project Template File Explanation
 
-from : [02 - Creating a Project](02%20-%20Creating%20a%20Project.md)
-
-related note : [Django App Template File Explanation](Django%20App%20Template%20File%20Explanation.md)
-
 Week 14.2 | Tuesday, April 04, 2023 | 03:02 AM
+
+From : [02 - Creating a Project](02%20-%20Creating%20a%20Project.md)
+Related : [Django App Template File Explanation](Django%20App%20Template%20File%20Explanation.md)
 
 ## Explanation of each file in parent website, "project", folder
 
