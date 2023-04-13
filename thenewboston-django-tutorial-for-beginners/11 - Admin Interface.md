@@ -2,7 +2,7 @@
 
 Week 15.1 | Monday, April 10, 2023 | 11:24 PM
 
-related : [thenewboston-django-tutorial-for-beginners](thenewboston-django-tutorial-for-beginners.md)
+related : [thenewboston-django-tutorial-for-beginners](thenewboston-django-tutorial-for-beginners.md) - [Regular expression](../Regular%20expression.md)
 source : https://youtu.be/Mjs1elH3Pdg
 
 Django already comes with an "admin" that affords one with special privileges, but before we can use it we must create it.
