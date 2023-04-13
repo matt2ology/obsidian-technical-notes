@@ -53,10 +53,7 @@ return HttpResponse(TEMPLATE.render(CONTEXT, request))
 
 Now we need to pass in the information into the template.
 
-Special syntax when using Django in an HTML document.
-
-- When you need to use Python code you enclose your statements in `{% <CODE> %}`
-- When using plain variables, values that can be placed "as-is", you use `{{ }}`
+![Special syntax when using Django in an HTML document](Special%20syntax%20when%20using%20Django%20in%20an%20HTML%20document.md)
 
 Think on behalf of the user in the event there is nothing populated in the database have conditionals, so to have text on screen that the data is empty
 
