@@ -1,7 +1,8 @@
 ---
 alias:
 ---
-# Updating Django Database Model
+
+# Updating [Django](../Django.md) Database Model
 
 Week 14.6 | Saturday, April 08, 2023 | 12:17 AM
 
