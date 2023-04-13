@@ -6,7 +6,7 @@ alias: Django Tutorial for Beginners - 6 - Database Setup
 
 Week 14.4 | Thursday, April 06, 2023 | 12:20 AM
 
-Related note : [thenewboston-django-tutorial-for-beginners](thenewboston-django-tutorial-for-beginners.md)
+Related : [thenewboston-django-tutorial-for-beginners](thenewboston-django-tutorial-for-beginners.md)
 Source : <https://youtu.be/IU3LbtbmXXI>
 
 Django comes with a default database in form of SQL Lite : `db.sqlite3`
