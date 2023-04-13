@@ -6,7 +6,7 @@ Related : [thenewboston-django-tutorial-for-beginners](thenewboston-django-tutor
 
 Source : <https://youtu.be/0HVwUQ0Ok7Y>
 
-GitHub permalink : [<!DOCTYPE html>](https://github.com/matt2ology/django-thenewboston/blob/2c6a54c3168c430dd57c4af39cf988b05d9ec20a/website/music/templates/music/index.html#L1-L22) - [def index(request: any) -> HttpResponse:](https://github.com/matt2ology/django-thenewboston/blob/2c6a54c3168c430dd57c4af39cf988b05d9ec20a/website/music/views.py#L6-L24)
+GitHub permalink : [<!DOCTYPE html>](https://github.com/matt2ology/django-thenewboston/blob/2c6a54c3168c430dd57c4af39cf988b05d9ec20a/website/music/templates/music/index.html#L1-L22) - [def index_old_long_way(request: any) -> HttpResponse:](https://github.com/matt2ology/django-thenewboston/blob/c612ad1439f30c48dcc4300ec202f6ad38515d40/website/music/views.py#L6-L24)
 
 ## Templates - TL;DR
 
