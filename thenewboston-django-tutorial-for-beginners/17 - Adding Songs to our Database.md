@@ -2,7 +2,7 @@
 
 Week 15.5 | Friday, April 14, 2023 | 09:43 AM
 
-Related : [thenewboston-django-tutorial-for-beginners](thenewboston-django-tutorial-for-beginners.md)
+Related : [thenewboston-django-tutorial-for-beginners](thenewboston-django-tutorial-for-beginners.md) - [18 - Related Objects Set](18%20-%20Related%20Objects%20Set.md)
 
 Source : <https://youtu.be/TnU_I8DKKYQ>
 
