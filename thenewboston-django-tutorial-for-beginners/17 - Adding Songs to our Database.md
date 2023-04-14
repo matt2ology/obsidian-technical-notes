@@ -9,6 +9,7 @@ Source : <https://youtu.be/TnU_I8DKKYQ>
 Adding songs to our database would require it to be associated to a database.
 
 Update the model
+
 ```python
 # website\music\admin.py
 from django.contrib import admin
