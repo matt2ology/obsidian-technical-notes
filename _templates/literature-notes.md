@@ -10,6 +10,4 @@ Source :
 
 Topics : 
 
-GitHub permalink :
-
 <!-- Takeaways and Inspirations -->
