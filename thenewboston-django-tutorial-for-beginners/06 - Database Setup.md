@@ -6,7 +6,7 @@ alias: Django Tutorial for Beginners - 6 - Database Setup
 
 Week 14.4 | Thursday, April 06, 2023 | 12:20 AM
 
-Related : [thenewboston-django-tutorial-for-beginners](thenewboston-django-tutorial-for-beginners.md)
+Related : [thenewboston-django-tutorial-for-beginners](thenewboston-django-tutorial-for-beginners.md) - [22 - Simple Form](22%20-%20Simple%20Form.md)
 
 Source : <https://youtu.be/IU3LbtbmXXI>
 

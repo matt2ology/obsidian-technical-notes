@@ -2,7 +2,7 @@
 
 Week 14.6 | Saturday, April 08, 2023 | 10:13 PM
 
-Related : [thenewboston-django-tutorial-for-beginners](thenewboston-django-tutorial-for-beginners.md) - [10 - Filtering Database Results](10%20-%20Filtering%20Database%20Results.md) - [13 - Connecting to the Database](13%20-%20Connecting%20to%20the%20Database.md)
+Related : [thenewboston-django-tutorial-for-beginners](thenewboston-django-tutorial-for-beginners.md) - [10 - Filtering Database Results](10%20-%20Filtering%20Database%20Results.md) - [13 - Connecting to the Database](13%20-%20Connecting%20to%20the%20Database.md) - [22 - Simple Form](22%20-%20Simple%20Form.md)
 
 Source : https://youtu.be/uYTiPwEGKyQ
 
