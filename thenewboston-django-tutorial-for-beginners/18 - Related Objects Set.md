@@ -16,6 +16,10 @@ Reference your album object, use `.song_set.create()`, and pass in all attribute
 
 for any operations with your table in you just need the Python class/table name from the models.py file in lower case with `\_set` appended and is followed by the `.` and a particular function like : `all()` or `count()`.
 
+```cli
+python manage.py shell
+```
+
 ```python
 # python manage.py shell
 from music.models import Album, Song
