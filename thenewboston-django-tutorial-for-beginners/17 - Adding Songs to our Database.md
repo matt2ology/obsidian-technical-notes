@@ -2,7 +2,7 @@
 
 Week 15.5 | Friday, April 14, 2023 | 09:43 AM
 
-Related : [thenewboston-django-tutorial-for-beginners](thenewboston-django-tutorial-for-beginners.md) - [18 - Related Objects Set](18%20-%20Related%20Objects%20Set.md)
+Related : [thenewboston-django-tutorial-for-beginners](thenewboston-django-tutorial-for-beginners.md) - [18 - Related Objects Set](18%20-%20Related%20Objects%20Set.md) - [08 - Activating Models](08%20-%20Activating%20Models.md)
 
 Source : <https://youtu.be/TnU_I8DKKYQ>
 
@@ -34,6 +34,20 @@ class Song(models.Model):
 
     def __str__(self):
         return self.song_title
+```
+
+But if you do
+
+```cli
+python manage.py makemigrations app_name
+python manage.py migrate
+```
+
+and my need to run in a shell to find out
+
+```python
+import datetime
+datetime.datetime.now()
 ```
 
 Now we can add songs to the Song table in the database
