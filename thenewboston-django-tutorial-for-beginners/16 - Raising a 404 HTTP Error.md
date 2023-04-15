@@ -2,7 +2,7 @@
 
 Week 15.4 | Thursday, April 13, 2023 | 12:34 AM
 
-Related : [thenewboston-django-tutorial-for-beginners](thenewboston-django-tutorial-for-beginners.md) - [21 - Namespace and HTTP 404 Shortcut](21%20-%20Namespace%20and%20HTTP%20404%20Shortcut.md)
+Related : [thenewboston-django-tutorial-for-beginners](thenewboston-django-tutorial-for-beginners.md) - [21 - Namespace and HTTP 404 Shortcut](21%20-%20Namespace%20and%20HTTP%20404%20Shortcut.md) - [20 - Removing Hardcoded URLs](20%20-%20Removing%20Hardcoded%20URLs.md)
 
 Source : <https://youtu.be/LLcAr3HS8qA>
 
