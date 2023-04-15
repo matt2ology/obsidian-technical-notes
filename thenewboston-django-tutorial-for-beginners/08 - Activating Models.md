@@ -2,7 +2,7 @@
 
 Week 14.5 | Friday, April 07, 2023 | 11:14 PM
 
-Related : [thenewboston-django-tutorial-for-beginners](thenewboston-django-tutorial-for-beginners.md) - [07 - Creating Models](07%20-%20Creating%20Models.md) - [Updating Django Database Model](Updating%20Django%20Database%20Model.md)
+Related : [thenewboston-django-tutorial-for-beginners](thenewboston-django-tutorial-for-beginners.md) - [07 - Creating Models](07%20-%20Creating%20Models.md) - [Updating Django Database Model](Updating%20Django%20Database%20Model.md) - [17 - Adding Songs to our Database](17%20-%20Adding%20Songs%20to%20our%20Database.md)
 
 Source : <https://youtu.be/dONYOtb2ySI>
 
