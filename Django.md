@@ -34,7 +34,7 @@ python manage.py startapp AppName
 
 ## Activating Django Database Models
 
-Update database with apps model.
+Make the changes by updating the database with apps model.
 
 ```sh
 python manage.py makemigrations app_name
@@ -44,11 +44,13 @@ python manage.py makemigrations app_name
 >
 > > `python manage.py sqlmigrate app_name 0001`
 
-Now we have to run the SQL file
+Now we have to run the SQL file to apply the changes
 
 ```powershell
 python manage.py migrate
 ```
+
+Any time changes are applied to the database you also need to restart the server `ctr-c` and then `python manage.py runserver`
 
 ## Database API
 
