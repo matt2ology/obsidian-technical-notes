@@ -2,7 +2,7 @@
 
 Week 15.3 | Wednesday, April 12, 2023 | 07:46 PM
 
-Related : [thenewboston-django-tutorial-for-beginners](thenewboston-django-tutorial-for-beginners.md) - [13 - Connecting to the Database](13%20-%20Connecting%20to%20the%20Database.md) - [Special syntax when using Django in an HTML document](Special%20syntax%20when%20using%20Django%20in%20an%20HTML%20document.md)
+Related : [thenewboston-django-tutorial-for-beginners](thenewboston-django-tutorial-for-beginners.md) - [13 - Connecting to the Database](13%20-%20Connecting%20to%20the%20Database.md) - [Special syntax when using Django in an HTML document](Special%20syntax%20when%20using%20Django%20in%20an%20HTML%20document.md) - [19 - Designing the Details Template](19%20-%20Designing%20the%20Details%20Template.md)
 
 Source : <https://youtu.be/0HVwUQ0Ok7Y>
 
