@@ -4,7 +4,7 @@ Week 15.5 | Friday, April 14, 2023 | 12:35 PM
 
 Related : [thenewboston-django-tutorial-for-beginners](thenewboston-django-tutorial-for-beginners.md) - [17 - Adding Songs to our Database](17%20-%20Adding%20Songs%20to%20our%20Database.md) - [13 - Connecting to the Database](13%20-%20Connecting%20to%20the%20Database.md)
 
-Source : <https://youtu.be/uvafEFi2bY4>
+Source : [Django Tutorial for Beginners - 18 - Related Objects Set](https://youtu.be/uvafEFi2bY4)
 
 ## Related Objects Set
 
