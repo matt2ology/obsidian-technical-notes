@@ -15,7 +15,7 @@ Related : [Django](../Django.md) - [Python](../Python.md) - [Web Development](..
 11. [11 - Admin Interface](11%20-%20Admin%20Interface.md)
 12. [12 - Writing Another View](12%20-%20Writing%20Another%20View.md)
 13. [13 - Connecting to the Database](13%20-%20Connecting%20to%20the%20Database.md)
-14. [14 - Templates](14%20-%20Templates.md)
+14. [14 - HTML Templates](14%20-%20HTML%20Templates.md)
 15. [15 - Render Template Shortcut](15%20-%20Render%20Template%20Shortcut.md)
 16. [16 - Raising a 404 HTTP Error](16%20-%20Raising%20a%20404%20HTTP%20Error.md)
 17. [17 - Adding Songs to our Database](17%20-%20Adding%20Songs%20to%20our%20Database.md)

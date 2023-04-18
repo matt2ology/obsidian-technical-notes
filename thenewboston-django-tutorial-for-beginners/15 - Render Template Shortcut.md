@@ -2,7 +2,7 @@
 
 Week 15.4 | Thursday, April 13, 2023 | 12:19 AM
 
-Related : [thenewboston-django-tutorial-for-beginners](thenewboston-django-tutorial-for-beginners.md) - [14 - Templates](14%20-%20Templates.md)
+Related : [thenewboston-django-tutorial-for-beginners](thenewboston-django-tutorial-for-beginners.md) - [14 - HTML Templates](14%20-%20HTML%20Templates.md)
 
 Source : <https://youtu.be/RkBL9pAF8As>
 

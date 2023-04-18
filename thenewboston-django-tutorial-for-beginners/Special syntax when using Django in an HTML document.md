@@ -6,7 +6,7 @@ alias:
 
 Week 15.3 | Wednesday, April 12, 2023 | 11:58 PM
 
-From : [14 - Templates](14%20-%20Templates.md)
+From : [14 - HTML Templates](14%20-%20HTML%20Templates.md)
 
 Related :
 
