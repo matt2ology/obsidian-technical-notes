@@ -2,7 +2,7 @@
 
 Week 15.7 | Sunday, April 16, 2023 | 12:22 AM
 
-Related : [thenewboston-django-tutorial-for-beginners](thenewboston-django-tutorial-for-beginners.md)
+Related : [thenewboston-django-tutorial-for-beginners](thenewboston-django-tutorial-for-beginners.md) - [26 - Navigation Menu](26%20-%20Navigation%20Menu.md)
 
 Source : [Django Tutorial for Beginners - 25 - Bootstrap and Static Files
 ](https://youtu.be/Dv15y5CgCyE) - [Link to static files](https://docs.djangoproject.com/en/dev/ref/templates/builtins/#std-templatetag-static) - [Bootstrap CDN Version 5.3](https://getbootstrap.com/docs/5.3/getting-started/download/#cdn-via-jsdelivr)
