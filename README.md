@@ -6,6 +6,6 @@ Using obsidian to manage note creation and note-link referencing : <https://obsi
 
 [Note Taking Workflow](_inbox/Note%20Taking%20Workflow.md)
 
-## [Tutorials](Tutorials.md)
+## [Tutorials and Guides](Tutorials%20and%20Guides.md)
 
 Online instructions and walkthroughs via an article or videos

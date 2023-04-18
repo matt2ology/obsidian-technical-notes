@@ -5,7 +5,7 @@ alias:
 
 # thenewboston
 
-Related : [Tutorials](Tutorials.md)
+Related : [Tutorials and Guides](Tutorials%20and%20Guides.md)
 
 YouTube Channel : <https://www.youtube.com/@thenewboston>
 
