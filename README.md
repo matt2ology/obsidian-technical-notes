@@ -9,3 +9,7 @@ Using obsidian to manage note creation and note-link referencing : <https://obsi
 ## [Tutorials and Guides](Tutorials%20and%20Guides.md)
 
 Online instructions and walkthroughs via an article or videos
+
+## Note Ideas
+
+1. Django - what's the difference between Templates and Views
