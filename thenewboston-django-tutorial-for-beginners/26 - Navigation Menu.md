@@ -2,14 +2,13 @@
 
 Week 16.1 | Monday, April 17, 2023 | 08:43 PM
 
-Related : [thenewboston-django-tutorial-for-beginners](thenewboston-django-tutorial-for-beginners.md) - [25 - Bootstrap and Static Files](25%20-%20Bootstrap%20and%20Static%20Files.md)
+Related : [thenewboston-django-tutorial-for-beginners](thenewboston-django-tutorial-for-beginners.md) - [25 - Bootstrap and Static Files](25%20-%20Bootstrap%20and%20Static%20Files.md) - [27 - Finishing the Navigation Menu](27%20-%20Finishing%20the%20Navigation%20Menu.md)
 
 Source : [Django Tutorial for Beginners - 26 - Navigation Menu
 ](https://youtu.be/HEPTgggsRgY)
 Topics : [Bootstrap](../Bootstrap.md)
 
 The benefit of using bootstrap comes with responsive web design.
-
 
 ## Navigation Menu Hamburger Icon
 
