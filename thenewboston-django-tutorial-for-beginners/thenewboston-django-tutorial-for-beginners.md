@@ -2,6 +2,8 @@
 
 Related : [Django](../Django.md) - [Python](../Python.md) - [Web Development](../Web%20Development.md)
 
+GitHub repository : [thenewboston - Learning Django](https://github.com/matt2ology/django-thenewboston)
+
 ## Tutorial Video Notes
 
 1. [01 - Installing Django](01%20-%20Installing%20Django.md)
