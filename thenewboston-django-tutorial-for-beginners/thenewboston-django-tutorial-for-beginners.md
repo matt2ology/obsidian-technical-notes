@@ -1,6 +1,6 @@
 # [thenewboston](thenewboston.md) - [Django Tutorials for Beginners](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK)
 
-Related : [Django](../Django.md) - [Python](../Python.md) - [Web Development](../Web%20Development.md)
+Topics : [Django](../Django.md) - [Python](../Python.md) - [Web Development](../Web%20Development.md)
 
 GitHub repository : [thenewboston - Learning Django](https://github.com/matt2ology/django-thenewboston)
 
