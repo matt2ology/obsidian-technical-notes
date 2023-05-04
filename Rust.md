@@ -11,7 +11,10 @@ Topic : [Programming Languages](Programming%20Languages.md)
 ## Set Up a "New Project"
 
 Navigate to desired directory and enter the following into the terminal:
-`cargo new title_of_new_project`
+
+```cli
+cargo new title_of_new_project
+```
 
 ## Rust Tool Chain Commands
 
