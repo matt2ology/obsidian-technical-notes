@@ -18,6 +18,7 @@ Online instructions and walkthroughs via an article or videos
 
 - [Introduction to Internet of Things, XEE100, Stanford School of Engineering](https://online.stanford.edu/courses/xee100-introduction-internet-things)
 - [React Tutorial: Tic-Tac-Toe](https://react.dev/learn/tutorial-tic-tac-toe)
+- [The Unix Shell - Summary and Setup](https://swcarpentry.github.io/shell-novice/)
 
 ## Blogs/Inspiration
 
@@ -29,3 +30,4 @@ Online instructions and walkthroughs via an article or videos
   how to smell a bad code and improve it with refactoring.
 
 - [Solarian Programmer - My programming ramblings](https://solarianprogrammer.com/)
+- [Software Carpentry - Teaching basic lab skills for resarch computing](https://software-carpentry.org/)
