@@ -20,6 +20,7 @@ Online instructions and walkthroughs via an article or videos
 - [React Tutorial: Tic-Tac-Toe](https://react.dev/learn/tutorial-tic-tac-toe)
 - [The Unix Shell - Summary and Setup](https://swcarpentry.github.io/shell-novice/)
 - [Tyler Smart](https://github.com/tjsmart) recommends [anthonywritescode](https://www.youtube.com/@anthonywritescode) for coding on YouTube - Functools Cache: [python: functools.lru_cache (beginner - intermediate) anthony explains #54 - YouTube](https://www.youtube.com/watch?v=K0Q5twtYxWY)
+- Take note that [Tyler Smart](https://github.com/tjsmart) recommends [Sphinx](https://pypi.org/project/Sphinx/) for documentation
 
 ## Blogs/Inspiration
 
