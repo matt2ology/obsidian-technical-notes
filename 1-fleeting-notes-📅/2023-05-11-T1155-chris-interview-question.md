@@ -13,7 +13,6 @@ Topics : [Python](../Python.md)
 ## Q : What does this do?
 
 ```python
-Q: What does this do?
 def with_mystery(p):
     def wrapper(fn):
         def closure(*args, **kwargs):
