@@ -19,6 +19,7 @@ Online instructions and walkthroughs via an article or videos
 - [Introduction to Internet of Things, XEE100, Stanford School of Engineering](https://online.stanford.edu/courses/xee100-introduction-internet-things)
 - [React Tutorial: Tic-Tac-Toe](https://react.dev/learn/tutorial-tic-tac-toe)
 - [The Unix Shell - Summary and Setup](https://swcarpentry.github.io/shell-novice/)
+- [Tyler Smart](https://github.com/tjsmart) recommends [anthonywritescode](https://www.youtube.com/@anthonywritescode) for coding on YouTube - Functools Cache: [python: functools.lru_cache (beginner - intermediate) anthony explains #54 - YouTube](https://www.youtube.com/watch?v=K0Q5twtYxWY)
 
 ## Blogs/Inspiration
 
