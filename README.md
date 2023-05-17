@@ -36,6 +36,6 @@ Online instructions and walkthroughs via an article or videos
 - [Neovim for Beginners — Source Code Control : Explore plugins for source code control and other interesting plugins](https://alpha2phi.medium.com/neovim-for-beginners-source-code-control-71139e4513a1)
 - [Watch "Avoid endless if-else statements with this Python Tip!!" on YouTube](https://youtube.com/shorts/UFdEp9wrtOY?feature=share)
 
-### Projects
+### Projects Backlog
 
 - [A Dungeon Master With A Thermal Printer | Hackaday](https://hackaday.com/2022/12/24/a-dungeon-master-with-a-thermal-printer/)
