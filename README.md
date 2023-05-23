@@ -39,4 +39,4 @@ Online instructions and walkthroughs via an article or videos
 ### Projects Backlog
 
 - [A Dungeon Master With A Thermal Printer | Hackaday](https://hackaday.com/2022/12/24/a-dungeon-master-with-a-thermal-printer/)
-- Penpal Tracker
+- [Penpal Recordkeeper](_inbox/Penpal%20Recordkeeper.md)
