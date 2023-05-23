@@ -51,7 +51,6 @@ cargo build
 ## Learning Resources
 
 1. <https://stevedonovan.github.io/rust-gentle-intro/readme.html>
-2. 
 
 ## Advent of Code
 
