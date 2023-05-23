@@ -48,6 +48,26 @@ cargo doc --open
 cargo build
 ```
 
+## Learning Resources
+
+1. <https://stevedonovan.github.io/rust-gentle-intro/readme.html>
+2. 
+
+## Advent of Code
+
+### 2021
+
+[`&mut` is a mutable reference to a value](https://doc.rust-lang.org/reference/expressions/reference-expr.html#mutable-references)
+[The `*` is a dereference operator](https://doc.rust-lang.org/reference/expressions/operator-expr.html#the-dereference-operator)
+[It's like a pointer in C or C++](https://www.geeksforgeeks.org/cpp-pointers/)
+    - [It's a reference to the value that the pointer points to](https://stackoverflow.com/questions/3730019/what-is-the-difference-between-a-pointer-variable-and-a-pointer)
+
+```rust
+fn increase_depth_counter(depth_counter: &mut i32) {
+    *depth_counter += 1;
+}
+```
+
 ## .gitignore
 
 ```md
