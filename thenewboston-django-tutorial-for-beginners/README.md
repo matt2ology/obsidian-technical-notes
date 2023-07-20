@@ -6,6 +6,8 @@ Repo : <https://github.com/matt2ology/django-thenewboston>
 
 Note Hub : [thenewboston-django-tutorial-for-beginners](thenewboston-django-tutorial-for-beginners.md)
 
+Related : [Django](../Django.md)
+
 At time of development, 2023-04-05, I'm using Python 3.11.2.
 
 The tutorial, thenewboston, uses Python 3.4.3
