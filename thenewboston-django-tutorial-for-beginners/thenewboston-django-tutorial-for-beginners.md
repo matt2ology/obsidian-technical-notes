@@ -33,3 +33,4 @@ GitHub repository : [thenewboston - Learning Django](https://github.com/matt2olo
 25. [25 - Bootstrap and Static Files](25%20-%20Bootstrap%20and%20Static%20Files.md)
 26. [26 - Navigation Menu](26%20-%20Navigation%20Menu.md)
 27. [27 - Finishing the Navigation Menu](27%20-%20Finishing%20the%20Navigation%20Menu.md)
+28. [28 - Creating a Base Template](28%20-%20Creating%20a%20Base%20Template.md)
