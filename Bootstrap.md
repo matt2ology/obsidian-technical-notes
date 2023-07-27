@@ -4,7 +4,7 @@ alias:
 
 # Bootstrap
 
-Related : [You Can Override Bootstrap Styles](thenewboston-django-tutorial-for-beginners/You%20Can%20Override%20Bootstrap%20Styles.md)
+Related : [You Can Override Bootstrap Styles](tutorials-and-guides/thenewboston-django-tutorial-for-beginners/You%20Can%20Override%20Bootstrap%20Styles.md)
 
 Topics : [CDN (Content Delivery Network)](CDN "Content Delivery Network") - [Frontend Framework](Frontend Framework)
 
