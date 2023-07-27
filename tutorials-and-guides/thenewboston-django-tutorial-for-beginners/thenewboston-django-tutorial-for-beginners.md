@@ -2,7 +2,7 @@
 
 #in-progress
 
-Topics : [Django](../Django.md) - [Python](../Python.md) - [Web Development](../Web%20Development.md)
+Topics : [Django](../../Django.md) - [Python](../../Python.md) - [Web Development](../../Web%20Development.md)
 
 GitHub repository : [thenewboston - Learning Django](https://github.com/matt2ology/django-thenewboston)
 

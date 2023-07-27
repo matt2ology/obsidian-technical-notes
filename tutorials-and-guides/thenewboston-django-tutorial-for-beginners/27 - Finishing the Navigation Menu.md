@@ -6,7 +6,7 @@ Related : [thenewboston-django-tutorial-for-beginners](thenewboston-django-tutor
 
 Source : [Django Tutorial for Beginners - 27 - Finishing the Navigation Menu](https://youtu.be/9S-jM3gpMkM)
 
-Topic : [Bootstrap](../Bootstrap.md)
+Topic : [Bootstrap](../../Bootstrap.md)
 
 ## Collapsing The Hamburger Menu Button In Navigation
 

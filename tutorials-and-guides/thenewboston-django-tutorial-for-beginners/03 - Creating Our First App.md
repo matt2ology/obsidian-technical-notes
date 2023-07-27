@@ -28,4 +28,4 @@ python manage.py startapp AppName
 
 Result of running `python manage.py runserver`
 
-![](Pasted%20image%2020230405165700.png)
+![](_image-attachments/Pasted%20image%2020230405165700.png)

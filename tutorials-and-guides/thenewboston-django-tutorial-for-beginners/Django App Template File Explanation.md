@@ -1,4 +1,4 @@
-# [Django](../Django.md) App Template File Explanation
+# [Django](../../Django.md) App Template File Explanation
 
 Week 14.3 | Wednesday, April 05, 2023 | 09:18 PM
 

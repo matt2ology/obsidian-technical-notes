@@ -2,7 +2,7 @@
 alias:
 ---
 
-# Special syntax when using [Django](../Django.md) in an HTML document
+# Special syntax when using [Django](../../Django.md) in an HTML document
 
 Week 15.3 | Wednesday, April 12, 2023 | 11:58 PM
 

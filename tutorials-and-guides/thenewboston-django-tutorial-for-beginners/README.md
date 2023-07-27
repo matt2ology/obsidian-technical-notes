@@ -4,7 +4,7 @@ Deploy with AWS : [AWS Core Development Guide](aws-core-deployment-guide.pdf)
 
 Note Hub : [thenewboston-django-tutorial-for-beginners](thenewboston-django-tutorial-for-beginners.md)
 
-Related : [Django](../Django.md)
+Related : [Django](../../Django.md)
 
 Repo : <https://github.com/matt2ology/django-thenewboston>
 
