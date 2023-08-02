@@ -1,5 +1,3 @@
-alias:
----
 # 01 - Installing on Windows
 
 Week 30.6 | Saturday, July 29, 2023 | 07:20 PM
