@@ -2,7 +2,7 @@
 alias:
 ---
 
-# thenewboston-nodejs-tutorial-for-beginners
+# thenewboston - Node.js Tutorial for Beginners
 
 Related : 
 
