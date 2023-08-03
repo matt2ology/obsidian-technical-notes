@@ -14,6 +14,14 @@ Week 14.3 | Wednesday, April 05, 2023 | 06:35 PM
  For books/tutorials make a "bibliographic" note that contains the book name/tutorial series
  - Name Convention : "\[author/channel name\] - \[title/tutorial series name\]"
 
+#### Video Tutorial/Series
+
+- One off videos are placed in folder : `2-literature-notes-📝`
+- Video series like tutorials/guides/talks have their own folder in the directory : `tutorials-and-guides`
+    - Each subfolder will have the following:
+        - A README serves as links to `Note Hub`, `Related` notes, the link to `Repo`sitory, and the major highlights/high level notes/key takeaways
+        - A `Note Hub`: the index to all notes taken of one video/specific topic
+
 ### For Conceptual/Philosophy/Process Kind of Materials
 
 Inspired by video : [morganeua - The FUN and EFFICIENT note-taking system I use in my PhD](https://youtu.be/L9SLlxaEEXY)
