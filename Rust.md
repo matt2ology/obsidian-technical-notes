@@ -18,31 +18,31 @@ cargo new title_of_new_project
 
 ## Rust Tool Chain Commands
 
-**Compile**:
+**Compile** : 🧑‍💻
 
 ```cli
 cargo build
 ```
 
-**Check code (but doesn't produce an executable)**:
+**Check code (but doesn't produce an executable)** : ✅
 
 ```cli
 cargo check
 ```
 
-**Compile and Run the Project**:
+**Compile and Run the Project** : 🧑‍💻🏃
 
 ```cli
 cargo run
 ```
 
-**Build documentation of all dependencies**:
+**Build documentation of all dependencies** : 📄
 
 ```cli
 cargo doc --open
 ```
 
-**Building for release**:
+**Building for release** : 📢
 
 ```cli
 cargo build
@@ -67,7 +67,7 @@ fn increase_depth_counter(depth_counter: &mut i32) {
 }
 ```
 
-## .gitignore
+## .gitignore 🤷
 
 ```md
 # RUST
