@@ -43,7 +43,7 @@ module.exports = function () {
 //nana.js - a user module
 var movies = require("./movies");
 var nanaMovies = movies();
-nanaMovies.favMovie = "Death Note"
+nanaMovies.favMovie = "Death Note";
 console.log("Nani's favorite movie is: " + nanaMovies.favMovie);
 // > Nani's favorite movie is: Death Note
 ```
@@ -52,7 +52,7 @@ console.log("Nani's favorite movie is: " + nanaMovies.favMovie);
 // popo.js - a user module
 var movies = require("./movies");
 var popoMovies = movies();
-nanaMovies.favMovie = "Your Name"
+nanaMovies.favMovie = "Your Name";
 console.log("Popo's favorite movie is: " + nanaMovies.favMovie);
 // > Popo's favorite movie is:
 ```
