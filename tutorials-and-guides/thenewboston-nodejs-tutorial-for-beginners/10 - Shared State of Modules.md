@@ -33,8 +33,8 @@ console.log("Nana's favorite movie is: " + movies.favMovie);
 // > Nana's favorite movie is: Death Note
 ```
 
-```js- a user module
-// popo.js
+```js
+// popo.js - a user module
 var movies = require("./movies");
 console.log("Popo's favorite movie is: " + movies.favMovie);
 // > Popo's favorite movie is:
