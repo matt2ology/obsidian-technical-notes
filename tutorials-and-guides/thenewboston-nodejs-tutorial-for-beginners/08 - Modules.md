@@ -2,7 +2,7 @@
 
 Week 31.4 | Thursday, August 03, 2023 | 11:26 PM
 
-Related : [09 - More on Modules](09%20-%20More%20on%20Modules.md)
+Related : [09 - More on Modules](09%20-%20More%20on%20Modules.md) - [12 - Core Modules](12%20-%20Core%20Modules.md)
 
 Source : https://www.youtube.com/watch?v=9JhvjhZLsEw&list=PL6gx4Cwl9DGBMdkKFn3HasZnnAqVjzHn_&index=8
 
