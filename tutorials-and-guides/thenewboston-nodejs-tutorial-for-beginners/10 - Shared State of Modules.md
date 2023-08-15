@@ -2,7 +2,7 @@
 
 Week 32.4 | Thursday, August 10, 2023 | 12:04 AM
 
-Related : [08 - Modules](08%20-%20Modules.md) - [09 - More on Modules](09%20-%20More%20on%20Modules.md) - [11 - Object Factory](11%20-%20Object%20Factory.md)
+Related : [thenewboston-nodejs-tutorial-for-beginners](thenewboston-nodejs-tutorial-for-beginners.md) - [08 - Modules](08%20-%20Modules.md) - [09 - More on Modules](09%20-%20More%20on%20Modules.md) - [11 - Object Factory](11%20-%20Object%20Factory.md)
 
 Source : [Node.js Tutorial for Beginners - 10 - Shared State of Modules](https://www.youtube.com/watch?v=Fo7IRCjrxMk&list=PL6gx4Cwl9DGBMdkKFn3HasZnnAqVjzHn_&index=10)
 

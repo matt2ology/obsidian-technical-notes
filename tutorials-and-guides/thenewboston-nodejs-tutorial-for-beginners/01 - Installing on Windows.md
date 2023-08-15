@@ -2,7 +2,7 @@
 
 Week 30.6 | Saturday, July 29, 2023 | 07:20 PM
 
-Related : 
+Related : [thenewboston-nodejs-tutorial-for-beginners](thenewboston-nodejs-tutorial-for-beginners.md)
 
 Source : https://www.youtube.com/watch?v=-u-j7uqU7sI&list=PL6gx4Cwl9DGBMdkKFn3HasZnnAqVjzHn_
 

@@ -2,7 +2,7 @@
 
 Week 32.1 | Monday, August 07, 2023 | 11:57 PM
 
-Related : [08 - Modules](08%20-%20Modules.md)
+Related : [thenewboston-nodejs-tutorial-for-beginners](thenewboston-nodejs-tutorial-for-beginners.md) - [08 - Modules](08%20-%20Modules.md)
 
 Source : https://www.youtube.com/watch?v=aNN1IKoEIdM&list=PL6gx4Cwl9DGBMdkKFn3HasZnnAqVjzHn_&index=9
 

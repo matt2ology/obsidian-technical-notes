@@ -2,7 +2,7 @@
 
 Week 31.3 | Wednesday, August 02, 2023 | 11:24 PM
 
-Related : 
+Related : [thenewboston-nodejs-tutorial-for-beginners](thenewboston-nodejs-tutorial-for-beginners.md)
 
 Source : https://www.youtube.com/watch?v=kNHrHSTYs1U&list=PL6gx4Cwl9DGBMdkKFn3HasZnnAqVjzHn_&index=5
 

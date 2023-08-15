@@ -2,7 +2,7 @@
 
 Week 32.4 | Thursday, August 10, 2023 | 11:49 PM
 
-Related : [Object Factory](../../Object%20Factory.md)
+Related : [thenewboston-nodejs-tutorial-for-beginners](thenewboston-nodejs-tutorial-for-beginners.md) - [Object Factory](../../Object%20Factory.md)
 
 Source : [Node.js Tutorial for Beginners - 11 - Object Factory](https://www.youtube.com/watch?v=foUHJo8ZTu0&list=PL6gx4Cwl9DGBMdkKFn3HasZnnAqVjzHn_&index=11)
 
