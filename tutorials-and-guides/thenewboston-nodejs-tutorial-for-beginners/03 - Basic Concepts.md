@@ -4,7 +4,7 @@ Week 31.2 | Tuesday, August 01, 2023 | 10:39 PM
 
 Related : [thenewboston-nodejs-tutorial-for-beginners](thenewboston-nodejs-tutorial-for-beginners.md)
 
-Source : https://www.youtube.com/watch?v=jiSFfpw3Btc&list=PL6gx4Cwl9DGBMdkKFn3HasZnnAqVjzHn_&index=3
+Source : [Node.js Tutorial for Beginners - 3 - Basic Concepts](https://www.youtube.com/watch?v=jiSFfpw3Btc&list=PL6gx4Cwl9DGBMdkKFn3HasZnnAqVjzHn_&index=3)
 
 When you make objects in Node.js is the same as one would do in Javascript.
 
