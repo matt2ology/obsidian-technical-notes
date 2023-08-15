@@ -4,7 +4,7 @@ Week 31.3 | Wednesday, August 02, 2023 | 11:24 PM
 
 Related : [thenewboston-nodejs-tutorial-for-beginners](thenewboston-nodejs-tutorial-for-beginners.md)
 
-Source : https://www.youtube.com/watch?v=kNHrHSTYs1U&list=PL6gx4Cwl9DGBMdkKFn3HasZnnAqVjzHn_&index=5
+Source : [Node.js Tutorial for Beginners - 5 - Understanding References to Objects](https://www.youtube.com/watch?v=kNHrHSTYs1U&list=PL6gx4Cwl9DGBMdkKFn3HasZnnAqVjzHn_&index=5)
 
 ## Everything is a reference
 
