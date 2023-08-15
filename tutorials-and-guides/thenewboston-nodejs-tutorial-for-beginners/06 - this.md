@@ -4,7 +4,7 @@ Week 31.3 | Wednesday, August 02, 2023 | 11:44 PM
 
 Related : [thenewboston-nodejs-tutorial-for-beginners](thenewboston-nodejs-tutorial-for-beginners.md)
 
-Source : https://www.youtube.com/watch?v=uiZxziF4Ol8&list=PL6gx4Cwl9DGBMdkKFn3HasZnnAqVjzHn_&index=6
+Source : [Node.js Tutorial for Beginners - 6 - this](https://www.youtube.com/watch?v=uiZxziF4Ol8&list=PL6gx4Cwl9DGBMdkKFn3HasZnnAqVjzHn_&index=6)
 
 When you see the keyword `this` refers to the object that called it
 
