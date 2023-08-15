@@ -13,8 +13,8 @@ In Node.js everything is a reference. `Person` is a reference to `Bucky` and so 
 
 ```js
 var Bucky = {
-    favFood: "bacon",
-    favMovie: "5 Centimeters per Second"
+  favFood: "bacon",
+  favMovie: "5 Centimeters per Second",
 };
 
 var Person = Buckey;
