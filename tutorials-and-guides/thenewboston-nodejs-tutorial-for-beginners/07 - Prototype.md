@@ -13,12 +13,12 @@ any number of instances with whatever different attributes.
 
 ```js
 function User() {
-    this.name = "";
-    this.life = 100;
-    this.giveLife = function giveLife(targetPlayer) {
-        targetPlayer.life += 1;
-        console.log(this.name + " gave 1 life to target " + targetPlayer.name);
-    }
+  this.name = "";
+  this.life = 100;
+  this.giveLife = function giveLife(targetPlayer) {
+    targetPlayer.life += 1;
+    console.log(this.name + " gave 1 life to target " + targetPlayer.name);
+  };
 }
 
 var Bucky = new User();
@@ -35,9 +35,9 @@ console.log("Wendy: " + Wendy.life);
 
 // You can add functions to all objects
 User.prototype.uppercut = function uppercut(targetPlayer) {
-    targetPlayer.life -= 1;
-    console.log(this.name + " uppercutted " + targetPlayer.name);
-}
+  targetPlayer.life -= 1;
+  console.log(this.name + " uppercutted " + targetPlayer.name);
+};
 
 Wendy.uppercut(Bucky);
 console.log("Bucky: " + Bucky.life);
