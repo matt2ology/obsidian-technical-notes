@@ -4,9 +4,9 @@ alias:
 
 # [thenewboston - Node.js Tutorial for Beginners](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBMdkKFn3HasZnnAqVjzHn_)
 
-Related : 
+Related :
 
-Topics :  [Node.js](Node.js) - [JavaScript](../../JavaScript.md)  - [Web Development](../../Web%20Development.md)
+Topics : [Node.js](Node.js) - [JavaScript](../../JavaScript.md) - [Web Development](../../Web%20Development.md)
 
 GitHub repository : [thenewboston - Node.js Beginners Tutorial](https://github.com/matt2ology/thenewboston-nodejs-beginners-tutorial)
 
