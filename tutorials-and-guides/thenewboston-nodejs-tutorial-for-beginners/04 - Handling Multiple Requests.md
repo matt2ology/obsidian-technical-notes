@@ -6,7 +6,7 @@ Related : [thenewboston-nodejs-tutorial-for-beginners](thenewboston-nodejs-tutor
 
 Source : https://www.youtube.com/watch?v=KsjrN-T3ZCs&list=PL6gx4Cwl9DGBMdkKFn3HasZnnAqVjzHn_&index=4
 
-When creating web apps where 
+When creating web apps where
 
 1. has to deal with real time data where speed is important
 2. a large volume of request
@@ -37,16 +37,16 @@ placeAnOrder(5)
 placeAnOrder(6)
 ```
 
-A `callback` is code that tells the server to be "called back" for more instructions to be 
-scheduled. When resources are made available or can be executed the function is then 
+A `callback` is code that tells the server to be "called back" for more instructions to be
+scheduled. When resources are made available or can be executed the function is then
 "called back" to perform task.
 
-Imagine a waitress waiting on other tables until "called back" to the kitchen to serve food to 
+Imagine a waitress waiting on other tables until "called back" to the kitchen to serve food to
 their respective tables.
 
-You can imagine that querying a database takes 5 seconds (some things just takes time) a 
-bunch of users try to connect to the database and instead 5 seconds for each user: we can 
-process all of the request at the same exact time and and then send back all of their data in 
+You can imagine that querying a database takes 5 seconds (some things just takes time) a
+bunch of users try to connect to the database and instead 5 seconds for each user: we can
+process all of the request at the same exact time and and then send back all of their data in
 the collective 5 seconds total.
 
 ```cli
