@@ -4,7 +4,7 @@ Week 31.4 | Thursday, August 03, 2023 | 11:26 PM
 
 Related : [thenewboston-nodejs-tutorial-for-beginners](thenewboston-nodejs-tutorial-for-beginners.md) - [09 - More on Modules](09%20-%20More%20on%20Modules.md) - [12 - Core Modules](12%20-%20Core%20Modules.md)
 
-Source : https://www.youtube.com/watch?v=9JhvjhZLsEw&list=PL6gx4Cwl9DGBMdkKFn3HasZnnAqVjzHn_&index=8
+Source : [Node.js Tutorial for Beginners - 8 - Modules](https://www.youtube.com/watch?v=9JhvjhZLsEw&list=PL6gx4Cwl9DGBMdkKFn3HasZnnAqVjzHn_&index=8)
 
 "Modules" groupings of similar JavaScript code; for example, a web app where a user could
 look at music, movies, and TV shows. All movie related code are broken up into its own file.
