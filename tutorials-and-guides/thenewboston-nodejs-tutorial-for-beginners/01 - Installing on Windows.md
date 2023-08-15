@@ -4,7 +4,7 @@ Week 30.6 | Saturday, July 29, 2023 | 07:20 PM
 
 Related : [thenewboston-nodejs-tutorial-for-beginners](thenewboston-nodejs-tutorial-for-beginners.md)
 
-Source : https://www.youtube.com/watch?v=-u-j7uqU7sI&list=PL6gx4Cwl9DGBMdkKFn3HasZnnAqVjzHn_
+Source : [Node.js Tutorial for Beginners - 1 - Installing on Windows](https://www.youtube.com/watch?v=-u-j7uqU7sI&list=PL6gx4Cwl9DGBMdkKFn3HasZnnAqVjzHn_)
 
 When making Node.js applications the framework will look for `app.js` first and run it.
 
