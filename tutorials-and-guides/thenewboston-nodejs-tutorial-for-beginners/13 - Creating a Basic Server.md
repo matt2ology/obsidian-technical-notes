@@ -2,7 +2,7 @@
 
 Week 33.1 | Monday, August 14, 2023 | 10:17 PM
 
-Related : [thenewboston-nodejs-tutorial-for-beginners](thenewboston-nodejs-tutorial-for-beginners.md)
+Related : [thenewboston-nodejs-tutorial-for-beginners](thenewboston-nodejs-tutorial-for-beginners.md) - [14 - Simple Web File Server](14%20-%20Simple%20Web%20File%20Server.md)
 
 Source : [Node.js Tutorial for Beginners - 13 - Creating a Basic Server](https://www.youtube.com/watch?v=pYOltVz7kL0&list=PL6gx4Cwl9DGBMdkKFn3HasZnnAqVjzHn_&index=13)
 
