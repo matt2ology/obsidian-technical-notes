@@ -32,8 +32,12 @@ Two pieces of information
 // server.js
 var http = require("http"); // Import the built-in Node.js module
 
+/**
+ * A function that handles requests and sends responses
+ * @param {*} request - The request object sent by the client to the server
+ * @param {*} response - The response object that the server sends back to the client
+ */
 function onRequest(request, response) {
-  // Create a function that handles requests and sends responses
   console.log("A user made a request" + request.url); // Print the request URL to the console
   // > A user made a request/
   // > A user made a request/favicon.ico
@@ -43,7 +47,8 @@ function onRequest(request, response) {
   response.end(); // End the response, so the browser knows to stop loading the page
 }
 
-http.createServer(onRequest).listen(8888); // Create a server that listens for traffic/user's request on port 8888
+// Create a server that listens for traffic/user's request on port 8888
+http.createServer(onRequest).listen(8888);
 console.log("Server has started");
 // > Prints "Server has started" to the console
 ```
