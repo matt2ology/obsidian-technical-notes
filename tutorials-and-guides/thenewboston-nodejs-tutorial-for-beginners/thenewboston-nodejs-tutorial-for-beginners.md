@@ -24,3 +24,8 @@ GitHub repository : [thenewboston - Node.js Beginners Tutorial](https://github.c
 10. [10 - Shared State of Modules](10%20-%20Shared%20State%20of%20Modules.md)
 11. [11 - Object Factory](11%20-%20Object%20Factory.md)
 12. [12 - Core Modules](12%20-%20Core%20Modules.md)
+13. [13 - Creating a Basic Server](13%20-%20Creating%20a%20Basic%20Server.md)
+14. [14 - Simple Web File Server](14%20-%20Simple%20Web%20File%20Server.md)
+15. [15 - Connect](15%20-%20Connect.md)
+16. [16 - Express](16%20-%20Express.md)
+17. [17 - Handling User Requests](17%20-%20Handling%20User%20Requests.md)
