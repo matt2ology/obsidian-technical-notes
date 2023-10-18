@@ -13,6 +13,7 @@ Online instructions and walkthroughs via an article or videos
 ## Note Ideas
 
 1. Django - what's the difference between Templates and Views
+2. What is the difference between a compiler and a transpiler?
 
 ## Blogs/Inspiration
 
