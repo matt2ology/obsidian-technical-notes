@@ -9,6 +9,6 @@ created-from: "[[{{fromTitle}}]]"
 ---
 # {{newTitle}}
 
-Related: 
+Related :
 
 {{content}}
