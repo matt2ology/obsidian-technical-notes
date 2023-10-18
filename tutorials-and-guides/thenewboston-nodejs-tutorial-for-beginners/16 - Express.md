@@ -1,10 +1,14 @@
+---
+source: https://www.youtube.com/watch?v=WH5qsGnFkBM&list=PL6gx4Cwl9DGBMdkKFn3HasZnnAqVjzHn_&index=16
+---
+
 # 16 - Express
 
 Week 33.3 | Wednesday, August 16, 2023 | 09:44 PM
 
 Related : [thenewboston-nodejs-tutorial-for-beginners](thenewboston-nodejs-tutorial-for-beginners.md) - [17 - Handling User Requests](17%20-%20Handling%20User%20Requests.md)
 
-Source : [Node.js Tutorial for Beginners - 16 - Express](https://www.youtube.com/watch?v=WH5qsGnFkBM&list=PL6gx4Cwl9DGBMdkKFn3HasZnnAqVjzHn_&index=16) - [Tutorial: Create a Node.js and Express app in Visual Studio](https://learn.microsoft.com/en-us/visualstudio/javascript/tutorial-nodejs?view=vs-2022)
+Additional Resources : [Tutorial: Create a Node.js and Express app in Visual Studio](https://learn.microsoft.com/en-us/visualstudio/javascript/tutorial-nodejs?view=vs-2022)
 
 Express one of the popular frameworks (i.e. the functionality and the folder structure) for
 Node.js
