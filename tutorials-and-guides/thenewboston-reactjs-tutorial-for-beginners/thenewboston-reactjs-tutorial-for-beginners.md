@@ -9,7 +9,7 @@ source: https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBuKtLgPR_zWYnrwv-JllpA
 
 Related : [thenewboston-nodejs-tutorial-for-beginners](../thenewboston-nodejs-tutorial-for-beginners/thenewboston-nodejs-tutorial-for-beginners.md)
 
-Topics : [React JS](React%20JS) - [JavaScript](../../JavaScript.md) - [Web Development](../../Web%20Development.md)
+Topics : [ReactJS](../../ReactJS.md) - [JavaScript](../../JavaScript.md) - [Web Development](../../Web%20Development.md)
 
 At the time of [thenewboston](../../thenewboston.md)'s development he is using React version 15.1.0
 
