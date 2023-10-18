@@ -1,7 +1,7 @@
 ---
-aliases:
-related-notes:
-note-hub: "[thenewboston-reactjs-tutorial-for-beginners](thenewboston-reactjs-tutorial-for-beginners.md)"
+aliases: 
+related-notes: 
+note-hub: "[[thenewboston-reactjs-tutorial-for-beginners]]"
 ---
 
 # README
