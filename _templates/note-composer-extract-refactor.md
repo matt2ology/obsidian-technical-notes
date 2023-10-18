@@ -6,8 +6,9 @@ long-form-date-created: "{{date:dddd, MMMM DD, YYYY}}"
 week-created: "{{date:[Week] WW.E}}"
 time-created: "{{time:hh:mm A}}"
 created-from: "[[{{fromTitle}}]]"
-related-notes:
 ---
 # {{newTitle}}
+
+Related: 
 
 {{content}}
