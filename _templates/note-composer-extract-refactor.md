@@ -1,13 +1,13 @@
 ---
-alias:
+aliases: 
+note-type: permanent
+date-created: "{{date:YYYY-MM-DD}}"
+long-form-date-created: "{{date:dddd, MMMM DD, YYYY}}"
+week-created: "{{date:[Week] WW.E}}"
+time-created: "{{time:hh:mm A}}"
+created-from: "[[{{fromTitle}}]]"
+related-notes:
 ---
-
 # {{newTitle}}
-
-From : [[{{fromTitle}}]]
-
-Related : 
-
-{{date:[Week] WW.E}} | {{date:dddd, MMMM DD, YYYY}} | {{time:hh:mm A}}
 
 {{content}}
