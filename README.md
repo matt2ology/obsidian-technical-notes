@@ -19,14 +19,6 @@ Online instructions and walkthroughs via an article or videos
 
 - [Maxime Cote](https://www.maximecote.me/)
 
-## Resources
-
-- [SourceMaking](https://sourcemaking.com/) : I will tell you a lot of stories about good software architecture and teach you how to create it with design patterns. I will guide you through anti-patterns, common pitfalls and mistakes that people make when they plan, create, and manage software projects. In the end, I will teach you
-  how to smell a bad code and improve it with refactoring.
-
-- [Solarian Programmer - My programming ramblings](https://solarianprogrammer.com/)
-- [Software Carpentry - Teaching basic lab skills for resarch computing](https://software-carpentry.org/)
-
 ## Courses, Tutorials, and New Learnings Backlog
 
 - [Introduction to Internet of Things, XEE100, Stanford School of Engineering](https://online.stanford.edu/courses/xee100-introduction-internet-things)
@@ -37,7 +29,15 @@ Online instructions and walkthroughs via an article or videos
 - [Neovim for Beginners — Source Code Control : Explore plugins for source code control and other interesting plugins](https://alpha2phi.medium.com/neovim-for-beginners-source-code-control-71139e4513a1)
 - [Watch "Avoid endless if-else statements with this Python Tip!!" on YouTube](https://youtube.com/shorts/UFdEp9wrtOY?feature=share)
 
-### Projects Backlog
+## Resources
+
+- [SourceMaking](https://sourcemaking.com/) : I will tell you a lot of stories about good software architecture and teach you how to create it with design patterns. I will guide you through anti-patterns, common pitfalls and mistakes that people make when they plan, create, and manage software projects. In the end, I will teach you
+  how to smell a bad code and improve it with refactoring.
+
+- [Solarian Programmer - My programming ramblings](https://solarianprogrammer.com/)
+- [Software Carpentry - Teaching basic lab skills for resarch computing](https://software-carpentry.org/)
+
+## Projects Backlog
 
 - [A Dungeon Master With A Thermal Printer | Hackaday](https://hackaday.com/2022/12/24/a-dungeon-master-with-a-thermal-printer/)
 - [Penpal Recordkeeper](project-ideas/Penpal%20Recordkeeper.md)
