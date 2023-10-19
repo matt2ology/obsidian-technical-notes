@@ -1,3 +1,8 @@
+---
+aliases:
+note-type: hub
+---
+
 # Python
 
 Topics : [Programming Languages](Programming%20Languages.md)
