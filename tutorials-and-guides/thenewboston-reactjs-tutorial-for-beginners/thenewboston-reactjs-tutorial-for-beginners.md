@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 note-type: hub
 github-repository: https://github.com/matt2ology/thenewboston-reactjs-beginners-tutorial
 source: https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBuKtLgPR_zWYnrwv-JllpA
