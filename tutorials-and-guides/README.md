@@ -1,3 +1,8 @@
+---
+aliases:
+  - Tutorials and Guides
+---
+
 # Tutorials and Guides
 
 ## Key
