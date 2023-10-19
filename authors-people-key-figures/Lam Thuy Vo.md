@@ -10,6 +10,8 @@ source: https://www.amazon.com/stores/author/B083DZ5V33/about
 
 # Lam Thuy Vo
 
+![Lam Thuy Vo Photo](https://m.media-amazon.com/images/I/71MsBP+i+dL._SX300_CR0%2C0%2C0%2C0_.jpg)
+
 Related :
 
 Lam Thuy Vo is a senior data reporter at BuzzFeed News where her area of expertise is the intersection of technology and society and social media data and where she's covered the spread of misinformation, hatred online, and platforms-related accountability.
