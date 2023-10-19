@@ -1,4 +1,4 @@
-# [thenewboston](thenewboston.md) - [Django Tutorials for Beginners](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK)
+# [thenewboston](../../authors-people-key-figures/thenewboston.md) - [Django Tutorials for Beginners](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK)
 
 #in-progress
 
