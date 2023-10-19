@@ -4,7 +4,7 @@
 
 ## Metadata
 
-- Author: [[Lam Thuy Vo]]
+- Author: [[../authors-people-key-figures/Lam Thuy Vo]]
 - Full Title: Mining Social Media
 - Category: #books
 
