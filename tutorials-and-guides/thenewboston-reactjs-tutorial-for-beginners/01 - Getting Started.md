@@ -19,7 +19,7 @@ write pure HTML within the file.
 When run in the browser. It won't know `JSX` it only "understands" JavaScript.
 To convert `JSX` to JavaScript we need to use a "transpiler".
 
-In the tutorial [Bucky Roberts](../../thenewboston.md) says to include `<script src="browser.min.js></script>"`
+In the tutorial [Bucky Roberts](../../authors-people-key-figures/thenewboston.md) says to include `<script src="browser.min.js></script>"`
 so we can transpile our JSX files to basic JavaScript. As of 2017 [`babel-core/browser.min.js` is deprecated](https://github.com/fullstackreact/30-days-of-react/issues/17)
 
 ## Installation
@@ -34,5 +34,5 @@ Today, as of 2023/10/17, React has been designed for gradual adoption from the s
 
 ### The old way
 
-At the time of the tutorial 2005/06/26 [Bucky Roberts](../../thenewboston.md) was using React version 15.1.0 where
+At the time of the tutorial 2005/06/26 [Bucky Roberts](../../authors-people-key-figures/thenewboston.md) was using React version 15.1.0 where
 both React and ReactDOM are available over a  [CDN](https://reactjs.org/docs/cdn-links.html). This is no longer recommended...
