@@ -11,7 +11,7 @@ Related : [thenewboston-nodejs-tutorial-for-beginners](../thenewboston-nodejs-tu
 
 Topics : [ReactJS](../../ReactJS.md) - [JavaScript](../../JavaScript.md) - [Web Development](../../Web%20Development.md)
 
-At the time of [thenewboston](../../thenewboston.md)'s development he is using React version 15.1.0
+At the time of [thenewboston](../../authors-people-key-figures/thenewboston.md)'s development he is using React version 15.1.0
 
 ## Tutorial Video Notes
 
