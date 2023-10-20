@@ -1,5 +1,6 @@
 ---
-alias:
+aliases:
+note-type: hub
 ---
 
 # Bootstrap
