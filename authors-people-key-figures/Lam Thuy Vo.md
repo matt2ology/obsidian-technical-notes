@@ -1,11 +1,12 @@
 ---
-aliases:
+aliases: 
 note-type: permanent
 date-created: 2023-10-19
 long-form-date-created: Thursday, October 19, 2023
 week-created: Week 42.4
 time-created: 01:22 PM
 source: https://www.amazon.com/stores/author/B083DZ5V33/about
+course: https://lamthuyvo.github.io/cuny2015-interactivejournalism/
 ---
 
 # Lam Thuy Vo
