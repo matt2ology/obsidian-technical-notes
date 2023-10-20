@@ -1,8 +1,15 @@
+---
+aliases:
+note-type: permanent
+date-created: 2023-04-05
+long-form-date-created: Wednesday, April 05, 2023
+week-created: Week 14.3
+time-created: 05:20 PM
+---
+
 # Making Python Requirements
 
 from : [PIP](PIP.md)
-
-Week 14.3 | Wednesday, April 05, 2023 | 05:20 PM
 
 You can also generate a Python requirements.txt file directly from the command line with:
 
