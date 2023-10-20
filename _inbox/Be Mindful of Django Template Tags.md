@@ -1,5 +1,10 @@
 ---
-alias:
+aliases: 
+note-type: permanent
+date-created: 2023-04-22
+long-form-date-created: Saturday, April 22, 2023
+week-created: Week 16.6
+time-created: 09:40 PM
 ---
 # Be Mindful of Django Template Tags
 
