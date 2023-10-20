@@ -10,6 +10,12 @@ Using obsidian to manage note creation and note-link referencing : <https://obsi
 
 [Note Taking Workflow](_inbox/Note%20Taking%20Workflow.md)
 
+## Areas of Interest
+
+- [Game Development](Game%20Development.md)
+- [Programming Languages](Programming%20Languages.md)
+- [Web Development](Web%20Development.md)
+
 ## [Tutorials and Guides](tutorials-and-guides/README.md)
 
 Online instructions and walkthroughs via an article or videos
@@ -22,16 +28,6 @@ Online instructions and walkthroughs via an article or videos
 ## Blogs/Inspiration
 
 - [Maxime Cote](https://www.maximecote.me/)
-
-## Courses, Tutorials, and New Learnings Backlog
-
-- [Introduction to Internet of Things, XEE100, Stanford School of Engineering](https://online.stanford.edu/courses/xee100-introduction-internet-things)
-- [React Tutorial: Tic-Tac-Toe](https://react.dev/learn/tutorial-tic-tac-toe)
-- [The Unix Shell - Summary and Setup](https://swcarpentry.github.io/shell-novice/)
-- [Tyler Smart](https://github.com/tjsmart) recommends [anthonywritescode](https://www.youtube.com/@anthonywritescode) for coding on YouTube - Functools Cache: [python: functools.lru_cache (beginner - intermediate) anthony explains #54 - YouTube](https://www.youtube.com/watch?v=K0Q5twtYxWY)
-- [Tyler Smart](https://github.com/tjsmart) recommends [Sphinx](https://pypi.org/project/Sphinx/) for documentation
-- [Neovim for Beginners — Source Code Control : Explore plugins for source code control and other interesting plugins](https://alpha2phi.medium.com/neovim-for-beginners-source-code-control-71139e4513a1)
-- [Watch "Avoid endless if-else statements with this Python Tip!!" on YouTube](https://youtube.com/shorts/UFdEp9wrtOY?feature=share)
 
 ## Resources
 
