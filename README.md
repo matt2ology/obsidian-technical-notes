@@ -42,4 +42,4 @@ Online instructions and walkthroughs via an article or videos
 - [A Dungeon Master With A Thermal Printer | Hackaday](https://hackaday.com/2022/12/24/a-dungeon-master-with-a-thermal-printer/)
 - [Penpal Recordkeeper](project-ideas/Penpal%20Recordkeeper.md)
 
-![July 19th, 2023 Obsidian note graph](readme-attachments/20230719222755-note-graph-view.png)
+![October 20th, 2023 Obsidian note graph](readme-attachments/202310200000-note-graph-view.png)
