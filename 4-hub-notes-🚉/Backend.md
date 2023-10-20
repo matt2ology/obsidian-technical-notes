@@ -6,7 +6,7 @@ note-type: hub
 
 # Backend
 
-Related : [Frontend](Frontend.md)
+Related : [Frontend](../4-hub-notes-🚉/Frontend.md)
 
 Topics : [Web Development](../Web%20Development.md)
 

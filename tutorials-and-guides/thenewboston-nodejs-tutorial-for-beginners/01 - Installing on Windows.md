@@ -50,9 +50,9 @@ Debug/run code in a browser versus just within the terminal
 
 ## Additional outputs and extra stuff when installing
 
-![](../../_inbox/Pasted%20image%2020230729195021.png)
+![](../../readme-attachments/Tools%20for%20NodeJS%20Native%20Modules%20Installation%20Script.png)
 
-![](../../_inbox/Pasted%20image%2020230729195335.png)
+![](../../readme-attachments/chocolatey-install-packages.png)
 
 ```
 Upgraded:
