@@ -7,7 +7,7 @@ note-type: hub
 
 Related : [You Can Override Bootstrap Styles](tutorials-and-guides/thenewboston-django-tutorial-for-beginners/You%20Can%20Override%20Bootstrap%20Styles.md)
 
-Topics : [CDN (Content Delivery Network)](CDN "Content Delivery Network") - [Frontend Framework](Frontend Framework)
+Topics : [CDN (Content Delivery Network)](<4-hub-notes-🚉/CDN%20(Content%20Delivery%20Network).md> "Content Delivery Network") - [Frontend Framework](Frontend Framework) - [Web Development](Web%20Development.md)
 
 Bootstrap is not just a design framework, but also comes with JavaScript functionality
 

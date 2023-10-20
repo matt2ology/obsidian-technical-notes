@@ -2,7 +2,7 @@
 
 Week 32.4 | Thursday, August 10, 2023 | 11:49 PM
 
-Related : [thenewboston-nodejs-tutorial-for-beginners](thenewboston-nodejs-tutorial-for-beginners.md) - [Object Factory](../../Object%20Factory.md)
+Related : [thenewboston-nodejs-tutorial-for-beginners](thenewboston-nodejs-tutorial-for-beginners.md) - [Object Factory](../../3-permanent-notes-🧲/Object%20Factory.md)
 
 Source : [Node.js Tutorial for Beginners - 11 - Object Factory](https://www.youtube.com/watch?v=foUHJo8ZTu0&list=PL6gx4Cwl9DGBMdkKFn3HasZnnAqVjzHn_&index=11)
 
@@ -12,7 +12,7 @@ module (as the default behavior for Node.js).
 Any time that we want to create a new object we need to export a function that creates a
 new object.
 
-An [object factory](../../Object%20Factory.md) is an object that creates another object.
+An [object factory](../../3-permanent-notes-🧲/Object%20Factory.md) is an object that creates another object.
 
 In past we had the following:
 

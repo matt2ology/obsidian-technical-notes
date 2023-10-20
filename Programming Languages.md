@@ -1,15 +1,15 @@
 ---
-alias: Programming Language
+aliases:
+  - Programming Language
+note-type: hub
 ---
 
 # Programming Languages
 
-Related :
+Related : [Programming language theory](Programming%20language%20theory)
 
 A placeholder note to help link ideas and notes.
 
-[JavaScript](JavaScript.md)
-
-[Python](Python.md)
-
-[Rust](Rust.md)
+- [JavaScript](JavaScript.md)
+- [Python](Python.md)
+- [Rust](Rust.md)

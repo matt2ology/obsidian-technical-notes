@@ -1,4 +1,10 @@
-# [thenewboston](https://www.youtube.com/@thenewboston)- [Django Tutorials for Beginners](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK)
+---
+aliases:
+  - "README - thenewboston: Django Tutorials for Beginners"
+note-type: readme
+---
+
+# README - [thenewboston](https://www.youtube.com/@thenewboston): [Django Tutorials for Beginners](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK)
 
 Deploy with AWS : [AWS Core Development Guide](aws-core-deployment-guide.pdf)
 

@@ -1,5 +1,8 @@
 ---
-alias:
+aliases:
+  - Video game development
+  - gamedev
+note-type: hub
 ---
 
 # Game Development

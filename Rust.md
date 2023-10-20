@@ -1,5 +1,7 @@
 ---
-alias: Rustlang
+aliases:
+  - Rustlang
+note-type: hub
 ---
 
 # Rust

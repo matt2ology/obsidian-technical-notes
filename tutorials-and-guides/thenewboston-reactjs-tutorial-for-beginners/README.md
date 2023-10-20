@@ -1,10 +1,12 @@
 ---
-aliases: 
-related-notes: 
-note-hub: "[[thenewboston-reactjs-tutorial-for-beginners]]"
+aliases:
+  - "README - thenewboston: React JS Tutorials for Beginners"
+note-type: readme
 ---
 
-# README
+# README - thenewboston: React JS Tutorials for Beginners
+
+Note hub : [thenewboston-reactjs-tutorial-for-beginners](thenewboston-reactjs-tutorial-for-beginners.md)
 
 Related :
 

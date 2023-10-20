@@ -1,6 +1,12 @@
-# [thenewboston](https://www.youtube.com/@thenewboston) - [Node.js Tutorials for Beginners](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBMdkKFn3HasZnnAqVjzHn_)
+---
+aliases:
+  - "README - thenewboston: Node.js Tutorials for Beginners"
+note-type: readme
+---
 
-Note Hub : [thenewboston-nodejs-tutorial-for-beginners](thenewboston-nodejs-tutorial-for-beginners.md)
+# README - [thenewboston](https://www.youtube.com/@thenewboston): [Node.js Tutorials for Beginners](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBMdkKFn3HasZnnAqVjzHn_)
+
+Note hub : [thenewboston-nodejs-tutorial-for-beginners](thenewboston-nodejs-tutorial-for-beginners.md)
 
 Related : [Web Development](../../Web%20Development.md)
 

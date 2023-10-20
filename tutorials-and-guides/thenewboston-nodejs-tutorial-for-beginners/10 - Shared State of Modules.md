@@ -63,5 +63,5 @@ require("./nana");
 // > Nana's favorite movie is: Death Note
 ```
 
-This is not optimal and use of [object factories](../../Object%20Factory.md) would allow each user, each module/script,
+This is not optimal and use of [object factories](../../3-permanent-notes-🧲/Object%20Factory.md) would allow each user, each module/script,
 their own copy of the imported module.
