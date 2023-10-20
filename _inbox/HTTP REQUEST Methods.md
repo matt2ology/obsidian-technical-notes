@@ -1,5 +1,10 @@
 ---
-alias:
+aliases:
+note-type: permanent
+date-created: 2023-08-15
+long-form-date-created: Tuesday, August 15, 2023
+week-created: Week 33.2
+time-created: 10:57 PM
 ---
 
 # HTTP REQUEST Methods
