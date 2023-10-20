@@ -10,4 +10,4 @@ Related : [Python](Python.md)
 
 Topics :
 
-[Making Python Requirements](Making%20Python%20Requirements.md)
+[Making Python Requirements](3-permanent-notes-🧲/Making%20Python%20Requirements.md)
