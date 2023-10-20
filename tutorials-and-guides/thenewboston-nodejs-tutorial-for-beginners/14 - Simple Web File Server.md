@@ -19,7 +19,7 @@ not yet exist (e.g. the about page, contacts page, careers page). A response for
 goes bad.
 
 The `request` object has information about what users want (e.g. a file).
-Also see [HTTP REQUEST Methods](../../_inbox/HTTP%20REQUEST%20Methods.md)
+Also see [HTTP REQUEST Methods](../../3-permanent-notes-🧲/HTTP%20REQUEST%20Methods.md)
 
 In order to send back HTML file we want to send back a "readable stream" because a basic
 response is just sent back in one chunk of text; however, HTML files change often and we
