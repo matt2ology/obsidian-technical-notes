@@ -1,9 +1,11 @@
 ---
 aliases:
   - Tutorials and Guides
+  - README - Tutorials and Guides
+note-type: hub
 ---
 
-# README - Tutorials and Guides
+# Tutorials and Guides
 
 ## Key
 
