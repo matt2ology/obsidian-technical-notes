@@ -7,9 +7,9 @@ tags:
 
 # Node.js
 
-Related : [ReactJS](../ReactJS.md)
+Related : [ReactJS](4-hub-notes-🚉/ReactJS.md)
 
-Topics : [JavaScript](../JavaScript.md) - [Web Development](../Web%20Development.md)
+Topics : [JavaScript](JavaScript.md) - [Web Development](4-hub-notes-🚉/Web%20Development.md)
 
 ## Tutorials
 

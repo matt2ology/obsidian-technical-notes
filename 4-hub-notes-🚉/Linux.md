@@ -7,6 +7,6 @@ tags:
 
 # Linux
 
-Related : [C Programming Language](C%20Programming%20Language) - [C++](C++) - [Rust](../Rust.md)
+Related : [C Programming Language](C%20Programming%20Language) - [C++](C++) - [Rust](4-hub-notes-🚉/Rust.md)
 
 Topics : [Operating Systems](Operating%20Systems) - [Linux Kernel](Linux%20Kernel)

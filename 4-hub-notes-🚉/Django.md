@@ -7,7 +7,7 @@ tags:
 
 # Django
 
-Related : [Python](Python.md) - [Web Development](Web%20Development.md)
+Related : [Python](4-hub-notes-🚉/Python.md) - [Web Development](4-hub-notes-🚉/Web%20Development.md)
 
 Initial start to creating a Django project - create the starter files
 
