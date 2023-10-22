@@ -11,7 +11,7 @@ author: Brian Ward
 
 Related : [Operating Systems](Operating%20Systems)
 
-Source : [Ward, Brian. How Linux Works, 3rd Edition: What Every Superuser Should Know (p. 2). No Starch Press. Kindle Edition.](../Readwise/How%20Linux%20Works.md)
+Source : [Ward-How Linux Works, 3rd Edition](../kindle-highlights/Ward-How%20Linux%20Works,%203rd%20Edition.md)
 
 Topics : [Linux](../4-hub-notes-🚉/Linux.md)
 
