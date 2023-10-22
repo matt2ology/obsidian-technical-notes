@@ -6,7 +6,7 @@ kindle-sync:
   asin: B07X7S1JMB
   lastAnnotatedDate: "2023-10-22"
   bookImageUrl: "https://m.media-amazon.com/images/I/81K+2pqDU-L._SY160.jpg"
-  highlightsCount: 2
+  highlightsCount: 5
 ---
 
 # How Linux Works, 3rd Edition
