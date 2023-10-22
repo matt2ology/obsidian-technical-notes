@@ -13,10 +13,10 @@ Using obsidian to manage note creation and note-link referencing : <https://obsi
 ## Areas of Interest
 
 - [Game Development](4-hub-notes-🚉/Game%20Development.md)
-- [Programming Languages](4-hub-notes-🚉/Programming%20Languages.md)
-- [Web Development](4-hub-notes-🚉/Web%20Development.md)
-- [Raspberry Pi](4-hub-notes-🚉/Raspberry%20Pi.md)
 - [Linux](4-hub-notes-🚉/Linux.md)
+- [Programming Languages](4-hub-notes-🚉/Programming%20Languages.md)
+- [Raspberry Pi](4-hub-notes-🚉/Raspberry%20Pi.md)
+- [Web Development](4-hub-notes-🚉/Web%20Development.md)
 
 ## [Tutorials and Guides](tutorials-and-guides/README.md)
 
