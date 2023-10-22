@@ -5,7 +5,7 @@ alias:
 
 Week 16.6 | Saturday, April 22, 2023 | 05:14 PM
 
-Related : [Bootstrap](../../Bootstrap.md) - [27 - Finishing the Navigation Menu](27%20-%20Finishing%20the%20Navigation%20Menu.md)
+Related : [Bootstrap](../../4-hub-notes-🚉/Bootstrap.md) - [27 - Finishing the Navigation Menu](27%20-%20Finishing%20the%20Navigation%20Menu.md)
 
 Order matters. You'd need to have the CND Bootstrap first and then your own style sheet after, so the styles are cascaded and prioritized top-down.
 

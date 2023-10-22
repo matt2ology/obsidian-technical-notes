@@ -1,4 +1,4 @@
-# New [Django](../../Django.md) Project Template File Explanation
+# New [Django](../../4-hub-notes-🚉/Django.md) Project Template File Explanation
 
 Week 14.2 | Tuesday, April 04, 2023 | 03:02 AM
 

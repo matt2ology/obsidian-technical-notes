@@ -7,7 +7,7 @@ note-type: permanent
 
 # PIP
 
-Related : [Python](Python.md)
+Related : [Python](../4-hub-notes-🚉/Python.md)
 
 Topics : [Package Management](Package%20Management)
 

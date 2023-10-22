@@ -10,6 +10,6 @@ tags:
 
 Related : [Backend](Backend.md)
 
-Topics : [Web Development](../Web%20Development.md)
+Topics : [Web Development](Web%20Development.md)
 
-- [ReactJS](../ReactJS.md)
+- [ReactJS](ReactJS.md)

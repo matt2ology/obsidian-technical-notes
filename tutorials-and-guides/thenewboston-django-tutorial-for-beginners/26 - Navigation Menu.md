@@ -6,7 +6,7 @@ Related : [thenewboston-django-tutorial-for-beginners](thenewboston-django-tutor
 
 Source : [Django Tutorial for Beginners - 26 - Navigation Menu
 ](https://youtu.be/HEPTgggsRgY)
-Topics : [Bootstrap](../../Bootstrap.md)
+Topics : [Bootstrap](../../4-hub-notes-🚉/Bootstrap.md)
 
 The benefit of using bootstrap comes with responsive web design.
 

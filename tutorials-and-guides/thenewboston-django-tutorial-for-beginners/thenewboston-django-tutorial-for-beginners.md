@@ -9,7 +9,7 @@ tutorial: https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1
 
 #in-progress
 
-Topics : [Django](../../Django.md) - [Python](../../Python.md) - [Web Development](../../Web%20Development.md)
+Topics : [Django](../../4-hub-notes-🚉/Django.md) - [Python](../../4-hub-notes-🚉/Python.md) - [Web Development](../../4-hub-notes-🚉/Web%20Development.md)
 
 GitHub repository : [thenewboston - Learning Django](https://github.com/matt2ology/django-thenewboston)
 

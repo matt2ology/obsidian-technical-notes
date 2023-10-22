@@ -12,10 +12,10 @@ Using obsidian to manage note creation and note-link referencing : <https://obsi
 
 ## Areas of Interest
 
-- [Game Development](Game%20Development.md)
-- [Programming Languages](Programming%20Languages.md)
-- [Web Development](Web%20Development.md)
-- [Raspberry Pi](Raspberry%20Pi.md)
+- [Game Development](4-hub-notes-🚉/Game%20Development.md)
+- [Programming Languages](4-hub-notes-🚉/Programming%20Languages.md)
+- [Web Development](4-hub-notes-🚉/Web%20Development.md)
+- [Raspberry Pi](4-hub-notes-🚉/Raspberry%20Pi.md)
 
 ## [Tutorials and Guides](tutorials-and-guides/README.md)
 
@@ -42,6 +42,5 @@ Online instructions and walkthroughs via an article or videos
 
 - [A Dungeon Master With A Thermal Printer | Hackaday](https://hackaday.com/2022/12/24/a-dungeon-master-with-a-thermal-printer/)
 - [Penpal Recordkeeper](project-ideas/Penpal%20Recordkeeper.md)
-
 
 ![October 20th, 2023 Obsidian note graph](readme-attachments/20231020000540-note-graph-view.png)

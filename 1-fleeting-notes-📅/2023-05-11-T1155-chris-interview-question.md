@@ -8,7 +8,7 @@ Related :
 
 Source :
 
-Topics : [Python](../Python.md)
+Topics : [Python](../4-hub-notes-🚉/Python.md)
 
 ## Q : What does this do?
 

@@ -1,4 +1,4 @@
-# [Django](../../Django.md) Comes with a Local Development Server
+# [Django](../../4-hub-notes-🚉/Django.md) Comes with a Local Development Server
 
 Week 14.2 | Tuesday, April 04, 2023 | 03:08 AM
 

@@ -10,6 +10,6 @@ tags:
 
 Related : [Frontend](../4-hub-notes-🚉/Frontend.md)
 
-Topics : [Web Development](../Web%20Development.md)
+Topics : [Web Development](Web%20Development.md)
 
-- [Django](../Django.md)
+- [Django](Django.md)

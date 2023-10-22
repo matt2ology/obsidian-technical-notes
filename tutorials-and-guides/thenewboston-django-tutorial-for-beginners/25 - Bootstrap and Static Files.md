@@ -7,7 +7,7 @@ Related : [thenewboston-django-tutorial-for-beginners](thenewboston-django-tutor
 Source : [Django Tutorial for Beginners - 25 - Bootstrap and Static Files
 ](https://youtu.be/Dv15y5CgCyE) - [Link to static files](https://docs.djangoproject.com/en/dev/ref/templates/builtins/#std-templatetag-static) - [Bootstrap CDN Version 5.3](https://getbootstrap.com/docs/5.3/getting-started/download/#cdn-via-jsdelivr)
 
-Topics : [Bootstrap](../../Bootstrap.md)
+Topics : [Bootstrap](../../4-hub-notes-🚉/Bootstrap.md)
 
 Including CSS into HTML templates.
 

@@ -9,7 +9,7 @@ tutorial: https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBMdkKFn3HasZnnAqVjzH
 
 Related : [thenewboston-reactjs-tutorial-for-beginners](../thenewboston-reactjs-tutorial-for-beginners/thenewboston-reactjs-tutorial-for-beginners.md)
 
-Topics : [Node.js](../../Node.js.md) - [JavaScript](../../JavaScript.md) - [Web Development](../../Web%20Development.md)
+Topics : [Node.js](../../4-hub-notes-🚉/Node.js.md) - [JavaScript](../../4-hub-notes-🚉/JavaScript.md) - [Web Development](../../4-hub-notes-🚉/Web%20Development.md)
 
 GitHub repository : [thenewboston - Node.js Beginners Tutorial](https://github.com/matt2ology/thenewboston-nodejs-beginners-tutorial)
 
