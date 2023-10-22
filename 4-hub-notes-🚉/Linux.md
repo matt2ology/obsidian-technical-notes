@@ -7,6 +7,13 @@ tags:
 
 # Linux
 
-Related : [C Programming Language](C%20Programming%20Language) - [C++](C++) - [Rust](4-hub-notes-🚉/Rust.md)
+Related : [C Programming Language](C%20Programming%20Language) - [C++](C++) - [Raspberry Pi](Raspberry%20Pi.md) - [Rust](4-hub-notes-🚉/Rust.md)
 
 Topics : [Operating Systems](Operating%20Systems) - [Linux Kernel](Linux%20Kernel)
+
+## Resources and Publications
+
+- <https://www.linuxinsider.com/>
+- <https://www.everydaylinuxuser.com/>
+- <https://distrowatch.com/>
+- <https://magpi.raspberrypi.com/>
