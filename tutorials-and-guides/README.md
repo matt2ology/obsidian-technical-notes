@@ -3,6 +3,8 @@ aliases:
   - Tutorials and Guides
   - README - Tutorials and Guides
 note-type: hub
+tags:
+  - hub
 ---
 
 # Tutorials and Guides
