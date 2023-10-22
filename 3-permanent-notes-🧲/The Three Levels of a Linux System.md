@@ -22,7 +22,7 @@ A Linux system has three main levels.
    2. Main Memory (RAM)
    3. Disks/Storage Devices
    4. Network Ports
-2. The [kernel](Linux%20Kernel) is the core of the [Operating System](Operating%20Systems) (i.e. Software/programs that make up the main functionalities of an operating system).
+2. The [kernel](Linux%20Kernel.md) is the core of the [Operating System](Operating%20Systems) (i.e. Software/programs that make up the main functionalities of an operating system).
    1. System Calls
    2. Process Management
    3. Memory Management
