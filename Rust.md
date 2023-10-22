@@ -1,12 +1,15 @@
 ---
 aliases:
   - Rustlang
+  - Rust Programming Language
 note-type: hub
+tags:
+  - hub
 ---
 
 # Rust
 
-Related :
+Related : [Linux](Linux.md)
 
 Topic : [Programming Languages](Programming%20Languages.md)
 

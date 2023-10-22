@@ -3,6 +3,8 @@ aliases:
   - Video game development
   - gamedev
 note-type: hub
+tags:
+  - hub
 ---
 
 # Game Development

@@ -1,6 +1,8 @@
 ---
 aliases: 
 note-type: hub
+tags:
+  - hub
 ---
 # {{title}}
 

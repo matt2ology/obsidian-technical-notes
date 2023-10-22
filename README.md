@@ -15,6 +15,7 @@ Using obsidian to manage note creation and note-link referencing : <https://obsi
 - [Game Development](Game%20Development.md)
 - [Programming Languages](Programming%20Languages.md)
 - [Web Development](Web%20Development.md)
+- [Raspberry Pi](Raspberry%20Pi.md)
 
 ## [Tutorials and Guides](tutorials-and-guides/README.md)
 

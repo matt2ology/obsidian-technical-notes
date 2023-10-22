@@ -2,6 +2,8 @@
 aliases:
   - Programming Language
 note-type: hub
+tags:
+  - hub
 ---
 
 # Programming Languages

@@ -2,6 +2,8 @@
 aliases:
   - Backend Framework
 note-type: hub
+tags:
+  - hub
 ---
 
 # Backend

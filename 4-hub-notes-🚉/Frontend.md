@@ -2,6 +2,8 @@
 aliases:
   - Frontend Framework
 note-type: hub
+tags:
+  - hub
 ---
 
 # Frontend
