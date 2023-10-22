@@ -24,13 +24,13 @@ The first edition included historical information that I removed later to improv
 
 The recommended book covers how the software we used evolved over time.
 
----
+### Chapter 1: The Big Picture
 
 The most effective way to understand how an operating system works is through abstraction—a fancy way of saying that you can ignore most of the details that make up a piece that you’re trying to understand, and concentrate instead on its basic purpose and operation. — location: [939](kindle://book?action=open&asin=B07X7S1JMB&location=939) ^ref-57434
 
 Can't see the forest for the trees... All too often one may get fixated on a particular component where in it of itself is a whole "process" and is distracted by this instead of understanding "just-enough" to continue the flow of understanding the system as a whole.
 
----
+#### 1.1 Levels and Layers of Abstraction in a Linux System
 
 The kernel is software residing in memory that tells the CPU where to look for its next task. Acting as a mediator, the kernel manages the hardware (especially main memory) and is the primary interface between the hardware and any running program. — location: [969](kindle://book?action=open&asin=B07X7S1JMB&location=969) ^ref-62147
 
