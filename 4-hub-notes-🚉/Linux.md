@@ -9,7 +9,7 @@ tags:
 
 Related : [C Programming Language](C%20Programming%20Language) - [C++](C++) - [Raspberry Pi](Raspberry%20Pi.md) - [Rust](4-hub-notes-🚉/Rust.md)
 
-Topics : [Operating Systems](Operating%20Systems) - [Linux Kernel](Linux%20Kernel)
+Topics : [Operating Systems](Operating%20Systems) - [Linux Kernel](../3-permanent-notes-🧲/Linux%20Kernel.md)
 
 [Canvas: Linux System](../Linux%20System.canvas)
 
