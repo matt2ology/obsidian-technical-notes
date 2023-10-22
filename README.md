@@ -16,6 +16,7 @@ Using obsidian to manage note creation and note-link referencing : <https://obsi
 - [Programming Languages](4-hub-notes-🚉/Programming%20Languages.md)
 - [Web Development](4-hub-notes-🚉/Web%20Development.md)
 - [Raspberry Pi](4-hub-notes-🚉/Raspberry%20Pi.md)
+- [Linux](4-hub-notes-🚉/Linux.md)
 
 ## [Tutorials and Guides](tutorials-and-guides/README.md)
 
