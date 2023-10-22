@@ -4,7 +4,7 @@
 
 ## Metadata
 
-- Author: [Brian Ward](Brian%20Ward)
+- Author: Brian Ward
 - Full Title: How Linux Works
 - Category: #books
 
