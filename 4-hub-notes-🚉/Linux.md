@@ -11,6 +11,10 @@ Related : [C Programming Language](C%20Programming%20Language) - [C++](C++) - [R
 
 Topics : [Operating Systems](Operating%20Systems) - [Linux Kernel](Linux%20Kernel)
 
+## Books
+
+- [How Linux Works](../Readwise/How%20Linux%20Works.md)
+
 ## Resources and Publications
 
 - <https://www.linuxinsider.com/>
