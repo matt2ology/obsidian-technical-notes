@@ -15,7 +15,7 @@ Topics : [Operating Systems](Operating%20Systems) - [Linux Kernel](../3-permanen
 
 ## Books
 
-- [How Linux Works](../Readwise/How%20Linux%20Works.md)
+- [Ward-How Linux Works, 3rd Edition](../kindle-highlights/Ward-How%20Linux%20Works,%203rd%20Edition.md)
 
 ## Resources and Publications
 
