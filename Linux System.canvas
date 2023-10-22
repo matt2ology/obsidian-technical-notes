@@ -2,8 +2,8 @@
 	"nodes":[
 		{"id":"eaaf6bf68350278d","type":"group","x":-636,"y":-1340,"width":290,"height":260,"label":"The Three Levels of a Linux System"},
 		{"id":"aff631b2fe66b2e7","type":"text","text":"Kernel","x":-616,"y":-1231,"width":250,"height":50},
-		{"id":"76ac9cd89db13c2f","type":"text","text":"Hardware","x":-616,"y":-1320,"width":250,"height":60},
-		{"id":"d57bec5f5d87a1d9","type":"text","text":"User Processes","x":-616,"y":-1160,"width":250,"height":60}
+		{"id":"76ac9cd89db13c2f","type":"text","text":"Hardware","x":-616,"y":-1160,"width":250,"height":60},
+		{"id":"d57bec5f5d87a1d9","type":"text","text":"User Processes","x":-616,"y":-1320,"width":250,"height":60}
 	],
 	"edges":[]
 }
