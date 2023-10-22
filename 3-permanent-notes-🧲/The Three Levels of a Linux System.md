@@ -18,9 +18,9 @@ Topics : [Linux](../4-hub-notes-🚉/Linux.md)
 A Linux system has three main levels.
 
 1. The _hardware_ level: implies all the "tangible" computer components that makes up the computer.
-   1. Processor (CPU)
-   2. Main Memory (RAM)
-   3. Disks/Storage Devices
+   1. Processor - Central Processing Unit (CPU)
+   2. Main Memory - Random Access Memory (RAM)
+   3. Disks/Storage Devices (i.e. Hard Disk Drives, Solid State Storage, tape drives, etc...)
    4. Network Ports
 2. The [kernel](Linux%20Kernel.md) is the core of the [Operating System](Operating%20Systems) (i.e. Software/programs that make up the main functionalities of an operating system).
    1. System Calls
