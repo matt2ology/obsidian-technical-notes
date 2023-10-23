@@ -52,4 +52,4 @@ User mode, in comparison, restricts access to a (usually quite small) subset of 
 
 Adhering to the "principle of least privilege" a user has accesses to a subset of memory and is allowed to execute safe CPU operations. If a user needs to have full access they may go into "Super User" mode. This way "critical" operations of the system and other elements are not affected by errors of the user.
 
----
+#### 1.2 Hardware: Understanding Main Memory
