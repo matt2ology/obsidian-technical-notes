@@ -6,7 +6,7 @@ kindle-sync:
   asin: B07X7S1JMB
   lastAnnotatedDate: "2023-10-23"
   bookImageUrl: "https://m.media-amazon.com/images/I/81K+2pqDU-L._SY160.jpg"
-  highlightsCount: 8
+  highlightsCount: 10
 ---
 
 # How Linux Works, 3rd Edition
@@ -55,3 +55,29 @@ User mode, in comparison, restricts access to a (usually quite small) subset of 
 Adhering to the "principle of least privilege" a user has accesses to a subset of memory and is allowed to execute safe CPU operations. If a user needs to have full access they may go into "Super User" mode. This way "critical" operations of the system and other elements are not affected by errors of the user.
 
 #### 1.2 Hardware: Understanding Main Memory
+
+A CPU is just an operator on memory; it reads its instructions and data from the memory and writes data back out to the memory. — location: [996](kindle://book?action=open&asin=B07X7S1JMB&location=996) ^ref-64624
+
+---
+
+[Process States](../_inbox/Process%20States.md)
+
+the term state in reference to memory, processes, the kernel, and other parts of a computer system. Strictly speaking, a state is a particular arrangement of bits. For example, if you have four bits in your memory, 0110, 0001, and 1011 represent three different states. — location: [997](kindle://book?action=open&asin=B07X7S1JMB&location=997) ^ref-17804
+
+---
+
+it’s common to refer to the state in abstract terms rather than to the actual bits, the term image refers to a particular physical arrangement of bits. — location: [1005](kindle://book?action=open&asin=B07X7S1JMB&location=1005) ^ref-47920
+
+---
+
+#### 1.3 The Kernel
+
+Nearly everything that the kernel does revolves around main memory. One of the kernel’s tasks is to split memory into many subdivisions, and it must maintain certain state information about those subdivisions at all times. Each process gets its own share of memory, and the kernel must ensure that each process keeps to its share. — location: [1008](kindle://book?action=open&asin=B07X7S1JMB&location=1008) ^ref-33161
+
+---
+
+The kernel is in charge of managing tasks in four general system areas: Processes The kernel is responsible for determining which processes are allowed to use the CPU. Memory The kernel needs to keep track of all memory—what is currently allocated to a particular process, what might be shared between processes, and what is free. Device drivers The kernel acts as an interface between hardware (such as a disk) and processes. It’s usually the kernel’s job to operate the hardware. System calls and support Processes normally use system calls to communicate with the kernel. — location: [1010](kindle://book?action=open&asin=B07X7S1JMB&location=1010) ^ref-62231
+
+- [Kernel four areas of system task management](../_inbox/Kernel%20four%20areas%20of%20system%20task%20management.md)
+
+---
