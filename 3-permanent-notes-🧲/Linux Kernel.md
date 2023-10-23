@@ -9,7 +9,7 @@ time-created: 01:17 AM
 
 # Linux Kernel
 
-Related :
+Related : [Linux](../4-hub-notes-🚉/Linux.md)
 
 The Linux kernel can run kernel threads, which look much like processes but have access to kernel space. Some examples are [kthreadd](kthreadd) and [kblock](kblock).
 
