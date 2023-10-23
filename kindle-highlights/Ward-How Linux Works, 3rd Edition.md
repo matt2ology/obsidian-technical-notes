@@ -60,7 +60,7 @@ A CPU is just an operator on memory; it reads its instructions and data from the
 
 ---
 
-[Process States](../_inbox/Process%20States.md)
+[Process States](../3-permanent-notes-🧲/Process%20States.md)
 
 the term state in reference to memory, processes, the kernel, and other parts of a computer system. Strictly speaking, a state is a particular arrangement of bits. For example, if you have four bits in your memory, 0110, 0001, and 1011 represent three different states. — location: [997](kindle://book?action=open&asin=B07X7S1JMB&location=997) ^ref-17804
 
@@ -78,6 +78,6 @@ Nearly everything that the kernel does revolves around main memory. One of the k
 
 The kernel is in charge of managing tasks in four general system areas: Processes The kernel is responsible for determining which processes are allowed to use the CPU. Memory The kernel needs to keep track of all memory—what is currently allocated to a particular process, what might be shared between processes, and what is free. Device drivers The kernel acts as an interface between hardware (such as a disk) and processes. It’s usually the kernel’s job to operate the hardware. System calls and support Processes normally use system calls to communicate with the kernel. — location: [1010](kindle://book?action=open&asin=B07X7S1JMB&location=1010) ^ref-62231
 
-- [Kernel four areas of system task management](../_inbox/Kernel%20four%20areas%20of%20system%20task%20management.md)
+- [Kernel four areas of system task management](../3-permanent-notes-🧲/Kernel%20four%20areas%20of%20system%20task%20management.md)
 
 ---
