@@ -11,6 +11,8 @@ time-created: 07:04 PM
 
 Related : [Kernel four areas of system task management](Kernel%20four%20areas%20of%20system%20task%20management.md) - [Linux Kernel](../3-permanent-notes-🧲/Linux%20Kernel.md) - [Process vs. Program](../3-permanent-notes-🧲/Process%20vs.%20Program.md) [Process States](Process%20States.md)
 
+Source : [CSC 139 Chapter 3 Slide 9](../readme-attachments/csus_csc139_herbert_g_mayer_chapter03_process.pdf)
+
 Is an "active", is alive, is a program in execution!
 
 A program becomes a process when the executable file is loaded into [memory](Memory.md) - ready to be
