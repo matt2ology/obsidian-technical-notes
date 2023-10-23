@@ -9,11 +9,11 @@ author: Brian Ward
 
 # The Three Levels of a Linux System
 
-Related : [Operating Systems](../4-hub-notes-🚉/Operating%20Systems.md)
+Related :
 
 Source : [Ward-How Linux Works, 3rd Edition](../kindle-highlights/Ward-How%20Linux%20Works,%203rd%20Edition.md)
 
-Topics : [Linux](../4-hub-notes-🚉/Linux.md)
+Topics : [Linux](../4-hub-notes-🚉/Linux.md) - [Operating Systems](../4-hub-notes-🚉/Operating%20Systems.md)
 
 A Linux system has three main levels.
 
