@@ -10,6 +10,8 @@ Using obsidian to manage note creation and note-link referencing : <https://obsi
 
 [Note Taking Workflow](_inbox/Note%20Taking%20Workflow.md)
 
+[Books I'm currently reading and have read](Books.md)
+
 ## Areas of Interest
 
 - [Game Development](4-hub-notes-🚉/Game%20Development.md)
