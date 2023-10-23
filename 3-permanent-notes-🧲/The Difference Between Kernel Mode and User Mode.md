@@ -9,7 +9,7 @@ time-created: 04:23 PM
 
 # The Difference Between Kernel Mode and User Mode
 
-Related : [Linux](../4-hub-notes-🚉/Linux.md) - [Linux Kernel](Linux%20Kernel.md)
+Related : [Linux](../4-hub-notes-🚉/Linux.md) - [Linux Kernel](Linux%20Kernel.md) - [Privilege Level](Privilege%20Level.md)
 
 Source : [Ward-How Linux Works, 3rd Edition](../kindle-highlights/Ward-How%20Linux%20Works,%203rd%20Edition.md)
 
