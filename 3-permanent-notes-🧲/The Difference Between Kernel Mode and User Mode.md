@@ -13,7 +13,7 @@ Related : [Linux](../4-hub-notes-🚉/Linux.md) - [Linux Kernel](Linux%20Kernel.
 
 Source : [Ward-How Linux Works, 3rd Edition](../kindle-highlights/Ward-How%20Linux%20Works,%203rd%20Edition.md)
 
-Topics : [Operating Systems](Operating%20Systems)
+Topics : [Operating Systems](../4-hub-notes-🚉/Operating%20Systems.md)
 
 The modes, kernel mode and user mode, serve different purposes and have different levels
 of privilege and access to system resources.
