@@ -4,9 +4,9 @@ kindle-sync:
   title: "How Linux Works, 3rd Edition: What Every Superuser Should Know"
   author: Brian Ward
   asin: B07X7S1JMB
-  lastAnnotatedDate: "2023-10-22"
+  lastAnnotatedDate: "2023-10-23"
   bookImageUrl: "https://m.media-amazon.com/images/I/81K+2pqDU-L._SY160.jpg"
-  highlightsCount: 5
+  highlightsCount: 8
 ---
 
 # How Linux Works, 3rd Edition
