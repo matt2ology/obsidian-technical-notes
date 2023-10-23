@@ -23,6 +23,11 @@ Professor Mayer is the professor who can make teaching Operating Systems fun and
 
 You are missed. You are remembered. Rest in Peace Herbert G. Mayer.
 
+## Books Published
+
+- [Programming in Modula-2: The Art and the Craft (ISBN-13 : 978-0023781605)](https://www.amazon.com/Programming-Modula-2-Herbert-G-Mayer/dp/0023781602?ref_=ast_author_dp)
+- [Advanced C Programming on the IBM PC (ISBN-13 : 978-0830691630)](https://www.amazon.com/Advanced-C-Programming-IBM-PC/dp/0830691634?ref_=ast_author_dp)
+
 ## [Obituary](https://greenvalleymortuary.com/obituaries/herbert-mayer)
 
 Herbert Georg Mayer
