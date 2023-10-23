@@ -11,6 +11,8 @@ kindle-sync:
 
 # How Linux Works, 3rd Edition
 
+Topics : [Linux](../4-hub-notes-🚉/Linux.md) - [Operating Systems](../4-hub-notes-🚉/Operating%20Systems.md)
+
 ## Metadata
 
 - Author: [Brian Ward](https://www.amazon.comundefined)
