@@ -8,7 +8,7 @@ time-created: 07:00 PM
 
 # Career Discussion with [Shankar Swamy](https://www.linkedin.com/in/shankarswamy/)
 
-Related : [Artificial Intelligence](Artificial%20Intelligence) - [Python](../4-hub-notes-🚉/Python.md)
+Related : [Artificial Intelligence](Artificial%20Intelligence) - [LeetCode](LeetCode) - [Python](../4-hub-notes-🚉/Python.md)
 
 Topics : [Career](Career)
 
