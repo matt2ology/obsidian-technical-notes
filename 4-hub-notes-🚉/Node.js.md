@@ -13,4 +13,4 @@ Topics : [JavaScript](JavaScript.md) - [Web Development](4-hub-notes-🚉/Web%20
 
 ## Tutorials
 
-- [thenewboston-nodejs-tutorial-for-beginners](tutorials-and-guides/thenewboston-nodejs-tutorial-for-beginners/thenewboston-nodejs-tutorial-for-beginners.md)
+- [thenewboston-nodejs-tutorial-for-beginners](../tutorials-guides-and-online-courses/thenewboston-nodejs-tutorial-for-beginners/thenewboston-nodejs-tutorial-for-beginners.md)

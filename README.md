@@ -20,7 +20,7 @@ Using obsidian to manage note creation and note-link referencing : <https://obsi
 - [Raspberry Pi](4-hub-notes-🚉/Raspberry%20Pi.md)
 - [Web Development](4-hub-notes-🚉/Web%20Development.md)
 
-## [Tutorials and Guides](tutorials-and-guides/README.md)
+## [Tutorials, Guides, and Online Courses](tutorials-guides-and-online-courses/README.md)
 
 Online instructions and walkthroughs via an article or videos
 

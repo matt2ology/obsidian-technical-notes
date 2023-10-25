@@ -7,7 +7,7 @@ tags:
 
 # Books
 
-Related : [Tutorials and Guides](../tutorials-and-guides/README.md)
+Related : [Tutorials and Guides](tutorials-guides-and-online-courses/README.md)
 
 ## Currently Reading
 
