@@ -13,7 +13,7 @@ Topics : [Computer Organization](Computer%20Organization.md)
 
 [February 19, 2014: PCI Express® Base Specification Revision 4.0 Version 0.3](https://astralvx.com/storage/2020/11/PCI_Express_Base_4.0_Rev0.3_February19-2014.pdf)
 
-2023-11-08 [Kritanjali Balakrishnan](Kritanjali%20Balakrishnan) recommends starting out with the following topics first
+2023-11-08 [Kritanjali Balakrishnan](../authors-people-key-figures/Kritanjali%20Balakrishnan.md) recommends starting out with the following topics first
 
 - INTRODUCTION
 - PHYSICAL LAYER SPECIFICATION
