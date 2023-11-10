@@ -7,7 +7,7 @@ tags:
 ---
 # PCIe 4.0
 
-Related : [PCI Express](PCI%20Express)
+Related : [PCI Express](PCI%20Express) - [Hardware](../Hardware.md)
 
 Topics : [Computer Organization](Computer%20Organization)
 
