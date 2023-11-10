@@ -7,9 +7,9 @@ tags:
 ---
 # PCIe 4.0
 
-Related : [PCI Express](PCI%20Express) - [Hardware](../Hardware.md)
+Related : [PCI Express](PCI%20Express.md) - [Hardware](../Hardware.md)
 
-Topics : [Computer Organization](Computer%20Organization)
+Topics : [Computer Organization](Computer%20Organization.md)
 
 [February 19, 2014: PCI Express® Base Specification Revision 4.0 Version 0.3](https://astralvx.com/storage/2020/11/PCI_Express_Base_4.0_Rev0.3_February19-2014.pdf)
 
