@@ -22,5 +22,5 @@ Have two terminals opened up with it's own node instance. The convention is that
 To set up two terminal instances (one left and one right) in your window
 
 1. 11520 is your baud rate?
-2. Left terminal Instance: screen /dev/ttyUSB0 115200 -S LOADER-A
+2. Left terminal Instance: `screen /dev/ttyUSB0 115200 -S LOADER-A`
 3. Right terminal Instance: `screen /dev/ttyUSB1 11520 -S LOADER-B`
