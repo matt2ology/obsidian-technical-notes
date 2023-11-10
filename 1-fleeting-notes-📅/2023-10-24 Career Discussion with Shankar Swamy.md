@@ -36,5 +36,5 @@ No matter what you do is to be good with Python.
 If you want to go into firmware dive into c or python. Learn Verilog to improve your chances
 especially if you're looking to stay in the hardware world.
 
-Practice [leetcode](https://leetcode.com/) be proficient in Python. There is always
-a demand for software developers.
+Practice [leetcode](https://leetcode.com/) be proficient in Python.
+There is always a demand for software developers.
