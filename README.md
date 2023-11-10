@@ -42,7 +42,7 @@ Online instructions and walkthroughs via an article or videos
   how to smell a bad code and improve it with refactoring.
 
 - [Solarian Programmer - My programming ramblings](https://solarianprogrammer.com/)
-- [Software Carpentry - Teaching basic lab skills for resarch computing](https://software-carpentry.org/)
+- [Software Carpentry - Teaching basic lab skills for research computing](https://software-carpentry.org/)
 
 ## Projects Backlog
 
