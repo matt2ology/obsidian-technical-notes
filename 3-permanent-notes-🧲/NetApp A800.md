@@ -15,7 +15,7 @@ Related : [Hardware](../4-hub-notes-🚉/Hardware.md)
 
 Topic : [NetApp](../4-hub-notes-🚉/NetApp.md)
 
-![NetApp - initial terminal screen loader setup](NetApp%20-%20initial%20terminal%20screen%20loader%20setup.md)
+[NetApp - initial terminal screen loader setup](NetApp%20-%20initial%20terminal%20screen%20loader%20setup.md)
 
 ## Keynotes, takeaways, and inspirations
 
