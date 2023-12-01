@@ -51,4 +51,4 @@ Online instructions and walkthroughs via an article or videos
 - [Penpal Recordkeeper](project-ideas/Penpal%20Recordkeeper.md)
 - [Printing with Pi Raspberry Pi Thermal Printer Fun](https://diyodemag.com/projects/printing_with_pi_raspberry_pi_thermal_printer_fun)
 
-![October 20th, 2023 Obsidian note graph](readme-attachments/20231020000540-note-graph-view.png)
+![October 20th, 2023 Obsidian note graph](attachments/20231020000540-note-graph-view.png)

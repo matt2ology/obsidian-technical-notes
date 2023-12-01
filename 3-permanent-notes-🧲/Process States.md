@@ -9,11 +9,11 @@ time-created: "02:06 AM"
 
 # Process States
 
-Created from : [[Ward-How Linux Works, 3rd Edition]]
+Created from : [Ward-How Linux Works, 3rd Edition](../kindle-highlights/Ward-How%20Linux%20Works,%203rd%20Edition.md)
 
 Related : [Processes](Processes.md)
 
-Source : [CSUS CSC 193 Chapter 3 Slide 11](../readme-attachments/csus_csc139_herbert_g_mayer_chapter03_process.pdf)
+Source : [CSUS CSC 193 Chapter 3 Slide 11](../attachments/csus_csc139_herbert_g_mayer_chapter03_process.pdf)
 
 Topics : [Operating System Principles](../4-hub-notes-🚉/Operating%20Systems.md)
 
