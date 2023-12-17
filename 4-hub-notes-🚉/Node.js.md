@@ -7,10 +7,6 @@ tags:
 
 # Node.js
 
-Related : [ReactJS](4-hub-notes-🚉/ReactJS.md)
+Related : [ReactJS](4-hub-notes-🚉/ReactJS.md) - [NodeJS Tutorials](../_inbox/NodeJS%20Tutorials.md)
 
 Topics : [JavaScript](JavaScript.md) - [Web Development](4-hub-notes-🚉/Web%20Development.md)
-
-## Tutorials
-
-- [thenewboston-nodejs-tutorial-for-beginners](../tutorials-guides-and-online-courses/thenewboston-nodejs-tutorial-for-beginners/thenewboston-nodejs-tutorial-for-beginners.md)
