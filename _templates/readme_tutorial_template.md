@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 note-type: readme
 date-created: "{{date:YYYY-MM-DD}}"
 long-form-date-created: "{{date:dddd, MMMM DD, YYYY}}"

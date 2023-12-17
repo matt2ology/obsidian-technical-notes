@@ -11,7 +11,7 @@ time-created: 09:17 PM
 
 Related : [Kernel four areas of system task management](Kernel%20four%20areas%20of%20system%20task%20management.md) - [Linux Kernel](Linux%20Kernel.md) - [Processes](Processes.md) - [User Space](User%20Space.md)
 
-Source : [CSC 139 - Operating System Principles - Chapter 3 - Process - slide 9](../readme-attachments/csus_csc139_herbert_g_mayer_chapter03_process.pdf)
+Source : [CSC 139 - Operating System Principles - Chapter 3 - Process - slide 9](../attachments/csus_csc139_herbert_g_mayer_chapter03_process.pdf)
 
 Topics : [Operating System Principles](../4-hub-notes-🚉/Operating%20Systems.md)
 
