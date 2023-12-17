@@ -8,7 +8,7 @@ note-type: readme
 
 Note hub : [thenewboston-nodejs-tutorial-for-beginners](thenewboston-nodejs-tutorial-for-beginners.md)
 
-Related : [Web Development](../../4-hub-notes-🚉/Web%20Development.md)
+Related : [Node.js](../../4-hub-notes-🚉/Node.js.md) - [Web Development](../../4-hub-notes-🚉/Web%20Development.md)
 
 Repo : https://github.com/matt2ology/thenewboston-nodejs-beginners-tutorial
 
