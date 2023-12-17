@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 note-type: hub
 tags:
   - hub
