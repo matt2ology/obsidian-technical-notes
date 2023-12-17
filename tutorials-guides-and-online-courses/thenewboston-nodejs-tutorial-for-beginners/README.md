@@ -10,7 +10,7 @@ Note hub : [thenewboston-nodejs-tutorial-for-beginners](thenewboston-nodejs-tuto
 
 Related : [Node.js](../../4-hub-notes-🚉/Node.js.md) - [Web Development](../../4-hub-notes-🚉/Web%20Development.md)
 
-Repo : https://github.com/matt2ology/thenewboston-nodejs-beginners-tutorial
+Repo : <https://github.com/matt2ology/thenewboston-nodejs-beginners-tutorial>
 
 At the time of development, 2023-07-29, Node.js is on version 18.17.0 LTS/v20.5.0 Current.
 
