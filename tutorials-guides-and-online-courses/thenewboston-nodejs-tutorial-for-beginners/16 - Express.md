@@ -27,7 +27,13 @@ or install with app/project name
 express myApp
 ```
 
-Navigate to "bin > www", run code, and by default localhost:3000 should display the webpage
+Navigate to "bin > www", run code, and by default
+
+```sh
+localhost:3000
+```
+
+should display the webpage
 
 ## Files explained
 
