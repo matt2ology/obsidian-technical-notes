@@ -56,7 +56,6 @@ Topics :
 - MATH 29 - Pre-Calculus Mathematics (4 Units)
 - MATH 30 - Calculus I (4 Units)
 - MATH 31 - Calculus II (4 Units)
-- MATH 35 - Introduction to Linear Algebra (3 Units) ⬅️ Planned
 - MATH 45 - Differential Equations for Science and Engineering (3 Units)
 - MATH 100 - Applied Linear Algebra (3 Units) ⬅️ Planned
 - MATH 101 - Combinatorics (3 Units)
