@@ -9,8 +9,7 @@ tags:
 
 # Tutorials and Guides
 
-Related : [Books](../Books.md) - [[../4-hub-notes-🚉/Academia]]
-
+Related : [Books](../Books.md) - [Academia](../4-hub-notes-🚉/Academia.md)
 ## Key
 
 - ✅ (check mark button) : Completed
