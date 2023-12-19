@@ -1,10 +1,10 @@
 ---
-aliases:
-note-type: permanent
-date-created: "2023-12-17"
-long-form-date-created: "Sunday, December 17, 2023"
-week-created: "Week 50.7"
-time-created: "03:11 PM"
+aliases: 
+note-type: hub
+date-created: 2023-12-17
+long-form-date-created: Sunday, December 17, 2023
+week-created: Week 50.7
+time-created: 03:11 PM
 ---
 
 # NodeJS Tutorials
