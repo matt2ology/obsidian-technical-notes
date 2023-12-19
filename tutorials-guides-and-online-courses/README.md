@@ -25,6 +25,30 @@ Items listed are in progress or forgotten about. Try not to have more than 3 ite
 2. [thenewboston-nodejs-tutorial-for-beginners](thenewboston-nodejs-tutorial-for-beginners/thenewboston-nodejs-tutorial-for-beginners.md) 🧑‍💻
 3. [thenewboston-reactjs-tutorial-for-beginners](thenewboston-reactjs-tutorial-for-beginners/thenewboston-reactjs-tutorial-for-beginners.md) 🧑‍💻
 
+## Note Creation Workflow - Course/Tutorial Series
+
+1. Make a new folder in current directory (i.e. `tutorials-guides-and-online-courses`)
+   with the convention of "author/channel-tutorialSeriesName" in kabab case
+   (e.g. `authorchannelName-rust-for-beginners`).
+2. In that folder, author/channel-tutorialSeriesName, create a `README` using
+   the [readme_tutorial_template](../_templates/readme_tutorial_template.md).
+   This will be all the will capture high level notes and key highlights to
+   encapsulate what I've learned in the tutorial series.
+3. Create a "hub note", [hub-notes](../_templates/hub-notes.md), with the same name as the folder
+   (author/channel-tutorialSeriesName). This note will serve as the "hub" for where I
+   reference other related notes, related topics, my GitHub repository where I followed along,
+   a link to the tutorial's playlist (if there is one), and index the notes created from
+   the tutorial series.
+4. All notes use the template [permanent-notes-video](../_templates/permanent-notes-video.md).
+   At the top, in the properties section, provide the link to the source of the video/guide
+
+From here any significant high level materials captured in the course's README is then
+"processed" into it's own higher-level more broader topic note; for example, if the course
+or tutorial was on React.JS all that course/tutorial series would "bubble-up" to the
+ReactJS note
+
+This process would continue until the notes are refined...
+
 ## Courses, Tutorials, and New Learnings Backlog
 
 - [Coursera: Computer Science - Computer Security and Networks - Stanford: Cryptography I - Instructor: Dan Boneh](https://www.coursera.org/learn/crypto) - Dr. Ted Krovetz Recommends
