@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 note-type: permanent
 date-created: 2023-12-18
 long-form-date-created: Monday, December 18, 2023
