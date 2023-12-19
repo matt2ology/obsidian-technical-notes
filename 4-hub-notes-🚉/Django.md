@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 note-type: hub
 tags:
   - hub
@@ -8,3 +8,8 @@ tags:
 # Django
 
 Related : [Python](4-hub-notes-🚉/Python.md) - [Web Development](4-hub-notes-🚉/Web%20Development.md)
+
+## Django Tutorials
+
+- [README - thenewboston: Django Tutorials for Beginners](../tutorials-guides-and-online-courses/thenewboston-django-tutorial-for-beginners/README.md)
+- [README - thenewboston: Pro Django Tutorials](../tutorials-guides-and-online-courses/thenewboston-pro-django-tutorials/README.md)
