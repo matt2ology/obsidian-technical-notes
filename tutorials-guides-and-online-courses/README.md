@@ -28,6 +28,8 @@ Items listed are in progress or forgotten about. Try not to have more than 3 ite
 
 ## Note Creation Workflow - Course/Tutorial Series
 
+Related: [Note Taking Workflow Draft](../_inbox/Note%20Taking%20Workflow%20Draft.md) <= TODO : Update and merge content into
+
 1. Make a new folder in current directory (i.e. `tutorials-guides-and-online-courses`)
    with the convention of "author/channel-tutorialSeriesName" in kabab case
    (e.g. `authorchannelName-rust-for-beginners`).
