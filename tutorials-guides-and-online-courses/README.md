@@ -22,10 +22,8 @@ Related : [Books](../Books.md) - [Academia](../4-hub-notes-🚉/Academia.md)
 
 Items listed are in progress or forgotten about. Try not to have more than 3 items active.
 
-1. [thenewboston - Django Tutorials for Beginners](thenewboston-django-tutorial-for-beginners/thenewboston-django-tutorial-for-beginners.md) ⏱️
-2. [thenewboston-nodejs-tutorial-for-beginners](thenewboston-nodejs-tutorial-for-beginners/thenewboston-nodejs-tutorial-for-beginners.md) 🧑‍💻
-3. [thenewboston-reactjs-tutorial-for-beginners](thenewboston-reactjs-tutorial-for-beginners/thenewboston-reactjs-tutorial-for-beginners.md) 🧑‍💻
-
+1. [thenewboston - Django Tutorials for Beginners](thenewboston-django-tutorial-for-beginners/thenewboston-django-tutorial-for-beginners.md) ⏱
+2. [thenewboston-pro-django-tutorials](thenewboston-pro-django-tutorials/thenewboston-pro-django-tutorials.md) ✅
 ## Note Creation Workflow - Course/Tutorial Series
 
 Related: [Note Taking Workflow Draft](../_inbox/Note%20Taking%20Workflow%20Draft.md) <= TODO : Update and merge content into
@@ -65,3 +63,5 @@ This process would continue until the notes are refined...
 - [Tyler Smart](https://github.com/tjsmart) recommends [anthonywritescode](https://www.youtube.com/@anthonywritescode) for coding on YouTube - Functools Cache: [python: functools.lru_cache (beginner - intermediate) anthony explains #54 - YouTube](https://www.youtube.com/watch?v=K0Q5twtYxWY)
 - [Tyler Smart](https://github.com/tjsmart) recommends [Sphinx](https://pypi.org/project/Sphinx/) for documentation
 - [Watch "Avoid endless if-else statements with this Python Tip!!" on YouTube](https://youtube.com/shorts/UFdEp9wrtOY?feature=share)
+- [thenewboston-nodejs-tutorial-for-beginners](thenewboston-nodejs-tutorial-for-beginners/thenewboston-nodejs-tutorial-for-beginners.md) 🚫
+- [thenewboston-reactjs-tutorial-for-beginners](thenewboston-reactjs-tutorial-for-beginners/thenewboston-reactjs-tutorial-for-beginners.md) 🚫
