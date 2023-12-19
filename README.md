@@ -39,7 +39,12 @@ Online instructions and walkthroughs via an article or videos
 
 ## Resources
 
-- [SourceMaking](https://sourcemaking.com/) : I will tell you a lot of stories about good software architecture and teach you how to create it with design patterns. I will guide you through anti-patterns, common pitfalls and mistakes that people make when they plan, create, and manage software projects. In the end, I will teach you
+- [SourceMaking](https://sourcemaking.com/) : I will tell
+  you a lot of stories about good software architecture and
+  teach you how to create it with design patterns. I will
+  guide you through anti-patterns, common pitfalls and
+  mistakes that people make when they plan, create, and
+  manage software projects. In the end, I will teach you
   how to smell a bad code and improve it with refactoring.
 
 - [Solarian Programmer - My programming ramblings](https://solarianprogrammer.com/)
