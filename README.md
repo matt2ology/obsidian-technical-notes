@@ -8,7 +8,7 @@ A collection and repository of all technical notes to reference and locate/recal
 
 Using obsidian to manage note creation and note-link referencing : <https://obsidian.md/>
 
-[Note Taking Workflow](_inbox/Note%20Taking%20Workflow.md)
+[Note Taking Workflow Draft](_inbox/Note%20Taking%20Workflow%20Draft.md)
 
 [Books I'm currently reading](Books.md)
 
