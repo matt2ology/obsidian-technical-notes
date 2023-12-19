@@ -14,3 +14,6 @@ Note hub :
 Related :
 
 Repo :
+
+This will be all the will capture high level notes and key highlights to
+encapsulate what I've learned in the tutorial series.
