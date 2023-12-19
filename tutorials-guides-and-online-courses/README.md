@@ -36,6 +36,7 @@ Related: [Note Taking Workflow Draft](../_inbox/Note%20Taking%20Workflow%20Draft
    the [readme_tutorial_template](../_templates/readme_tutorial_template.md).
    This will be all the will capture high level notes and key highlights to
    encapsulate what I've learned in the tutorial series.
+   1. `aliases`: README - tutorial folder name
 3. Create a "hub note", [hub-notes](../_templates/hub-notes.md), with the same name as the folder
    (author/channel-tutorialSeriesName). This note will serve as the "hub" for where I
    reference other related notes, related topics, my GitHub repository where I followed along,
