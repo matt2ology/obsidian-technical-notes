@@ -16,7 +16,7 @@ Source :
 - [Fireship: Test-Driven Development // Fun TDD Introduction with JavaScript](https://www.youtube.com/watch?v=Jv2uxzhPFl4&ab_channel=Fireship)
 - Previous video - [Fireship: Software Testing Explained in 100 Seconds](https://www.youtube.com/watch?v=u6QfIXgjwGQ&ab_channel=Fireship)
 
-Topics : [Test Driven Development](Test%20Driven%20Development)
+Topics : [Test Driven Development](../3-permanent-notes-🧲/Test%20Driven%20Development.md)
 
 ## Why Test?
 
@@ -63,7 +63,7 @@ There are other terms that are used when talking about testing.
   (i.e. make sure the software meets assumptions and expectations)
 - [System Testing](System%20Testing): Works on real hardware
   (i.e. does it work on the targeted computer/server/platform)
-- [Sanity Testing](Sanity%20Testing)/[Smoke Tests](../_inbox/Sanity%20Testing.md): on large
+- [Sanity Testing](../3-permanent-notes-🧲/Sanity%20Testing.md)/[Smoke Tests](../3-permanent-notes-🧲/Sanity%20Testing.md): on large
   application you may have thousands of tests to run and may take a long time,
   delaying everyone else's work, so we prioritize the most important tests
   first to make sure the app is still functional before the rest of the test suite.
