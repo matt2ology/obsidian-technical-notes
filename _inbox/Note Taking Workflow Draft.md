@@ -21,7 +21,7 @@ For books/tutorials make a "bibliographic" note that contains the book name/tuto
 - One off videos are placed in folder : `2-literature-notes-📝`
 - Video series like tutorials/guides/talks have their own folder in the directory : `tutorials-and-guides`
   - Each subfolder will have the following:
-    - A README serves as links to `Note Hub`, `Related` notes, the link to `Repo`sitory, and the major highlights/high level notes/key takeaways
+    - A README serves as links to `Note Hub`, `Related` notes, the link to `Repository`, and the major highlights/high level notes/key takeaways
     - A `Note Hub`: the index to all notes taken of one video/specific topic
 
 ### For Conceptual/Philosophy/Process Kind of Materials
