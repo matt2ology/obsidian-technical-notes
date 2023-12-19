@@ -6,7 +6,7 @@ Related : [thenewboston-nodejs-tutorial-for-beginners](thenewboston-nodejs-tutor
 
 Source : [Node.js Tutorial for Beginners - 3 - Basic Concepts](https://www.youtube.com/watch?v=jiSFfpw3Btc&list=PL6gx4Cwl9DGBMdkKFn3HasZnnAqVjzHn_&index=3)
 
-When you make objects in Node.js is the same as one would do in Javascript.
+When you make objects in Node.js is the same as one would do in JavaScript.
 
 Any Node.js codes runs in the server until stopped.
 
