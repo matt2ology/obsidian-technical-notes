@@ -24,6 +24,7 @@ Items listed are in progress or forgotten about. Try not to have more than 3 ite
 
 1. [thenewboston - Django Tutorials for Beginners](thenewboston-django-tutorial-for-beginners/thenewboston-django-tutorial-for-beginners.md) ⏱
 2. [thenewboston-pro-django-tutorials](thenewboston-pro-django-tutorials/thenewboston-pro-django-tutorials.md) ✅
+
 ## Note Creation Workflow - Course/Tutorial Series
 
 Related: [Note Taking Workflow Draft](../_inbox/Note%20Taking%20Workflow%20Draft.md) <= TODO : Update and merge content into
