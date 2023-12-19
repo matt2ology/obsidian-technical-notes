@@ -14,7 +14,11 @@ Topics : [Django](../../4-hub-notes-🚉/Django.md) - [Python](../../4-hub-notes
 
 ## Tutorial Video Notes
 
-1. [Pro Django - Tutorial 01 - Project Structure, Poetry, Makefile, and Settings Management](Pro%20Django%20-%20Tutorial%2001%20-%20Project%20Structure,%20Poetry,%20Makefile,%20and%20Settings%20Management) - 1:40:24
+Covering structure and code organization, managing dependencies, settings
+across multiple environments, linting, testing, logging, dockerization,
+deployment, and general application and business logic.
+
+1. [Pro Django - Tutorial 01 - Project Structure, Poetry, Makefile, and Settings Management](Pro%20Django%20-%20Tutorial%2001%20-%20Project%20Structure,%20Poetry,%20Makefile,%20and%20Settings%20Management.md) - 1:40:24
 2. [Pro Django - Tutorial 02 - Editor Config, Flake8, and pre-commit](Pro%20Django%20-%20Tutorial%2002%20-%20Editor%20Config,%20Flake8,%20and%20pre-commit) - 31:25
 3. [Pro Django - Tutorial 03 - Logging](Pro%20Django%20-%20Tutorial%2003%20-%20Logging) - 16:28
 4. [Pro Django - Tutorial 04 - Docker](Pro%20Django%20-%20Tutorial%2004%20-%20Docker) - 28:28
