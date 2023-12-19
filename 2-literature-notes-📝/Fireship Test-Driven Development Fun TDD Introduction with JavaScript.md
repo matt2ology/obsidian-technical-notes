@@ -63,7 +63,7 @@ There are other terms that are used when talking about testing.
   (i.e. make sure the software meets assumptions and expectations)
 - [System Testing](System%20Testing): Works on real hardware
   (i.e. does it work on the targeted computer/server/platform)
-- [Sanity Testing](Sanity%20Testing)/[Smoke Tests](Smoke%20Tests): on large
+- [Sanity Testing](Sanity%20Testing)/[Smoke Tests](../_inbox/Sanity%20Testing.md): on large
   application you may have thousands of tests to run and may take a long time,
   delaying everyone else's work, so we prioritize the most important tests
   first to make sure the app is still functional before the rest of the test suite.
