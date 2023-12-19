@@ -6,6 +6,7 @@ long-form-date-created: Tuesday, October 17, 2023
 time-created: 09:50 PM
 source: https://www.youtube.com/watch?v=-AbaV3nrw6E&list=PL6gx4Cwl9DGBuKtLgPR_zWYnrwv-JllpA&index=1&ab_channel=thenewboston
 ---
+
 # 01 - Getting Started
 
 React is a JavaScript library for building user interfaces specifically: single page applications.
