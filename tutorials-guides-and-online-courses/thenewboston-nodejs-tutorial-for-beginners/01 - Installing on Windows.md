@@ -54,7 +54,7 @@ Debug/run code in a browser versus just within the terminal
 
 ![](../../attachments/chocolatey-install-packages.png)
 
-```
+```txt
 Upgraded:
  - python v3.11.4
  - python3 v3.11.4
