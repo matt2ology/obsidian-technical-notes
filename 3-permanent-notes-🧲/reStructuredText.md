@@ -13,6 +13,6 @@ time-created: 04:37 PM
 
 Related : [Python](../4-hub-notes-🚉/Python.md) - [Sphinx](Sphinx)
 
-Resource : [reStructuredText Primer](https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html)
+Resource : [reStructuredText](https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html)
 
 Topics : [Documentation](Documentation) - [markup language](markup%20language)
