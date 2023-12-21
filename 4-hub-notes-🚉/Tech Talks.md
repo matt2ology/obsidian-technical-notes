@@ -7,10 +7,6 @@ tags:
 
 # Tech Talks
 
-Related :
-
-Topics :
-
 A list of tech talks I've seen, found interesting, found fun, and etc.
 This list is a response to channels like [Coding Tech](https://www.youtube.com/@CodingTech) removing
 content.
