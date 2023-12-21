@@ -24,6 +24,12 @@ content.
 - [How the Best Hackers Learn Their Craft](https://www.youtube.com/watch?v=6vj96QetfTg&ab_channel=RSAConference)
     - Presenter: [David Brumley](https://www.rsaconference.com/experts/david-brumley)
     - Conference: [RSA Conference - Apr 20, 2018](https://www.rsaconference.com/library/presentation/usa/2018/how-the-best-hackers-learn-their-craft-2)
+- [4 Programming Paradigms In 40 Minutes](https://www.youtube.com/watch?v=3TBq__oKUzk&ab_channel=Confreaks)
+    - Presenter: [Aja Hammerly](https://medium.com/@thagomizer)
+    - Conference: [RubyConf 2017](https://www.rubyconf.org.au/2017)
+- Talk
+    - Presenter:
+    - Conference:
 
 <!---
 
