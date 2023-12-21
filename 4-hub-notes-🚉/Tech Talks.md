@@ -27,6 +27,9 @@ content.
 - [4 Programming Paradigms In 40 Minutes](https://www.youtube.com/watch?v=3TBq__oKUzk&ab_channel=Confreaks)
   - Presenter: [Aja Hammerly](https://medium.com/@thagomizer)
   - Conference: [RubyConf 2017](https://www.rubyconf.org.au/2017)
+- [So you want to be a Python expert?](https://www.youtube.com/watch?v=cKPlPJyQrt4&t=0s&ab_channel=PyData)
+  - Presenter: [James Powell](https://www.dontusethiscode.com/#services)
+  - Conference: [PyData Seattle 2017 (Jul 05 - 07 2017)](https://pydata.org/)
 - Talk
   - Presenter:
   - Conference:
