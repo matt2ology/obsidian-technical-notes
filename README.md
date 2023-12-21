@@ -12,6 +12,8 @@ Using obsidian to manage note creation and note-link referencing : <https://obsi
 
 [Books I'm currently reading](Books.md)
 
+[Tech Talks](4-hub-notes-🚉/Tech%20Talks.md)
+
 ## Areas of Interest
 
 - [Game Development](4-hub-notes-🚉/Game%20Development.md)
