@@ -1,0 +1,35 @@
+---
+aliases:
+note-type: hub
+tags:
+  - hub
+---
+
+# Tech Talks
+
+Related :
+
+Topics :
+
+A list of tech talks I've seen, found interesting, found fun, and etc.
+This list is a response to channels like [Coding Tech](https://www.youtube.com/@CodingTech) removing
+content.
+
+- [Scott Hanselman - Personal Productivity](https://youtu.be/RpH6IPhyh7I?si=RyZOYWYax4QmPsxZ)
+  - Presenter: [Scott Hanselman](https://www.hanselman.com/)
+  - Conference: [February 2020 Portland Ruby Brigade meetup](https://www.meetup.com/portland-ruby-brigade/)
+- [The Art of Code - Dylan Beattie](https://youtu.be/6avJHaC3C2U?si=nE3uuLq2rh3tXJJY)
+  - Presenter: [Dylan Beattie](https://dylanbeattie.net/)
+  - Conference: [NDC London 2020](https://ndclondon.com/)
+- [SFNode Meetup: Creating Electronic Dance Music with JS & Node.js](https://www.youtube.com/watch?v=iwuZzp_ZnLo&ab_channel=SFNode)
+  - Presenter: [Walmik Deshpande](https://walmik.com/)
+  - Conference: [SFNode](https://www.meetup.com/sfnode/)
+  - Slide deck: [Creating Electronic Dance Music with JavaScript/Node.js](https://speakerdeck.com/walmik/node-dot-js)
+
+<!---
+
+- Talk
+    - Presenter:
+    - Conference:
+
+--->
