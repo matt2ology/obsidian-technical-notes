@@ -19,6 +19,7 @@ kindle-sync:
 - ASIN: B0BVZX4JHS
 - Reference: <https://www.amazon.com/dp/B0BVZX4JHS>
 - [Kindle link](kindle://book?action=open&asin=B0BVZX4JHS)
+- [Follow-along GitHub repo]()
 
 ## Highlights
 
