@@ -15,7 +15,7 @@ kindle-sync:
 
 ## Metadata
 
-- Author: [Alex Forrester, Eran Boudjnah, Alexandru Dumbravan, and Jomar Tigcal](https://www.amazon.comundefined)
+- Author: [Alex Forrester](https://www.amazon.com/stores/Alex-Forrester/author/B08TCJ9QN9?ref=ap_rdr&store_ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true), [Eran Boudjnah](https://www.amazon.com/stores/Eran-Boudjnah/author/B08TH8XBKQ?ref=ap_rdr&store_ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true), [Alexandru Dumbravan](https://www.amazon.com/stores/Alexandru-Dumbravan/author/B08TB1R16N?ref=ap_rdr&store_ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true), [Jomar Tigcal](https://www.amazon.com/stores/Jomar-Tigcal/author/B08TBFM213?ref=ap_rdr&store_ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true)
 - ASIN: B0BVZX4JHS
 - Reference: <https://www.amazon.com/dp/B0BVZX4JHS>
 - ISBN-13: 978-1837634934
