@@ -18,6 +18,7 @@ kindle-sync:
 - Author: [Alex Forrester, Eran Boudjnah, Alexandru Dumbravan, and Jomar Tigcal](https://www.amazon.comundefined)
 - ASIN: B0BVZX4JHS
 - Reference: <https://www.amazon.com/dp/B0BVZX4JHS>
+- ISBN-13: 978-1837634934
 - [Kindle link](kindle://book?action=open&asin=B0BVZX4JHS)
 - [Follow-along GitHub repo]()
 
