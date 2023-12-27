@@ -20,7 +20,7 @@ kindle-sync:
 - Reference: <https://www.amazon.com/dp/B0BVZX4JHS>
 - ISBN-13: 978-1837634934
 - [Kindle link](kindle://book?action=open&asin=B0BVZX4JHS)
-- [Follow-along GitHub repo]()
+- [Follow-along GitHub repo](https://github.com/matt2ology/first-android-app-with-kotlin)
 
 ## Highlights
 
