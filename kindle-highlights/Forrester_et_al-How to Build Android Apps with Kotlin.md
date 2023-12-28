@@ -6,9 +6,9 @@ kindle-sync:
     testing, and publishing your first Android apps
   author: "Alex Forrester, Eran Boudjnah, Alexandru Dumbravan, and Jomar Tigcal"
   asin: B0BVZX4JHS
-  lastAnnotatedDate: "2023-12-26"
+  lastAnnotatedDate: "2023-12-27"
   bookImageUrl: "https://m.media-amazon.com/images/I/816f9tBDLbL._SY160.jpg"
-  highlightsCount: 4
+  highlightsCount: 9
 ---
 
 # How to Build Android Apps with Kotlin
@@ -46,5 +46,33 @@ You can download it here: <https://packt.link/vnOCn>. — location: [514](kindle
 Part 1: Android Foundation — location: [563](kindle://book?action=open&asin=B0BVZX4JHS&location=563) ^ref-50083
 
 - Create first app, build user screen flows, develop UI with Fragments, and build app navigation
+
+---
+
+understand the importance of the AndroidManifest.xml — location: [578](kindle://book?action=open&asin=B0BVZX4JHS&location=578) ^ref-61228
+
+- What is the importance of AndriodManifest.xml
+
+---
+
+Gradle build tool — location: [579](kindle://book?action=open&asin=B0BVZX4JHS&location=579) ^ref-31875
+
+- What is the Gradle build tool?
+
+---
+
+Android application structure — location: [594](kindle://book?action=open&asin=B0BVZX4JHS&location=594) ^ref-31409
+
+- What is the Andriod application structure?
+
+---
+
+The programming language you will use throughout this course to create Android apps is Kotlin. Previously the standard language to create Android apps was Java. Since Google I/O 2017 (the annual Google developer conference), this has been Google’s preferred language for Android app development. — location: [606](kindle://book?action=open&asin=B0BVZX4JHS&location=606) ^ref-46702
+
+- <https://www.youtube.com/watch?v=X1RVYt2QKQE&ab_channel=AndroidDevelopers>
+
+---
+
+Kotlin was created to address some of the shortcomings of Java in terms of verbosity, handling null types, and adding more functional programming techniques, amongst many other issues. — location: [611](kindle://book?action=open&asin=B0BVZX4JHS&location=611) ^ref-5871
 
 ---
