@@ -6,9 +6,9 @@ kindle-sync:
     testing, and publishing your first Android apps
   author: "Alex Forrester, Eran Boudjnah, Alexandru Dumbravan, and Jomar Tigcal"
   asin: B0BVZX4JHS
-  lastAnnotatedDate: "2023-12-27"
+  lastAnnotatedDate: "2023-12-28"
   bookImageUrl: "https://m.media-amazon.com/images/I/816f9tBDLbL._SY160.jpg"
-  highlightsCount: 9
+  highlightsCount: 11
 ---
 
 # How to Build Android Apps with Kotlin
@@ -74,5 +74,17 @@ The programming language you will use throughout this course to create Android a
 ---
 
 Kotlin was created to address some of the shortcomings of Java in terms of verbosity, handling null types, and adding more functional programming techniques, amongst many other issues. — location: [611](kindle://book?action=open&asin=B0BVZX4JHS&location=611) ^ref-5871
+
+---
+
+Project configuration — location: [636](kindle://book?action=open&asin=B0BVZX4JHS&location=636) ^ref-35991
+
+- Package name: An address ID for source code and assets in app. Best to name this as clear and descriptive and related to what the application accomplishes. This can be accomplished sub domains (e.g. com.business.shop.candyshop). The "Name" value of the app, in lower case with spaces removed, is then appended to the domain.
+
+---
+
+SDK components — location: [682](kindle://book?action=open&asin=B0BVZX4JHS&location=682) ^ref-8621
+
+- Android Emulator, Android SDK Build-Tools, Android SDK Platform, Android SDK Platform-Tools, Android SDK Tools, Intel x86 Emulator Accelerator (HAXM installer), SDK Patch Applier v4.
 
 ---
