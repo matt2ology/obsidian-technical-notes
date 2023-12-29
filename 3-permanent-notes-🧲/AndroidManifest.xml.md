@@ -16,7 +16,7 @@ Related : [The importance of AndroidManifest.xml](The%20importance%20of%20Androi
 Topic : [Android Development](Android%20Development)
 
 It's an XML file that contains all the metadata of the application; which is to say,
-it's fancy configuration file for the application and details how the app should 
+it's fancy configuration file for the application and details how the app should
 behave/function (e.g. what the app can do depending on the given permission settings).
 
 It is located at the root of the project's directory: `app | manifests | AndroidManifest.xml`
