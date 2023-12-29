@@ -1,11 +1,29 @@
-*.obsidian/
-kindle-highlights/Sapolsky-A Primates Memoir.md
-kindle-highlights/Plummer-Window on Freedom.md
-kindle-highlights/Larsson-Keeland-The Girl with the Dragon Tattoo.md
-kindle-highlights/Kamishiro_et_al-My Stepmoms Daughter Is My Ex.md
-kindle-highlights/Gladwell-The Bomber Mafia.md
-kindle-highlights/Gatou_et_al-Amagi Brilliant Park.md
-kindle-highlights/Ahrens-How to Take Smart Notes.md
-Readwise/Unreliable Narrator.md
-kindle-highlights/Nancherla-Unreliable Narrator.md
 .vscode/settings.json
+.obsidian/workspaces.json
+.obsidian/workspace-mobile.json
+.obsidian/themes
+.obsidian/*
+!.obsidian/templates.json
+!.obsidian/note-composer.json
+!.obsidian/hotkeys.json
+!.obsidian/graph.json
+!.obsidian/core-plugins.json
+!.obsidian/core-plugins-migration.json
+!.obsidian/config
+!.obsidian/community-plugins.json
+!.obsidian/appearance.json
+!.obsidian/app.json
+!.obsidian/zk-prefixer.json
+!.obsidian/types.json
+
+# Books - highlights and notes to ignore
+
+kindle-highlights/Ahrens-How to Take Smart Notes.md
+kindle-highlights/Gatou_et_al-Amagi Brilliant Park.md
+kindle-highlights/Gladwell-The Bomber Mafia.md
+kindle-highlights/Kamishiro_et_al-My Stepmoms Daughter Is My Ex.md
+kindle-highlights/Larsson-Keeland-The Girl with the Dragon Tattoo.md
+kindle-highlights/Nancherla-Unreliable Narrator.md
+kindle-highlights/Plummer-Window on Freedom.md
+kindle-highlights/Sapolsky-A Primates Memoir.md
+Readwise/Unreliable Narrator.md
