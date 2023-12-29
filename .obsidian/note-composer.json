@@ -1,0 +1,5 @@
+{
+  "askBeforeMerging": true,
+  "replacementText": "embed",
+  "template": "_templates/note-composer-extract-refactor"
+}
