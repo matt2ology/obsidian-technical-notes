@@ -53,6 +53,8 @@ understand the importance of the AndroidManifest.xml — location: [578](kindle:
 
 - What is the importance of AndriodManifest.xml
 
+[The importance of AndroidManifest.xml](../3-permanent-notes-🧲/The%20importance%20of%20AndroidManifest.xml.md)
+
 ---
 
 Gradle build tool — location: [579](kindle://book?action=open&asin=B0BVZX4JHS&location=579) ^ref-31875
