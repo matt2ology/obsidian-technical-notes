@@ -19,3 +19,8 @@
   - Note: Color images download
 - Part 1: Android Foundation ([Location 563](https://readwise.io/to_kindle?action=open&asin=B0BVZX4JHS&location=563))
   - Note: Create first app, build user screen flows, develop UI with Fragments, and build app navigation
+
+## New highlights added December 28, 2023 at 11:41 PM
+
+- A typical manifest file, in general terms, is a top-level file that describes the enclosed files or other data and associated metadata that forms a group or unit. The Android manifest applies this concept to your Android app as an XML file. ([Location 787](https://readwise.io/to_kindle?action=open&asin=B0BVZX4JHS&location=787))
+  - Note: Contains all the metadata of the application as an XML file.
