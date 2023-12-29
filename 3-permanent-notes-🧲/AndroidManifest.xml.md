@@ -11,6 +11,7 @@ time-created: 11:29 PM
 # AndroidManifest.xml
 
 Related : [The importance of AndroidManifest.xml](The%20importance%20of%20AndroidManifest.xml.md)
+- [Android Permissions Groups](Android%20Permissions%20Groups)
 
 Topic : [Android Development](Android%20Development)
 
