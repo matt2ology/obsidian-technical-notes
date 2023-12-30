@@ -1,6 +1,6 @@
 ---
 aliases:
-note-type: permanent
+note-type: literature
 date-created: 2023-12-28
 long-form-date-created: Thursday, December 28, 2023
 week-created: Week 52.4
@@ -9,7 +9,9 @@ time-created: 09:59 PM
 
 # The importance of AndroidManifest.xml
 
-Related : [Forrester_et_al-How to Build Android Apps with Kotlin](../kindle-highlights/Forrester_et_al-How%20to%20Build%20Android%20Apps%20with%20Kotlin.md) - [What is an Android Source Set](What%20is%20an%20Android%20Source%20Set)
+Related : [What is an Android Source Set](What%20is%20an%20Android%20Source%20Set)
+
+Source : [Forrester_et_al-How to Build Android Apps with Kotlin](../kindle-highlights/Forrester_et_al-How%20to%20Build%20Android%20Apps%20with%20Kotlin.md)
 
 Topics : [Android Development](Android%20Development)
 
@@ -39,7 +41,7 @@ with `<android.intent.action.MAIN>` designating the main entry point.
 The inclusion of "`Android.intent.category.LAUNCHER`" indicates that the app will appear in
 the device launcher when launched by the user.
 
-When creating an app from a template, the manifest file is configured to launch the app and 
+When creating an app from a template, the manifest file is configured to launch the app and
 display an initial screen using an Activity component.
 
 Additional features may require permissions categorized as normal, signature, or dangerous.
