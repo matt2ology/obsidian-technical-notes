@@ -11,7 +11,7 @@ Related : [Tutorials and Guides](tutorials-guides-and-online-courses/README.md)
 
 ## Currently Reading
 
-- [Forrester_et_al-How to Build Android Apps with Kotlin, 2nd Edition](kindle-highlights/Forrester_et_al-How%20to%20Build%20Android%20Apps%20with%20Kotlin.md)
+- [How to Build Android Apps with Kotlin: A practical guide to developing, testing, and publishing your first Android apps](Hub%20-%20How%20to%20Build%20Android%20Apps%20with%20Kotlin.md)
 
 ## Books Read
 
