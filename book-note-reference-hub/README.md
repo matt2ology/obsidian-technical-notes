@@ -9,6 +9,8 @@ tags:
 
 Related : [Tutorials and Guides](tutorials-guides-and-online-courses/README.md)
 
+[SQ4R Reading System](https://www.usu.edu/academic-support/files/SQ4R_Reading_System.pdf)
+
 ## Currently Reading
 
 - [How to Build Android Apps with Kotlin: A practical guide to developing, testing, and publishing your first Android apps](Hub%20-%20How%20to%20Build%20Android%20Apps%20with%20Kotlin.md)
