@@ -6,9 +6,9 @@ kindle-sync:
     testing, and publishing your first Android apps
   author: "Alex Forrester, Eran Boudjnah, Alexandru Dumbravan, and Jomar Tigcal"
   asin: B0BVZX4JHS
-  lastAnnotatedDate: "2023-12-28"
+  lastAnnotatedDate: "2024-12-31"
   bookImageUrl: "https://m.media-amazon.com/images/I/816f9tBDLbL._SY160.jpg"
-  highlightsCount: 11
+  highlightsCount: 13
 ---
 
 # How to Build Android Apps with Kotlin
@@ -53,7 +53,7 @@ understand the importance of the AndroidManifest.xml — location: [578](kindle:
 
 - What is the importance of AndriodManifest.xml
 
-[The importance of AndroidManifest.xml](../3-permanent-notes-🧲/The%20importance%20of%20AndroidManifest.xml.md)
+[The importance of AndroidManifest.xml](../2-literature-notes-📝/The%20importance%20of%20AndroidManifest.xml.md)
 
 ---
 
@@ -65,7 +65,7 @@ Gradle build tool — location: [579](kindle://book?action=open&asin=B0BVZX4JHS&
 
 Android application structure — location: [594](kindle://book?action=open&asin=B0BVZX4JHS&location=594) ^ref-31409
 
-- What is the Andriod application structure?
+- What is the Android application structure?
 
 ---
 
@@ -88,5 +88,21 @@ Project configuration — location: [636](kindle://book?action=open&asin=B0BVZX4
 SDK components — location: [682](kindle://book?action=open&asin=B0BVZX4JHS&location=682) ^ref-8621
 
 - Android Emulator, Android SDK Build-Tools, Android SDK Platform, Android SDK Platform-Tools, Android SDK Tools, Intel x86 Emulator Accelerator (HAXM installer), SDK Patch Applier v4.
+
+---
+
+A typical manifest file, in general terms, is a top-level file that describes the enclosed files or other data and associated metadata that forms a group or unit. The Android manifest applies this concept to your Android app as an XML file. — location: [787](kindle://book?action=open&asin=B0BVZX4JHS&location=787) ^ref-50559
+
+- Contains all the metadata of the application as an XML file.
+
+---
+
+The key permission that most apps require is access to the internet. This is not added by default. — location: [815](kindle://book?action=open&asin=B0BVZX4JHS&location=815) ^ref-34314
+
+- To enable internet permissions: this is made possible by configuring the Android manifest, so a WebView can be rendered onto screen.
+
+1 - Switch tabs to the MainActivity class. From the main project window, it’s located at app | java | com | example | myapplication.
+
+2 - Change `setContentView(R.layout.activity_main)` to `setContentView(webView)`
 
 ---
