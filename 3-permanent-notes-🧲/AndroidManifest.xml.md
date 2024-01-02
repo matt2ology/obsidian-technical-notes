@@ -24,3 +24,7 @@ It's fancy configuration file for the application and details how the app should
 behave/function (e.g. what the app can do depending on the given permission settings).
 
 It is located at the root of the project's directory: `app | manifests | AndroidManifest.xml`
+
+It lists all the components and permissions the app uses.
+
+Starting the app from the launcher, it also provides the entry points into your app.
