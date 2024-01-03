@@ -4,8 +4,8 @@ note-type: readme
 
 # README - Technical Notes
 
-A central hub for organizing and finding my technical notes, serving as
-a reference to easily recall where I acquired specific facts or insights.
+A central hub for organizing and finding technical notes, and to track personal growth;
+thus, serving as a reference to easily recall where I acquired specific facts or insights.
 
 Using obsidian to manage note creation and note-link referencing : <https://obsidian.md/>
 
