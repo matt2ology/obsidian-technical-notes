@@ -15,6 +15,8 @@ Using obsidian to manage note creation and note-link referencing : <https://obsi
 
 [Tech Talks](4-hub-notes-🚉/Tech%20Talks.md)
 
+[Career and Personal Development](4-hub-notes-🚉/Career%20and%20Personal%20Development.md)
+
 ## Areas of Interest
 
 - [Game Development](4-hub-notes-🚉/Game%20Development.md)
