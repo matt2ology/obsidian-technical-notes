@@ -14,6 +14,6 @@ Related : [source set](source%20set)
 
 Source : [Android Studio - Gradle Plugin - Configure your build - Source sets](https://developer.android.com/build#sourcesets)
 
-Topics : [Android Development](Android%20Development)
+Topics : [Android Development](../4-hub-notes-🚉/Android%20Development.md)
 
 <!-- Takeaways and Inspirations -->
