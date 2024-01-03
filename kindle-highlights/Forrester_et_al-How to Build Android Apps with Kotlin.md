@@ -6,9 +6,9 @@ kindle-sync:
     testing, and publishing your first Android apps
   author: "Alex Forrester, Eran Boudjnah, Alexandru Dumbravan, and Jomar Tigcal"
   asin: B0BVZX4JHS
-  lastAnnotatedDate: "2024-12-31"
+  lastAnnotatedDate: "2024-01-02"
   bookImageUrl: "https://m.media-amazon.com/images/I/816f9tBDLbL._SY160.jpg"
-  highlightsCount: 13
+  highlightsCount: 15
 ---
 
 # How to Build Android Apps with Kotlin
@@ -104,5 +104,19 @@ The key permission that most apps require is access to the internet. This is not
 1 - Switch tabs to the MainActivity class. From the main project window, it’s located at app | java | com | example | myapplication.
 
 2 - Change `setContentView(R.layout.activity_main)` to `setContentView(webView)`
+
+---
+
+Kotlin has type inference, so it will infer the type if possible. So, specifying the type explicitly with val webView: WebView = WebView(this) is not necessary. — location: [849](kindle://book?action=open&asin=B0BVZX4JHS&location=849) ^ref-32971
+
+- In Kotlin, the language is designed to be expressive and concise. The type inference mechanism in Kotlin is quite powerful, allowing the compiler to often deduce the type of a variable or expression without requiring explicit type annotations. This helps reduce boilerplate code and makes the codebase more readable.
+
+When you provide an explicit type for a variable or a function return type, and it's redundant (meaning the compiler can infer it without the explicit annotation), Kotlin considers it as unnecessary verbosity. The Kotlin philosophy encourages developers to write code that is clear and concise without unnecessary redundancy.
+
+---
+
+It lists all the components and permissions your app uses. — location: [873](kindle://book?action=open&asin=B0BVZX4JHS&location=873) ^ref-44526
+
+- The Android Manifest
 
 ---
