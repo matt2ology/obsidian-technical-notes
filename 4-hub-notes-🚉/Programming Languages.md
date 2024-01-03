@@ -16,3 +16,4 @@ A placeholder note to help link ideas and notes.
 - [Python](4-hub-notes-🚉/Python.md)
 - [Rust](4-hub-notes-🚉/Rust.md)
 - [Java](../_inbox/Java%20Programming%20Language.md)
+- [Kotlin](../_inbox/Kotlin%20Programming%20Language.md)
