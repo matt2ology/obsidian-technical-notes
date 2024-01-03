@@ -9,7 +9,7 @@ source: https://www.amazon.com/stores/author/B083DZ5V33/about
 course: https://lamthuyvo.github.io/cuny2015-interactivejournalism/
 ---
 
-# Lam Thuy Vo
+# [Lam Thuy Vo](https://lamivo.com/)
 
 ![Lam Thuy Vo Photo](https://m.media-amazon.com/images/I/71MsBP+i+dL._SX300_CR0%2C0%2C0%2C0_.jpg)
 
