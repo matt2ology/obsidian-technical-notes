@@ -13,7 +13,7 @@ Related : [What is an Android Source Set](What%20is%20an%20Android%20Source%20Se
 
 Source : [Forrester_et_al-How to Build Android Apps with Kotlin](../kindle-highlights/Forrester_et_al-How%20to%20Build%20Android%20Apps%20with%20Kotlin.md)
 
-Topics : [Android Development](Android%20Development)
+Topics : [Android Development](../4-hub-notes-🚉/Android%20Development.md)
 
 TL;DR : [AndroidManifest.xml](../3-permanent-notes-🧲/AndroidManifest.xml.md)
 
