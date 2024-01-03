@@ -1,4 +1,4 @@
-Company,Role/Title,Salary/Rate,Location/Remote,Job Link,Date Applied,Application Deadline (yyyy/mm/dd),Contact Name/Title,Contact Info Phone/E-mail,Response and Feedback,Interview Type,Interview Round,Interviewer Name,Interview Time,Interview Date,Follow-up?,Follow-up Date,Offer,Notes
+Company,Role/Title,Salary/Rate,Location/Remote,Job Link,Date Applied,Application Deadline (yyyy-mm-dd),Contact Name/Title,Contact Info Phone/E-mail,Response and Feedback,Interview Type,Interview Round,Interviewer Name,Interview Time,Interview Date,Follow-up?,Follow-up Date,Offer,Notes
 Blank,Blank,Blank,Blank,Blank,Blank,Blank,Blank,Blank,Blank,Blank,Blank,Blank,Blank,Blank,Blank,Blank,Blank,Blank
 ,,,,,,,,,Positive Email,Face-to-face,1st,,,,Yes,,Yes,
 ,,,,,,,,,Positive Phone Call,Telephone,2nd,,,,No,,No,
