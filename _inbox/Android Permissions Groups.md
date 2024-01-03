@@ -15,7 +15,7 @@ Related :
 - [AndroidManifest.xml](../3-permanent-notes-🧲/AndroidManifest.xml.md)
 - [The importance of AndroidManifest.xml](../2-literature-notes-📝/The%20importance%20of%20AndroidManifest.xml.md)
 
-Topic : [Android Development](Android%20Development)
+Topic : [Android Development](../4-hub-notes-🚉/Android%20Development.md)
 
 Since Android 6, Marshmallow (API 23), developers are to ask the user to grant permissions
 at runtime.
