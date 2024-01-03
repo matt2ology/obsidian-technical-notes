@@ -9,6 +9,8 @@ thus, serving as a reference to easily recall where I acquired specific facts or
 
 Using obsidian to manage note creation and note-link referencing : <https://obsidian.md/>
 
+Job Spreadsheet Tracker: [2024 Job Search Tracker Template](attachments/2024_job_search_tracker.xlsx)
+
 [Note Taking Workflow Draft](_inbox/Note%20Taking%20Workflow%20Draft.md)
 
 [Books I'm currently reading](book-note-reference-hub/README.md)
