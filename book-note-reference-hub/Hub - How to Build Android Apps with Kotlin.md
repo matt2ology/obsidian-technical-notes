@@ -11,7 +11,7 @@ Book notes : [Forrester_et_al-How to Build Android Apps with Kotlin](../kindle-h
 
 Related :
 
-Topics : [Android Development](Android%20Development)
+Topics : [Android Development](../4-hub-notes-🚉/Android%20Development.md)
 
 Links to all notes, questions, and insights made while reading:
 How to Build Android Apps with Kotlin: A practical guide to developing,
