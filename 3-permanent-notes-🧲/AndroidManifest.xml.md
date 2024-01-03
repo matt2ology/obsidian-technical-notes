@@ -15,7 +15,7 @@ Related :
 - [The importance of AndroidManifest.xml](../2-literature-notes-📝/The%20importance%20of%20AndroidManifest.xml.md)
 - [Android Permissions Groups](Android%20Permissions%20Groups)
 
-Topic : [Android Development](Android%20Development)
+Topic : [Android Development](../4-hub-notes-🚉/Android%20Development.md)
 
 It's an XML file that contains all the metadata of the application
 (i.e. a table of contents of the app).
