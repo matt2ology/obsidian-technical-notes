@@ -24,3 +24,15 @@
 
 - A typical manifest file, in general terms, is a top-level file that describes the enclosed files or other data and associated metadata that forms a group or unit. The Android manifest applies this concept to your Android app as an XML file. ([Location 787](https://readwise.io/to_kindle?action=open&asin=B0BVZX4JHS&location=787))
   - Note: Contains all the metadata of the application as an XML file.
+
+## New highlights added January 11, 2024 at 11:31 PM
+
+- The key permission that most apps require is access to the internet. This is not added by default. ([Location 815](https://readwise.io/to_kindle?action=open&asin=B0BVZX4JHS&location=815))
+  - Note: To enable internet permissions: this is made possible by configuring the Android manifest, so a WebView can be rendered onto screen.
+    1 - Switch tabs to the MainActivity class. From the main project window, it’s located at app | java | com | example | myapplication.
+    2 - Change `setContentView(R.layout.activity_main)` to `setContentView(webView)`
+- Kotlin has type inference, so it will infer the type if possible. So, specifying the type explicitly with val webView: WebView = WebView(this) is not necessary. ([Location 849](https://readwise.io/to_kindle?action=open&asin=B0BVZX4JHS&location=849))
+  - Note: In Kotlin, the language is designed to be expressive and concise. The type inference mechanism in Kotlin is quite powerful, allowing the compiler to often deduce the type of a variable or expression without requiring explicit type annotations. This helps reduce boilerplate code and makes the codebase more readable.
+    When you provide an explicit type for a variable or a function return type, and it's redundant (meaning the compiler can infer it without the explicit annotation), Kotlin considers it as unnecessary verbosity. The Kotlin philosophy encourages developers to write code that is clear and concise without unnecessary redundancy.
+- It lists all the components and permissions your app uses. ([Location 873](https://readwise.io/to_kindle?action=open&asin=B0BVZX4JHS&location=873))
+  - Note: The Android Manifest
