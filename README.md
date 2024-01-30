@@ -38,6 +38,7 @@ Online instructions and walkthroughs via an article or videos
 
 1. Django - what's the difference between Templates and Views
 2. What is the difference between a compiler and a transpiler?
+3. What is the difference between "Bandwidth" and "throughput"
 
 ## Blogs/Inspiration
 
