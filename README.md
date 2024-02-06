@@ -17,6 +17,11 @@ Using obsidian to manage note creation and note-link referencing : <https://obsi
 
 [Career and Personal Development](4-hub-notes-🚉/Career%20and%20Personal%20Development.md)
 
+## SacState: Courses Enrolled Spring 2024
+
+- [CSC 196P - Cloud and Mobile Pragmatics](tutorials-guides-and-online-courses/CSC%20196P%20-%20Cloud%20and%20Mobile%20Pragmatics/README.md)
+- [Math 100 - Applied Linear Algebra](tutorials-guides-and-online-courses/Math%20100%20-%20Applied%20Linear%20Algebra/README.md)
+
 ## Areas of Interest
 
 - [Game Development](4-hub-notes-🚉/Game%20Development.md)
