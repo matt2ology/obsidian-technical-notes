@@ -27,7 +27,7 @@ or install with app/project name
 express myApp
 ```
 
-Navigate to "bin > www", run code, and by default
+Navigate to "bin > www", run code, and by default [The Default Port for Node.js](../../_inbox/The%20Default%20Port%20for%20Node.js.md)
 
 ```sh
 localhost:3000
