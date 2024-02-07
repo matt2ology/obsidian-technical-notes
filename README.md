@@ -1,4 +1,8 @@
 ---
+aliases:
+  - ROOT README
+  - MAIN README
+  - README - Technical Notes
 note-type: readme
 ---
 
