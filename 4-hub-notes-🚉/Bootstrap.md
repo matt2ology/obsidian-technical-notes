@@ -7,7 +7,7 @@ tags:
 
 # Bootstrap
 
-Related : [You Can Override Bootstrap Styles](../tutorials-guides-and-online-courses/thenewboston-django-tutorial-for-beginners/You%20Can%20Override%20Bootstrap%20Styles.md)
+Related : [You Can Override Bootstrap Styles](../tutorials-guides-and-courses/thenewboston-django-tutorial-for-beginners/You%20Can%20Override%20Bootstrap%20Styles.md)
 
 Topics : [CDN (Content Delivery Network)](<4-hub-notes-🚉/CDN%20(Content%20Delivery%20Network).md> "Content Delivery Network") - [Frontend Framework](Frontend Framework) - [Web Development](4-hub-notes-🚉/Web%20Development.md)
 

@@ -15,4 +15,4 @@ React is a JavaScript library for building user interfaces specifically: single 
 
 ## Tutorials
 
-- [thenewboston-reactjs-tutorial-for-beginners](../tutorials-guides-and-online-courses/thenewboston-reactjs-tutorial-for-beginners/thenewboston-reactjs-tutorial-for-beginners.md)
+- [thenewboston-reactjs-tutorial-for-beginners](../tutorials-guides-and-courses/thenewboston-reactjs-tutorial-for-beginners/thenewboston-reactjs-tutorial-for-beginners.md)

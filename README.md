@@ -23,8 +23,8 @@ Using obsidian to manage note creation and note-link referencing : <https://obsi
 
 ## SacState: Courses Enrolled Spring 2024
 
-- [CSC 196P - Cloud and Mobile Pragmatics](tutorials-guides-and-online-courses/CSC%20196P%20-%20Cloud%20and%20Mobile%20Pragmatics/README.md)
-- [Math 100 - Applied Linear Algebra](tutorials-guides-and-online-courses/Math%20100%20-%20Applied%20Linear%20Algebra/README.md)
+- [CSC 196P - Cloud and Mobile Pragmatics](tutorials-guides-and-courses/CSC%20196P%20-%20Cloud%20and%20Mobile%20Pragmatics/README.md)
+- [Math 100 - Applied Linear Algebra](tutorials-guides-and-courses/Math%20100%20-%20Applied%20Linear%20Algebra/README.md)
 
 ## Areas of Interest
 
@@ -36,7 +36,7 @@ Using obsidian to manage note creation and note-link referencing : <https://obsi
 - [Web Development](4-hub-notes-🚉/Web%20Development.md)
 - [Android Development](4-hub-notes-🚉/Android%20Development.md)
 
-## [Tutorials, Guides, and Online Courses](tutorials-guides-and-online-courses/README.md)
+## [Tutorials, Guides, and Online Courses](tutorials-guides-and-courses/README.md)
 
 Online instructions and walkthroughs via an article or videos
 

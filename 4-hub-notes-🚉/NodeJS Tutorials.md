@@ -11,6 +11,6 @@ time-created: 03:11 PM
 
 Created from : [Node.js](../4-hub-notes-🚉/Node.js.md)
 
-Related : [README - Tutorials and Guides](../tutorials-guides-and-online-courses/README.md)
+Related : [README - Tutorials and Guides](../tutorials-guides-and-courses/README.md)
 
-- [thenewboston-nodejs-tutorial-for-beginners](../tutorials-guides-and-online-courses/thenewboston-nodejs-tutorial-for-beginners/thenewboston-nodejs-tutorial-for-beginners.md)
+- [thenewboston-nodejs-tutorial-for-beginners](../tutorials-guides-and-courses/thenewboston-nodejs-tutorial-for-beginners/thenewboston-nodejs-tutorial-for-beginners.md)

@@ -10,7 +10,7 @@ time-created: 09:40 PM
 
 Week 16.6 | Saturday, April 22, 2023 | 09:40 PM
 
-Related : [28 - Creating a Base Template](../tutorials-guides-and-online-courses/thenewboston-django-tutorial-for-beginners/28%20-%20Creating%20a%20Base%20Template.md)
+Related : [28 - Creating a Base Template](../tutorials-guides-and-courses/thenewboston-django-tutorial-for-beginners/28%20-%20Creating%20a%20Base%20Template.md)
 
 Topic : [Django](../4-hub-notes-🚉/Django.md)
 

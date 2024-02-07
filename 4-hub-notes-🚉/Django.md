@@ -11,5 +11,5 @@ Related : [Python](4-hub-notes-ðŸš‰/Python.md) - [Web Development](4-hub-notes-ð
 
 ## Django Tutorials
 
-- [README - thenewboston: Django Tutorials for Beginners](../tutorials-guides-and-online-courses/thenewboston-django-tutorial-for-beginners/README.md)
-- [README - thenewboston: Pro Django Tutorials](../tutorials-guides-and-online-courses/thenewboston-pro-django-tutorials/README.md)
+- [README - thenewboston: Django Tutorials for Beginners](../tutorials-guides-and-courses/thenewboston-django-tutorial-for-beginners/README.md)
+- [README - thenewboston: Pro Django Tutorials](../tutorials-guides-and-courses/thenewboston-pro-django-tutorials/README.md)

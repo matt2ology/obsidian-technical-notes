@@ -7,7 +7,7 @@ tags:
 
 # Books
 
-Related : [Tutorials and Guides](tutorials-guides-and-online-courses/README.md)
+Related : [Tutorials and Guides](../tutorials-guides-and-courses/README.md)
 
 [SQ4R Reading System](https://www.usu.edu/academic-support/files/SQ4R_Reading_System.pdf)
 
