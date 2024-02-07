@@ -36,7 +36,7 @@ Using obsidian to manage note creation and note-link referencing : <https://obsi
 - [Web Development](4-hub-notes-🚉/Web%20Development.md)
 - [Android Development](4-hub-notes-🚉/Android%20Development.md)
 
-## [Tutorials, Guides, and Online Courses](tutorials-guides-and-courses/README.md)
+## [Tutorials, Guides, and Courses](tutorials-guides-and-courses/README.md)
 
 Online instructions and walkthroughs via an article or videos
 
