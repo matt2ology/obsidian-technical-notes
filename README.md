@@ -49,24 +49,10 @@ Online instructions and walkthroughs via an article or videos
 2. What is the difference between a compiler and a transpiler?
 3. What is the difference between "Bandwidth" and "throughput"
 
-## Blogs/Inspiration
+## Miscellaneous
 
-- [Maxime Cote](https://www.maximecote.me/)
+- [Blogs and Inspiration](4-hub-notes-🚉/Blogs%20and%20Inspiration.md)
 
-## Resources
-
-- [SourceMaking](https://sourcemaking.com/) : I will tell
-  you a lot of stories about good software architecture and
-  teach you how to create it with design patterns. I will
-  guide you through anti-patterns, common pitfalls and
-  mistakes that people make when they plan, create, and
-  manage software projects. In the end, I will teach you
-  how to smell a bad code and improve it with refactoring.
-
-- [Solarian Programmer - My programming ramblings](https://solarianprogrammer.com/)
-- [Software Carpentry - Teaching basic lab skills for research computing](https://software-carpentry.org/)
-
-## Projects Backlog
 
 - [A Dungeon Master With A Thermal Printer | Hackaday](https://hackaday.com/2022/12/24/a-dungeon-master-with-a-thermal-printer/)
 - [Penpal Recordkeeper](project-ideas/Penpal%20Recordkeeper.md)
