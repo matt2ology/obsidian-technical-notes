@@ -55,6 +55,7 @@ Online instructions and walkthroughs via an article or videos
 
 - [Blogs and Inspiration](4-hub-notes-🚉/Blogs%20and%20Inspiration.md)
 
+### Projects Backlog
 
 - [A Dungeon Master With A Thermal Printer | Hackaday](https://hackaday.com/2022/12/24/a-dungeon-master-with-a-thermal-printer/)
 - [Penpal Recordkeeper](project-ideas/Penpal%20Recordkeeper.md)
