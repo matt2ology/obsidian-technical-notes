@@ -49,6 +49,8 @@ Online instructions and walkthroughs via an article or videos
 2. What is the difference between a compiler and a transpiler?
 3. What is the difference between "Bandwidth" and "throughput"
 
+![October 20th, 2023 Obsidian note graph](attachments/20231020000540-note-graph-view.png)
+
 ## Miscellaneous
 
 - [Blogs and Inspiration](4-hub-notes-🚉/Blogs%20and%20Inspiration.md)
@@ -57,5 +59,3 @@ Online instructions and walkthroughs via an article or videos
 - [A Dungeon Master With A Thermal Printer | Hackaday](https://hackaday.com/2022/12/24/a-dungeon-master-with-a-thermal-printer/)
 - [Penpal Recordkeeper](project-ideas/Penpal%20Recordkeeper.md)
 - [Printing with Pi Raspberry Pi Thermal Printer Fun](https://diyodemag.com/projects/printing_with_pi_raspberry_pi_thermal_printer_fun)
-
-![October 20th, 2023 Obsidian note graph](attachments/20231020000540-note-graph-view.png)
