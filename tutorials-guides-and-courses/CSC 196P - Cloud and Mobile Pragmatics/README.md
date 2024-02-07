@@ -11,7 +11,7 @@ time-created: 12:02 PM
 
 Note hub :
 
-"Book" used : [Android ATC - Android Application Development v12](../Android%20ATC%20-%20Android%20Application%20Development%20v12/Android%20ATC%20-%20Android%20Application%20Development%20v12.md)
+Book Note Hub : [Android ATC - Android Application Development v12](../Android%20ATC%20-%20Android%20Application%20Development%20v12/Android%20ATC%20-%20Android%20Application%20Development%20v12.md)
 
 Repo : [CSC 196P - Cloud and Mobile Pragmatics - 3 Units - Spring 2024](https://github.com/matt2ology/csc196p-cloud-and-mobile-pragmatics)
 
