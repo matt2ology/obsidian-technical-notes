@@ -7,7 +7,7 @@ tags:
 
 # Android ATC - Android Application Development v12
 
-Book : [Android Application Development v12 by Android ATC](https://androidatc.com/public/_signin.php)
+Link to Book : [Android Application Development v12 by Android ATC](https://androidatc.com/public/_signin.php)
 
 Related : [CSC 196P - Cloud and Mobile Pragmatics](../CSC%20196P%20-%20Cloud%20and%20Mobile%20Pragmatics/README.md)
 
