@@ -17,13 +17,10 @@ Links to all notes, questions, and insights made while reading:
 
 ## Lesson 1: Introduction to Kotlin
 
-Kotlin Advantages
+- [Kotlin Advantages According to Advanced Training Consultants](Kotlin%20Advantages%20According%20to%20Advanced%20Training%20Consultants.md)
 
 Fit for Android development.
 
-1. **Performance**: with similar byte code structure Kotlin runs faster than Java. Kotlin is not as verbose as Java and so less code is needed and improves readability.
-2. **Easy to learn and intuitive**: Since 2011, Kotlin has been worked on and is a mature language. Tooling, ecosystems, and integration into Android Studio has made it more assessable.
-3. Free int
 
 ## Lesson 2: Control Flow Statements
 
