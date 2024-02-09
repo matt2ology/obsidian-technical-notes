@@ -19,8 +19,7 @@ Links to all notes, questions, and insights made while reading:
 
 - [Kotlin Advantages According to Advanced Training Consultants](Kotlin%20Advantages%20According%20to%20Advanced%20Training%20Consultants.md)
 
-Fit for Android development.
-
+### How Kotlin Programs Work
 
 ## Lesson 2: Control Flow Statements
 
