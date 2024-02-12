@@ -19,7 +19,7 @@ TL;DR : [AndroidManifest.xml](../3-permanent-notes-🧲/AndroidManifest.xml.md)
 
 ## Notes
 
-It sits at the root of the project's "[source set](source%20set)".
+It sits at the root of the project's "[source set](../_inbox/Source%20Set.md)".
 Found in the folder path: `app | manifests | AndroidManifest.xml`
 
 The app is driven from the `AndroidManifest.xml` file, a manifest (i.e. a list) file that
@@ -44,11 +44,13 @@ the device launcher when launched by the user.
 When creating an app from a template, the manifest file is configured to launch the app and
 display an initial screen using an Activity component.
 
-Additional features may require permissions categorized as normal, signature, or dangerous.
+Additional features may require permissions categorized as `normal`, `signature`, or `dangerous`.
 
-- Normal permissions, like accessing network state, Wi-Fi, internet, and Bluetooth, are usually granted without user consent.
-- Signature permissions are shared among apps signed with the same certificate, allowing data sharing.
-- Dangerous permissions, related to user privacy, such as SMS, account access, location, filesystem, and contacts, must be listed in the manifest
+- **`Normal permissions`**, like accessing network state, Wi-Fi, internet, and Bluetooth, are usually granted without user consent.
+
+- **`Signature permissions`** are shared among apps signed with the same certificate, allowing data sharing.
+
+- **`Dangerous permissions`**, related to user privacy, such as SMS, account access, location, filesystem, and contacts, must be listed in the manifest
 
 Starting from Android Marshmallow (API 23), runtime user consent is required for
 dangerous permissions.
