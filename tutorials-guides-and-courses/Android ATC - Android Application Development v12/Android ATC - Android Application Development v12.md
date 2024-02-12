@@ -18,6 +18,7 @@ Links to all notes, questions, and insights made while reading:
 ## Lesson 1: Introduction to Kotlin
 
 - [Kotlin Advantages According to Advanced Training Consultants](Kotlin%20Advantages%20According%20to%20Advanced%20Training%20Consultants.md)
+- [How Kotlin Programs work According to Android Advanced Training Consultants](How%20Kotlin%20Programs%20work%20According%20to%20Android%20Advanced%20Training%20Consultants.md)
 
 ### How Kotlin Programs Work
 
