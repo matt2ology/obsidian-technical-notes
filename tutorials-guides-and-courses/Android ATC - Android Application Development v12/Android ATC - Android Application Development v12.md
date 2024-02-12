@@ -34,6 +34,26 @@ Links to all notes, questions, and insights made while reading:
 
 ## Lesson 3: Functions & Object-Oriented Programming (OOP)
 
+Object-Oriented Programming (OOP)
+Object
+
+### Class
+
+Creating a Class
+Providing Constructors for Your Classes
+Class Inheritance
+Abstract Class
+Interface Class
+Generic Class
+Class Variables
+Member Variables
+
+### Kotlin Collections
+
+Hashmaps
+ArrayList
+listof and mutableListOf
+
 ### Lesson 4: Android Framework and Android Studio
 
 ## Questions
