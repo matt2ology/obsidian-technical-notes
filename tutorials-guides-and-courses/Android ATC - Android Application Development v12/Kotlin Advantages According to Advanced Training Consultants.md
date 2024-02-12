@@ -9,7 +9,7 @@ time-created: "06:25 PM"
 
 # Kotlin Advantages According to Advanced Training Consultants
 
-Created from : [[Android ATC - Android Application Development v12]]
+Created from : [Android ATC - Android Application Development v12](Android%20ATC%20-%20Android%20Application%20Development%20v12.md)
 
 Related :
 
