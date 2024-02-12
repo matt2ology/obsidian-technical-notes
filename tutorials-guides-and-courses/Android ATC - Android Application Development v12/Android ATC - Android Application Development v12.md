@@ -19,8 +19,16 @@ Links to all notes, questions, and insights made while reading:
 
 - [Kotlin Advantages According to Advanced Training Consultants](Kotlin%20Advantages%20According%20to%20Advanced%20Training%20Consultants.md)
 - [How Kotlin Programs work According to Android Advanced Training Consultants](How%20Kotlin%20Programs%20work%20According%20to%20Android%20Advanced%20Training%20Consultants.md)
-
-### How Kotlin Programs Work
+- [Kotlin Software Prerequisites According to Android Advanced Training Consultants](Kotlin%20Software%20Prerequisites%20According%20to%20Android%20Advanced%20Training%20Consultants)
+- [IntelliJ IDEA According to Android Advanced Training Consultants](IntelliJ%20IDEA%20According%20to%20Android%20Advanced%20Training%20Consultants)
+- [Installing IntelliJ IDE According to Android Advanced Training Consultants](Installing%20IntelliJ%20IDE%20According%20to%20Android%20Advanced%20Training%20Consultants)
+- [Creating a Kotlin Program According to Android Advanced Training Consultants](Creating%20a%20Kotlin%20Program%20According%20to%20Android%20Advanced%20Training%20Consultants)
+- [Running a Kotlin Program According to Android Advanced Training Consultants](Running%20a%20Kotlin%20Program%20According%20to%20Android%20Advanced%20Training%20Consultants)
+- [The main( ) function According to Android Advanced Training Consultants](The%20main(%20)%20function%20According%20to%20Android%20Advanced%20Training%20Consultants)
+- [Writing Comments According to Android Advanced Training Consultants](Writing%20Comments%20According%20to%20Android%20Advanced%20Training%20Consultants)
+- [Kotlin Variables According to Android Advanced Training Consultants](Kotlin%20Variables%20According%20to%20Android%20Advanced%20Training%20Consultants)
+- [Kotlin Data Types According to Android Advanced Training Consultants](Kotlin%20Data%20Types%20According%20to%20Android%20Advanced%20Training%20Consultants)
+- [Input of Information to Kotlin Program According to Android Advanced Training Consultants](Input%20of%20Information%20to%20Kotlin%20Program%20According%20to%20Android%20Advanced%20Training%20Consultants)
 
 ## Lesson 2: Control Flow Statements
 
