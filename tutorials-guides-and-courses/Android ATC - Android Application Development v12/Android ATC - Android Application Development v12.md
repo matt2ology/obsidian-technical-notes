@@ -56,6 +56,41 @@ listof and mutableListOf
 
 ### Lesson 4: Android Framework and Android Studio
 
+#### Introduction
+
+#### Android Platform Architecture
+
+#### Android Libraries
+
+#### Components of Android Application
+
+#### Types of Android processes and their priorities
+
+#### Android Studio
+
+What is Android Studio?
+Android Studio Software Prerequisite
+Install Android Studio
+
+#### Creating Kotlin Project Using Android Studio
+
+#### Run Android App
+
+Instant Run
+
+#### Setup an Android Virtual Device
+
+#### What is Android Studio Gradle?
+
+#### Run your Apps on a Hardware Device (Physical Phone)
+
+Run your Android App on Android Phone
+
+#### Lab 4: Creating Your First Application
+
+Create your first Android application
+Build a "Simple Calculator" Application
+
 ## Questions
 
 - [ ] Question_0001
