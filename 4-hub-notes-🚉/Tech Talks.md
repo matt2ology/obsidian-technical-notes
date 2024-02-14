@@ -30,6 +30,10 @@ content.
 - [So you want to be a Python expert?](https://www.youtube.com/watch?v=cKPlPJyQrt4&t=0s&ab_channel=PyData)
   - Presenter: [James Powell](https://www.dontusethiscode.com/#services)
   - Conference: [PyData Seattle 2017 (Jul 05 - 07 2017)](https://pydata.org/)
+- [So You Think You Know Git - FOSDEM 2024](https://www.youtube.com/watch?v=aolI_Rz0ZqY&ab_channel=GitButler)
+  - Presenter: [Scott Chacon](https://scottchacon.com/)
+  - Conference: [FOSDEM 2024](https://fosdem.org/2024/)
+  - Literature note:
 - Talk
   - Presenter:
   - Conference:
