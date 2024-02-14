@@ -9,7 +9,7 @@ time-created: 05:15 PM
 
 # Android Advanced Training Consultants
 
-Related :
+Related : [Android ATC - Android Application Development v12](Android%20ATC%20-%20Android%20Application%20Development%20v12.md)
 
 A BS independent, not affiliated with Google, accreditation company that publishes
 a PDF "e-book" accessible solely through their login portal, featuring a rudimentary web 
