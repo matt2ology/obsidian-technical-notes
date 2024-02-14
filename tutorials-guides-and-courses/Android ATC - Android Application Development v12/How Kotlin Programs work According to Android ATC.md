@@ -7,7 +7,7 @@ week-created: Week 06.7
 time-created: 08:52 PM
 ---
 
-# How Kotlin Programs work According to [Android Advanced Training Consultants](Android%20Advanced%20Training%20Consultants)
+# How Kotlin Programs work According to [Android Advanced Training Consultants](Android%20Advanced%20Training%20Consultants.md)
 
 Related : [Kotlin Programming Language](Kotlin%20Programming%20Language.md)
 
