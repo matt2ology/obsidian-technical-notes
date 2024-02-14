@@ -13,6 +13,6 @@ Related : [Kotlin Variables According to Android ATC](Kotlin%20Variables%20Accor
 
 Source : [Android ATC - Android Application Development v12](Android%20ATC%20-%20Android%20Application%20Development%20v12.md)
 
-Topics : [Kotlin](Kotlin%20Programming%20Language.md)
+Topics : [Kotlin](../../4-hub-notes-🚉/Kotlin%20Programming%20Language.md)
 
 Every app must have a top-level `main()` function, which serves as the entry point to the app.

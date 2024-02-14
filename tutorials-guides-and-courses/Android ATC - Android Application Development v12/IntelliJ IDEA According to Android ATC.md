@@ -13,7 +13,7 @@ Related :
 
 Source : [Android ATC - Android Application Development v12](Android%20ATC%20-%20Android%20Application%20Development%20v12.md)
 
-Topics : [Java](Java%20Programming%20Language.md), [Kotlin](Kotlin%20Programming%20Language.md), [Dart](Dart)
+Topics : [Java](../../4-hub-notes-🚉/Java%20Programming%20Language.md), [Kotlin](../../4-hub-notes-🚉/Kotlin%20Programming%20Language.md), [Dart](Dart)
 
-Developed by JetBrains, IntelliJ IDEA is a free [Integrated Development Environment (IDE)](Integrated%20Development%20Environment.md) 
+Developed by JetBrains, IntelliJ IDEA is a free [Integrated Development Environment (IDE)](../../3-permanent-notes-🧲/Integrated%20Development%20Environment.md) 
 used to develop Java, Kotlin, Dart, and other programming languages.

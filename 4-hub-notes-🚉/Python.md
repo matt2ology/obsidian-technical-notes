@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Python programming language
 note-type: hub
 tags:
   - hub

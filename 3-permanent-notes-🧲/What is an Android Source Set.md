@@ -10,7 +10,7 @@ status: todo
 
 # What is an Android Source Set
 
-Related : [source set](source%20set)
+Related : [Source Set](Source%20Set.md)
 
 Source : [Android Studio - Gradle Plugin - Configure your build - Source sets](https://developer.android.com/build#sourcesets)
 

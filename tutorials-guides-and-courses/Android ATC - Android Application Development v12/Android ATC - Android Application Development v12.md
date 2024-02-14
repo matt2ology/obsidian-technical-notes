@@ -11,7 +11,7 @@ Link to Book : [Android Application Development v12 by Android ATC](https://andr
 
 Related : [CSC 196P - Cloud and Mobile Pragmatics](../CSC%20196P%20-%20Cloud%20and%20Mobile%20Pragmatics/README.md)
 
-Topics : [Android Development](../../4-hub-notes-🚉/Android%20Development.md)
+Topics : [Android Development](../../4-hub-notes-🚉/Android%20Development.md) - [Kotlin](../../4-hub-notes-🚉/Kotlin%20Programming%20Language.md)
 
 Links to all notes, questions, and insights made while reading:
 
@@ -21,13 +21,9 @@ Links to all notes, questions, and insights made while reading:
 - [How Kotlin Programs work According to Android ATC](How%20Kotlin%20Programs%20work%20According%20to%20Android%20ATC.md)
 - [Kotlin Software Prerequisites According to Android ATC](Kotlin%20Software%20Prerequisites%20According%20to%20Android%20ATC.md)
 - [IntelliJ IDEA According to Android ATC](IntelliJ%20IDEA%20According%20to%20Android%20ATC.md)
-- [Installing IntelliJ IDE According to Android ATC](Installing%20IntelliJ%20IDE%20According%20to%20Android%20ATC)
-- [Creating a Kotlin Program According to Android ATC](Creating%20a%20Kotlin%20Program%20According%20to%20Android%20ATC)
-- [Running a Kotlin Program According to Android ATC](Running%20a%20Kotlin%20Program%20According%20to%20Android%20ATC)
-- [The main( ) function According to Android ATC](<The%20main(%20)%20function%20According%20to%20Android%20ATC>)
-- [Writing Comments According to Android ATC](Writing%20Comments%20According%20to%20Android%20ATC)
-- [Kotlin Variables According to Android ATC](Kotlin%20Variables%20According%20to%20Android%20ATC)
-- [Kotlin Data Types According to Android ATC](Kotlin%20Data%20Types%20According%20to%20Android%20ATC)
+- [The main( ) function in Kotlin According to Android ATC](<The%20main(%20)%20function%20in%20Kotlin%20According%20to%20Android%20ATC.md>)
+- [Kotlin Variables According to Android ATC](Kotlin%20Variables%20According%20to%20Android%20ATC.md)
+- [Kotlin Data Types According to Android ATC](Kotlin%20Data%20Types%20According%20to%20Android%20ATC.md)
 - [Input of Information to Kotlin Program According to Android ATC](Input%20of%20Information%20to%20Kotlin%20Program%20According%20to%20Android%20ATC)
 
 ## Lesson 2: Control Flow Statements

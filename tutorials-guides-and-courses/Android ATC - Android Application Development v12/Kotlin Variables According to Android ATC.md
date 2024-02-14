@@ -13,7 +13,7 @@ Related : [The main( ) function in Kotlin According to Android ATC](<The%20main(
 
 Source : [Android ATC - Android Application Development v12](Android%20ATC%20-%20Android%20Application%20Development%20v12.md)
 
-Topics : [Kotlin](Kotlin%20Programming%20Language.md)
+Topics : [Kotlin](../../4-hub-notes-🚉/Kotlin%20Programming%20Language.md)
 
 ## Mutable variables
 

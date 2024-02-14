@@ -7,7 +7,7 @@ tags:
 
 # Android Development
 
-Related : [Java Programming Language](../_inbox/Java%20Programming%20Language.md) - [Kotlin Programming Language](../_inbox/Kotlin%20Programming%20Language.md)
+Related : [Java](Java.md) - [Kotlin Programming Language](Kotlin%20Programming%20Language.md)
 
 Topics : [Software Development](Software%20Development)
 

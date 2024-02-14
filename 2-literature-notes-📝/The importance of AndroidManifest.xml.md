@@ -9,7 +9,7 @@ time-created: 09:59 PM
 
 # The importance of AndroidManifest.xml
 
-Related : [What is an Android Source Set](What%20is%20an%20Android%20Source%20Set)
+Related : [What is an Android Source Set](../3-permanent-notes-🧲/What%20is%20an%20Android%20Source%20Set.md)
 
 Source : [Forrester_et_al-How to Build Android Apps with Kotlin](../kindle-highlights/Forrester_et_al-How%20to%20Build%20Android%20Apps%20with%20Kotlin.md)
 
@@ -19,7 +19,7 @@ TL;DR : [AndroidManifest.xml](../3-permanent-notes-🧲/AndroidManifest.xml.md)
 
 ## Notes
 
-It sits at the root of the project's "[source set](../_inbox/Source%20Set.md)".
+It sits at the root of the project's "[source set](../3-permanent-notes-🧲/Source%20Set.md)".
 Found in the folder path: `app | manifests | AndroidManifest.xml`
 
 The app is driven from the `AndroidManifest.xml` file, a manifest (i.e. a list) file that

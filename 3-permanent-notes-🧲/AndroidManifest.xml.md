@@ -13,7 +13,7 @@ time-created: 11:29 PM
 Related :
 
 - [The importance of AndroidManifest.xml](../2-literature-notes-📝/The%20importance%20of%20AndroidManifest.xml.md)
-- [Android Permissions Groups](Android%20Permissions%20Groups)
+- [Android Permissions Groups](Android%20Permissions%20Groups.md)
 
 Topic : [Android Development](../4-hub-notes-🚉/Android%20Development.md)
 
