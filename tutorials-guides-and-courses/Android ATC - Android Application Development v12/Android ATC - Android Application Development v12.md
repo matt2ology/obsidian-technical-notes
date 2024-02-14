@@ -19,7 +19,7 @@ Links to all notes, questions, and insights made while reading:
 
 - [Kotlin Advantages According to ATC](Kotlin%20Advantages%20According%20to%20ATC.md)
 - [How Kotlin Programs work According to Android ATC](How%20Kotlin%20Programs%20work%20According%20to%20Android%20ATC.md)
-- [Kotlin Software Prerequisites According to Android ATC](Kotlin%20Software%20Prerequisites%20According%20to%20Android%20ATC)
+- [Kotlin Software Prerequisites According to Android ATC](Kotlin%20Software%20Prerequisites%20According%20to%20Android%20ATC.md)
 - [IntelliJ IDEA According to Android ATC](IntelliJ%20IDEA%20According%20to%20Android%20ATC)
 - [Installing IntelliJ IDE According to Android ATC](Installing%20IntelliJ%20IDE%20According%20to%20Android%20ATC)
 - [Creating a Kotlin Program According to Android ATC](Creating%20a%20Kotlin%20Program%20According%20to%20Android%20ATC)
