@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Android ATC
 note-type: permanent
 date-created: 2024-02-13
 long-form-date-created: Tuesday, February 13, 2024
