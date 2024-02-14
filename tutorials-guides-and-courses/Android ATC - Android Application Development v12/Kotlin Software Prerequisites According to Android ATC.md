@@ -7,7 +7,7 @@ time-created: 04:19 PM
 author:
 ---
 
-# Kotlin Software Prerequisites According to Android ATC
+# Kotlin Software Prerequisites According to [Android Advanced Training Consultants](Android%20Advanced%20Training%20Consultants.md)
 
 Related :
 
