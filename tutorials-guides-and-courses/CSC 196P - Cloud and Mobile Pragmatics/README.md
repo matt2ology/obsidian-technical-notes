@@ -1,5 +1,6 @@
 ---
 aliases:
+  - "README: CSC 196P - Cloud and Mobile Pragmatics"
 note-type: readme
 date-created: 2024-01-25
 long-form-date-created: Thursday, January 25, 2024
