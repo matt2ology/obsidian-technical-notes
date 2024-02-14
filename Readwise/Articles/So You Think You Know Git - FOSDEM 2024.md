@@ -18,7 +18,7 @@
 Note: You can just blame a portion of the file with flag `-L` for line and the inclusive line range: `git blame -L <fromLine, toLine> path/to/file`
 
 > Git log dash L and then give it like a function name. And it will try to figure out what that
-> block is, hueristically and do the exact same thing. So if you it depends on the language.
+> block is, heuristically and do the exact same thing. So if you it depends on the language.
 > ([View Highlight](https://read.readwise.io/read/01hpk5vd3jgv67n04t0khgh4dq))
 
 Note: One can also `git log` a portion of the file as one can also do with `git blame`: `git log -L <fromLine, toLine>:path/to/file`.
