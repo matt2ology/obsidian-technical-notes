@@ -7,7 +7,7 @@ week-created: "Week 06.4"
 time-created: "06:25 PM"
 ---
 
-# Kotlin Advantages According to Advanced Training Consultants
+# Kotlin Advantages According to [Android Advanced Training Consultants](Android%20Advanced%20Training%20Consultants.md)
 
 Created from : [Android ATC - Android Application Development v12](Android%20ATC%20-%20Android%20Application%20Development%20v12.md)
 
