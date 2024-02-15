@@ -22,11 +22,11 @@ Links to all notes, questions, and insights made while reading: [How to Build An
 
 - [Android Permissions Groups](../3-permanent-notes-🧲/Android%20Permissions%20Groups.md)
 - [AndroidManifest.xml](../3-permanent-notes-🧲/AndroidManifest.xml.md)
-- [The importance of AndroidManifest.xml](../2-literature-notes-📝/The%20importance%20of%20AndroidManifest.xml.md)
+- [What is the Importance of AndroidManifest.xml](../2-literature-notes-📝/What%20is%20the%20Importance%20of%20AndroidManifest.xml.md)
 - [How to configure the Android manifest with internet permission](../3-permanent-notes-🧲/How%20to%20configure%20the%20Android%20manifest%20with%20internet%20permission.md)
 - Using Gradle to build, configure, and manage app dependencies
 
 ## Questions
 
 - [ ] [What is an Android Source Set](../3-permanent-notes-🧲/What%20is%20an%20Android%20Source%20Set.md)
-- [ ] [What is Gradle](What%20is%20Gradle)
+- [ ] [[What is the Gradle build tool]]
