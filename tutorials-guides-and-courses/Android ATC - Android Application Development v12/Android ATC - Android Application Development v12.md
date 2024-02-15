@@ -44,7 +44,7 @@ Links to all notes, questions, and insights made while reading:
 - [[Kotlin Classes According to Android ATC]]
 - [[Kotlin Collections According to Android ATC]]
 
-### Lesson 4: Android Framework and Android Studio
+## Lesson 4: Android Framework and Android Studio
 
 - [[Introduction to Android Framework and Android Studio According to Android ATC]]
 - [[Android Platform Architecture According to Android ATC]]
@@ -52,8 +52,6 @@ Links to all notes, questions, and insights made while reading:
 - [[Components of Android Application According to Android ATC]]
 - [[Types of Android processes and their priorities According to Android ATC]]
 - [[What is Android Studio Gradle According to Android ATC]]
-
-## Lab Exercise notes
 
 ### Lab 4: Creating Your First Application
 
