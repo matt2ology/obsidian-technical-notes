@@ -22,6 +22,6 @@ Links to all notes, questions, and insights made while reading
 
 ## Questions (Who, What, When, Where, Why, and How)
 
-Check off notes with `-` instead of `x`, so it does not cross out line item in Obsidian
+Check off notes with `-` instead of `x`, so it does not cross out line item in  [Obsidian](https://obsidian.md/)
 
 - [ ] Question_0001
