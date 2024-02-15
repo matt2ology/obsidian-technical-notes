@@ -137,12 +137,12 @@ fun main(){
 }
 ```
 
+> This means that the array `x` now includes the following values: `[5, 7, 12]`
+>
 > Outputs
 >
 > > 9
 > > 12
->
-> This means that the array `x` now includes the following values: `[5, 7, 12]`
 
 ## Data Type Conversions
 
