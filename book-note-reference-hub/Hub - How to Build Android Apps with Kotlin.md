@@ -16,9 +16,7 @@ Related :
 
 Topics : [Android Development](../4-hub-notes-🚉/Android%20Development.md) - [Kotlin](../4-hub-notes-🚉/Kotlin%20Programming%20Language.md)
 
-Links to all notes, questions, and insights made while reading: How to Build Android Apps
-with Kotlin: A practical guide to developing, testing, and publishing your first Android apps
-by Alex Forrester, Eran Boudjnah, Alexandru Dumbravan, and Jomar Tigcal
+Links to all notes, questions, and insights made while reading: [How to Build Android Apps with Kotlin: A practical guide to developing, testing, and publishing your first Android apps](https://www.amazon.com/How-Build-Android-Apps-Kotlin-ebook/dp/B0BVZX4JHS/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)
 
 ## Notes and Insights
 
