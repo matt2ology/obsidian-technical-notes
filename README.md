@@ -15,7 +15,7 @@ Using obsidian to manage note creation and note-link referencing : <https://obsi
 
 [Note Taking Workflow Draft](_inbox/Note%20Taking%20Workflow%20Draft.md)
 
-[Books I'm currently reading](Book%20Notes%20and%20References%20Library/README.md)
+[Books I'm currently reading](Book%20Notes%20and%20References%20Library%20📚/README.md)
 
 [Tech Talks](4-hub-notes-🚉/Tech%20Talks.md)
 
