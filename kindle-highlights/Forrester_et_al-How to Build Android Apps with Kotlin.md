@@ -53,7 +53,7 @@ understand the importance of the AndroidManifest.xml — location: [578](kindle:
 
 - What is the importance of AndriodManifest.xml
 
-[The importance of AndroidManifest.xml](../2-literature-notes-📝/The%20importance%20of%20AndroidManifest.xml.md)
+[What is the Importance of AndroidManifest.xml](../2-literature-notes-📝/What%20is%20the%20Importance%20of%20AndroidManifest.xml.md)
 
 ---
 
