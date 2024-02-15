@@ -28,61 +28,34 @@ Links to all notes, questions, and insights made while reading:
 
 ## Lesson 2: Control Flow Statements
 
+- [[Introduction to Kotlin Control Flow Statements According to Android ATC]]
+- [[Kotlin If Statement According to Android ATC]]
+- [[Kotlin If-Else Statement According to Android ATC]]
+- [[Kotlin If-Else Logical Operators According to Android ATC]]
+- [[Kotlin For Loops According to Android ATC]]
+- [[Kotlin Do-while Loops According to Android ATC]]
+- [[Kotlin Jump Expressions According to Android ATC]]
+- [[Kotlin Functions According to Android ATC]]
+
 ## Lesson 3: Functions & Object-Oriented Programming (OOP)
 
-Object-Oriented Programming (OOP)
-Object
-
-### Class
-
-Creating a Class
-Providing Constructors for Your Classes
-Class Inheritance
-Abstract Class
-Interface Class
-Generic Class
-Class Variables
-Member Variables
-
-### Kotlin Collections
-
-Hashmaps
-ArrayList
-listof and mutableListOf
+- [[Object-Oriented Programming According to Android ATC]]
+- [[Kotlin Object According to Android ATC]]
+- [[Kotlin Classes According to Android ATC]]
+- [[Kotlin Collections According to Android ATC]]
 
 ### Lesson 4: Android Framework and Android Studio
 
-#### Introduction
+- [[Introduction to Android Framework and Android Studio According to Android ATC]]
+- [[Android Platform Architecture According to Android ATC]]
+- [[Android Libraries According to Android ATC]]
+- [[Components of Android Application According to Android ATC]]
+- [[Types of Android processes and their priorities According to Android ATC]]
+- [[What is Android Studio Gradle According to Android ATC]]
 
-#### Android Platform Architecture
+## Lab Exercise notes
 
-#### Android Libraries
-
-#### Components of Android Application
-
-#### Types of Android processes and their priorities
-
-#### Android Studio
-
-What is Android Studio?
-Android Studio Software Prerequisite
-Install Android Studio
-
-#### Creating Kotlin Project Using Android Studio
-
-#### Run Android App
-
-Instant Run
-
-#### Setup an Android Virtual Device
-
-#### What is Android Studio Gradle?
-
-#### Run your Apps on a Hardware Device (Physical Phone)
-
-Run your Android App on Android Phone
-
-#### Lab 4: Creating Your First Application
+### Lab 4: Creating Your First Application
 
 Create your first Android application
 Build a "Simple Calculator" Application
