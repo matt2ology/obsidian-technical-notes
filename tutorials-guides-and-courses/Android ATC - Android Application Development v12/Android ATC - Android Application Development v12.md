@@ -24,7 +24,7 @@ Links to all notes, questions, and insights made while reading:
 - [The main( ) function in Kotlin According to Android ATC](<The%20main(%20)%20function%20in%20Kotlin%20According%20to%20Android%20ATC.md>)
 - [Kotlin Variables According to Android ATC](Kotlin%20Variables%20According%20to%20Android%20ATC.md)
 - [Kotlin Data Types According to Android ATC](Kotlin%20Data%20Types%20According%20to%20Android%20ATC.md)
-- [Input of Information to Kotlin Program According to Android ATC](Input%20of%20Information%20to%20Kotlin%20Program%20According%20to%20Android%20ATC)
+- [Input of Information to Kotlin Program According to Android ATC](Input%20of%20Information%20to%20Kotlin%20Program%20According%20to%20Android%20ATC.md)
 
 ## Lesson 2: Control Flow Statements
 
