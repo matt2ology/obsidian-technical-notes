@@ -7,7 +7,7 @@ tags:
 
 # How to Build Android Apps with Kotlin
 
-Kindle notes and highlights :
+Kindle Notes and Highlights :
 
 - Synced by [Kindle Highlights](https://github.com/hadynz/obsidian-kindle-plugin): [Forrester_et_al-How to Build Android Apps with Kotlin](../../kindle-highlights/Forrester_et_al-How%20to%20Build%20Android%20Apps%20with%20Kotlin.md)
 - Synced by [Readwise](https://readwise.io/): [How to Build Android Apps With Kotlin](../../Readwise/Books/How%20to%20Build%20Android%20Apps%20With%20Kotlin.md)
