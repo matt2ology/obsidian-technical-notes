@@ -7,13 +7,13 @@ time-created: 04:19 PM
 author:
 ---
 
-# Input of Information to Kotlin Program According to [Android ATC](../tutorials-guides-and-courses/Android%20ATC%20-%20Android%20Application%20Development%20v12/Android%20Advanced%20Training%20Consultants.md)
+# Input of Information to Kotlin Program According to [Android ATC](Android%20Advanced%20Training%20Consultants.md)
 
-Related : [Kotlin Variables According to Android ATC](../tutorials-guides-and-courses/Android%20ATC%20-%20Android%20Application%20Development%20v12/Kotlin%20Variables%20According%20to%20Android%20ATC.md)
+Related : [Kotlin Variables According to Android ATC](Kotlin%20Variables%20According%20to%20Android%20ATC.md)
 
-Source : [Android ATC - Android Application Development v12](../tutorials-guides-and-courses/Android%20ATC%20-%20Android%20Application%20Development%20v12/Android%20ATC%20-%20Android%20Application%20Development%20v12.md)
+Source : [Android ATC - Android Application Development v12](Android%20ATC%20-%20Android%20Application%20Development%20v12.md)
 
-Topics : [Kotlin](../4-hub-notes-🚉/Kotlin%20Programming%20Language.md)
+Topics : [Kotlin](../../4-hub-notes-🚉/Kotlin%20Programming%20Language.md)
 
 `readLine()` function allows the Kotlin program user to enter string values or intercept
 keyboard input from the console
