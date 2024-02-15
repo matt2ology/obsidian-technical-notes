@@ -28,5 +28,7 @@ Links to all notes, questions, and insights made while reading: [How to Build An
 
 ## Questions (Who, What, When, Where, Why, and How)
 
+Check off notes with `-` instead of `x`, so it does not cross out line item in Obsidian
+
 - [ ] [[What is an Android Source Set]] SEE TO: https://developer.android.com/build#sourcesets
 - [ ] [[What is the Gradle build tool]]
