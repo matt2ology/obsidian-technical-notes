@@ -13,4 +13,4 @@ Topics : [Software Development](Software%20Development)
 
 ## Books
 
-- [Hub - How to Build Android Apps with Kotlin](../Book%20Notes%20and%20References%20Library/Hub%20-%20How%20to%20Build%20Android%20Apps%20with%20Kotlin.md)
+- [ISBN-13: 978-1837634934) How to Build Android Apps with Kotlin: A practical guide to developing, testing, and publishing your first Android apps](../Book%20Notes%20and%20References%20Library/Hub%20-%20How%20to%20Build%20Android%20Apps%20with%20Kotlin.md)
