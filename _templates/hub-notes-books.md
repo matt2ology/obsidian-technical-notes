@@ -20,6 +20,6 @@ Links to all notes, questions, and insights made while reading
 
 ## Notes and Insights
 
-## Questions
+## Questions (Who, What, When, Where, Why, and How)
 
 - [ ] Question_0001
