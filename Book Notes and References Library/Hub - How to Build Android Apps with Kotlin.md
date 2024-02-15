@@ -28,5 +28,5 @@ Links to all notes, questions, and insights made while reading: [How to Build An
 
 ## Questions (Who, What, When, Where, Why, and How)
 
-- [ ] [[What is an Android Source Set]]
+- [ ] [[What is an Android Source Set]] SEE TO: https://developer.android.com/build#sourcesets
 - [ ] [[What is the Gradle build tool]]
