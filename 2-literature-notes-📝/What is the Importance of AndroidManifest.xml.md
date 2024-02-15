@@ -11,7 +11,7 @@ time-created: 09:59 PM
 
 Related : [What is an Android Source Set](../3-permanent-notes-🧲/What%20is%20an%20Android%20Source%20Set.md)
 
-Source - from kindle notes and highlights : [Hub - How to Build Android Apps with Kotlin](../Book%20Notes%20and%20References%20Library/Hub%20-%20How%20to%20Build%20Android%20Apps%20with%20Kotlin.md)
+Source (from kindle notes and highlights) : [Hub - How to Build Android Apps with Kotlin](../Book%20Notes%20and%20References%20Library/Hub%20-%20How%20to%20Build%20Android%20Apps%20with%20Kotlin.md)
 
 Topics : [Android Development](../4-hub-notes-🚉/Android%20Development.md)
 
