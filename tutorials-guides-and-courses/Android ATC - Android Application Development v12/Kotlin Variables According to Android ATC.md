@@ -9,7 +9,10 @@ author:
 
 # Kotlin Variables According to [Android ATC](Android%20Advanced%20Training%20Consultants.md)
 
-Related : [The main( ) function in Kotlin According to Android ATC](<The%20main(%20)%20function%20in%20Kotlin%20According%20to%20Android%20ATC.md>)
+Related :
+
+- [The main( ) function in Kotlin According to Android ATC](<The%20main(%20)%20function%20in%20Kotlin%20According%20to%20Android%20ATC.md>)
+- [Input of Information to Kotlin Program According to Android ATC](../../_inbox/Input%20of%20Information%20to%20Kotlin%20Program%20According%20to%20Android%20ATC.md)
 
 Source : [Android ATC - Android Application Development v12](Android%20ATC%20-%20Android%20Application%20Development%20v12.md)
 
