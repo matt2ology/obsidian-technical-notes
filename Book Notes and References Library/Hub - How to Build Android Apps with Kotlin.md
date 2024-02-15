@@ -26,7 +26,7 @@ Links to all notes, questions, and insights made while reading: [How to Build An
 - [How to configure the Android manifest with internet permission](../3-permanent-notes-🧲/How%20to%20configure%20the%20Android%20manifest%20with%20internet%20permission.md)
 - Using Gradle to build, configure, and manage app dependencies
 
-## Questions
+## Questions (Who, What, When, Where, Why, and How)
 
 - [ ] [[What is an Android Source Set]]
 - [ ] [[What is the Gradle build tool]]
