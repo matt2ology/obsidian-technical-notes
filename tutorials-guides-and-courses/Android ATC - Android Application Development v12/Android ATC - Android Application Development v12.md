@@ -9,6 +9,8 @@ tags:
 
 Link to Book : [Android Application Development v12 by Android ATC](https://androidatc.com/public/_signin.php)
 
+ISBN 13: 9780990014300
+
 Related : [CSC 196P - Cloud and Mobile Pragmatics](../CSC%20196P%20-%20Cloud%20and%20Mobile%20Pragmatics/README.md)
 
 Topics : [Android Development](../../4-hub-notes-🚉/Android%20Development.md) - [Kotlin](../../4-hub-notes-🚉/Kotlin%20Programming%20Language.md)
