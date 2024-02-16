@@ -17,11 +17,8 @@ source-tag: kindle
 ## Highlights
 
 This book uses Android Studio, with Kotlin, to create a IMDb like app, write test, and run on virtual devices. Development will be learned from structuring an app, building out the UI with fragments via Jetpack Compose, fragments, and various navigation patterns.
-
 We will use Android's RecyclerView Class, and the library that contains it, to display large sets of data, and learn how to fetch data and images from the web.
-
 Then we'll learn about location services, and the permissions model before working with notifications and how to persist data. Utilize Android Architecture Components (AAC) to cleanly structure code and experiment with architecture patters and the benefits of dependency injection. Co-routines and Flow API are covered for asynchronous programming.
-
 After you'll learn how to publish the app on the Google Play Store.
 
 > What this book covers ([Location 417](https://readwise.io/to_kindle?action=open&asin=B0BVZX4JHS&location=417))
@@ -74,6 +71,12 @@ Question - what is the Android application structure?
 [Introduction to Kotlin (Google I/O '17)](https://www.youtube.com/watch?v=X1RVYt2QKQE&ab_channel=AndroidDevelopers)
 
 > The programming language you will use throughout this course to create Android apps is Kotlin. Previously the standard language to create Android apps was Java. Since Google I/O 2017 (the annual Google developer conference), this has been Google’s preferred language for Android app development. ([Location 606](https://readwise.io/to_kindle?action=open&asin=B0BVZX4JHS&location=606))
+
+---
+
+Using Android Studio IDE platform allows one to benefit from JetBrains' vertical integration; for, JetBrains develops and maintains the Kotlin programming language, integrated all the tool-sets and pipelines for development of Kotlin with Android Studio, and Android Studio was built on top of their other IDE application IntelliJ IDEA.
+
+> What really sets Android Studio apart from other Android development environments is that Kotlin was created by JetBrains, the company that created IntelliJ IDEA, the software Android Studio is built on. Therefore, you can benefit from established and evolving first-class support for Kotlin. ([Location 608](https://readwise.io/to_kindle?action=open&asin=B0BVZX4JHS&location=608))
 
 ---
 
