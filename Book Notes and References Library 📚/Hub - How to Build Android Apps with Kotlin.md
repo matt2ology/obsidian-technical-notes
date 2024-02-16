@@ -20,6 +20,10 @@ Links to all notes, questions, and insights made while reading: [How to Build An
 
 ## Notes and Insights
 
+### Chapter 1 - Creating Your First App
+
+This chapter is an introduction to Android, where you will set up your environment and focus on the fundamentals of Android development. By the end of this chapter, you will have gained the knowledge required to create an Android app from scratch and install it on a virtual or physical Android device.
+
 - [Android Permissions Groups](../3-permanent-notes-🧲/Android%20Permissions%20Groups.md)
 - [AndroidManifest.xml](../3-permanent-notes-🧲/AndroidManifest.xml.md)
 - Using Gradle to build, configure, and manage app dependencies
