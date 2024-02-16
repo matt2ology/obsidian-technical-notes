@@ -33,7 +33,7 @@ This chapter is an introduction to Android, where you will set up your environme
 Check off notes with `-` instead of `x`, so it does not cross out line item in [Obsidian](https://obsidian.md/)
 
 - [ ] [[What is the Android application structure]]
-- [ ] [[What is an Android Source Set]] SEE TO: https://developer.android.com/build#sourcesets
+- [ ] [[What is an Android Source Set]] SEE TO: <https://developer.android.com/build#sourcesets>
 - [ ] [[What is the Gradle build tool]]
 - [-] [How to configure the Android manifest with internet permission](../3-permanent-notes-🧲/How%20to%20configure%20the%20Android%20manifest%20with%20internet%20permission.md)
 - [-] [What is the Importance of AndroidManifest.xml](../2-literature-notes-📝/What%20is%20the%20Importance%20of%20AndroidManifest.xml.md)
