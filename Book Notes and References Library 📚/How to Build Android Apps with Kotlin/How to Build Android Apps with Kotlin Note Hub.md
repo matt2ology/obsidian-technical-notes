@@ -14,7 +14,7 @@ Kindle Notes and Highlights :
 
 Related :
 
-Topics : [Android Development](../4-hub-notes-🚉/Android%20Development.md) - [Kotlin](../4-hub-notes-🚉/Kotlin%20Programming%20Language.md)
+Topics : [Android Development](../../4-hub-notes-🚉/Android%20Development.md) - [Kotlin](../../4-hub-notes-🚉/Kotlin%20Programming%20Language.md)
 
 Links to all notes, questions, and insights made while reading: [Amazon link to book: How to Build Android Apps with Kotlin: A practical guide to developing, testing, and publishing your first Android apps](https://www.amazon.com/How-Build-Android-Apps-Kotlin-ebook/dp/B0BVZX4JHS/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)
 
@@ -24,8 +24,8 @@ Links to all notes, questions, and insights made while reading: [Amazon link to 
 
 This chapter is an introduction to Android, where you will set up your environment and focus on the fundamentals of Android development. By the end of this chapter, you will have gained the knowledge required to create an Android app from scratch and install it on a virtual or physical Android device.
 
-- [Android Permissions Groups](../3-permanent-notes-🧲/Android%20Permissions%20Groups.md)
-- [AndroidManifest.xml](../3-permanent-notes-🧲/AndroidManifest.xml.md)
+- [Android Permissions Groups](../../3-permanent-notes-🧲/Android%20Permissions%20Groups.md)
+- [AndroidManifest.xml](../../3-permanent-notes-🧲/AndroidManifest.xml.md)
 - Using Gradle to build, configure, and manage app dependencies
 
 ## Questions (Who, What, When, Where, Why, and How)
@@ -35,8 +35,8 @@ Check off notes with `-` instead of `x`, so it does not cross out line item in [
 - [ ] [[What is the Android application structure]]
 - [ ] [[What is an Android Source Set]] SEE TO: <https://developer.android.com/build#sourcesets>
 - [ ] [[What is the Gradle build tool]]
-- [-] [How to configure the Android manifest with internet permission](../3-permanent-notes-🧲/How%20to%20configure%20the%20Android%20manifest%20with%20internet%20permission.md)
-- [-] [What is the Importance of AndroidManifest.xml](../2-literature-notes-📝/What%20is%20the%20Importance%20of%20AndroidManifest.xml.md)
+- [-] [How to configure the Android manifest with internet permission](../../3-permanent-notes-🧲/How%20to%20configure%20the%20Android%20manifest%20with%20internet%20permission.md)
+- [-] [What is the Importance of AndroidManifest.xml](../../2-literature-notes-📝/What%20is%20the%20Importance%20of%20AndroidManifest.xml.md)
 
 ## Book Exercise Notes
 
