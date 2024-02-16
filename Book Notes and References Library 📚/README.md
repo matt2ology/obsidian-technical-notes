@@ -23,3 +23,5 @@ Related : [Tutorials and Guides](../tutorials-guides-and-courses/README.md)
 - [Vo-Mining Social Media](kindle-highlights/Vo-Mining%20Social%20Media.md)
 
 ## Books Read
+
+- [ ] 
