@@ -22,7 +22,10 @@ Links to all notes, questions, and insights made while reading: [Amazon link to 
 
 ### Chapter 1 - Creating Your First App
 
-This chapter is an introduction to Android, where you will set up your environment and focus on the fundamentals of Android development. By the end of this chapter, you will have gained the knowledge required to create an Android app from scratch and install it on a virtual or physical Android device.
+This chapter is an introduction to Android, where you will set up your
+environment and focus on the fundamentals of Android development. By the end
+of this chapter, you will have gained the knowledge required to create an
+Android app from scratch and install it on a virtual or physical Android device.
 
 - [Android Permissions Groups](../../3-permanent-notes-🧲/Android%20Permissions%20Groups.md)
 - [AndroidManifest.xml](../../3-permanent-notes-🧲/AndroidManifest.xml.md)
@@ -62,8 +65,9 @@ This template-driven approach covers the core options one would need to configur
    6. **Use legacy android.support libraries:** Leave this unchecked (do not mark for use). Modern Android development uses [AndroidX](AndroidX) libraries and is the replacement of the (legacy) android.support libraries since 2018 ([Migrating to AndroidX: The time is right (Android Dev Summit '19)](https://www.youtube.com/watch?v=Hyt7LR5mXLc&ab_channel=AndroidDevelopers)). Using [AndroidX](AndroidX) includes new Android components called [[JetPack]].
 5. Once all values have been set click "Finish".
 
-Project will be built. The activity selected (see list item 3), under the "Package Name", will be
-listed as "MainActivity" in one tab and the layout used for the screen is listed as
-"activity_main.xml" in another tab. Assuming fresh installation and default view layout, the
-application structure folders are in the left panel.
+Project will be built. The activity selected (see list item 3), under the
+"Package Name", will be listed as "MainActivity" in one tab and the layout used
+for the screen is listed as "activity_main.xml" in another tab. Assuming fresh
+installation and default view layout, the application structure folders are in
+the left panel.
 
