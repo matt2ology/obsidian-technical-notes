@@ -15,6 +15,8 @@ Source : [How to Build Android Apps with Kotlin Note Hub](How%20to%20Build%20And
 
 Topics : [Android Development](../../4-hub-notes-🚉/Android%20Development.md)
 
+After installing and making a new Android project: [Android Studio New Project Configuration Empty Activity](Android%20Studio%20New%20Project%20Configuration%20Empty%20Activity.md)
+
 ## Android Emulator
 
 This is the base emulator, which can be configured to create virtual devices
