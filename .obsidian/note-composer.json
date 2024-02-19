@@ -1,5 +1,5 @@
 {
   "askBeforeMerging": true,
-  "replacementText": "embed",
+  "replacementText": "link",
   "template": "_templates/note-composer-extract-refactor"
 }
