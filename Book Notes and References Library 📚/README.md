@@ -12,7 +12,7 @@ Related : [Tutorials and Guides](../tutorials-guides-and-courses/README.md)
 
 [SQ4R Reading System](https://www.usu.edu/academic-support/files/SQ4R_Reading_System.pdf)
 
-Readwise, catch-all, highlights: [Readwise Directory](<../Readwise>)
+Readwise, catch-all, highlights: [Readwise Directory](../Readwise/README.md)
 
 ## Currently Reading
 
