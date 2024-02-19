@@ -6,9 +6,9 @@ kindle-sync:
     testing, and publishing your first Android apps
   author: "Alex Forrester, Eran Boudjnah, Alexandru Dumbravan, and Jomar Tigcal"
   asin: B0BVZX4JHS
-  lastAnnotatedDate: "2024-02-16"
+  lastAnnotatedDate: "2024-02-17"
   bookImageUrl: "https://m.media-amazon.com/images/I/816f9tBDLbL._SY160.jpg"
-  highlightsCount: 16
+  highlightsCount: 18
 ---
 
 # How to Build Android Apps with Kotlin: A practical guide to developing, testing, and publishing your first Android apps
