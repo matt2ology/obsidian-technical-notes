@@ -31,6 +31,7 @@ Android app from scratch and install it on a virtual or physical Android device.
 - [AndroidManifest.xml](../../3-permanent-notes-🧲/AndroidManifest.xml.md)
 - Using Gradle to build, configure, and manage app dependencies
 - [Android Studio New Project Configuration Empty Activity](../../_inbox/Android%20Studio%20New%20Project%20Configuration%20Empty%20Activity.md)
+- [Installing Android Studio Settings](Installing%20Android%20Studio%20Settings.md)
 
 ### Chapter 2 - Building User Screen Flows
 
