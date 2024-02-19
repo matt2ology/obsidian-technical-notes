@@ -19,7 +19,7 @@ TL;DR : [AndroidManifest.xml](../3-permanent-notes-🧲/AndroidManifest.xml.md)
 
 ## Notes
 
-It sits at the root of the project's "[source set](../3-permanent-notes-🧲/Source%20Set.md)".
+It sits at the root of the project's "source set".
 Found in the folder path: `app | manifests | AndroidManifest.xml`
 
 The app is driven from the `AndroidManifest.xml` file, a manifest (i.e. a list) file that
