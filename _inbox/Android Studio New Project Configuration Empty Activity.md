@@ -19,7 +19,7 @@ A template-driven approach will show one the core options one will need to confi
 
 When all filed are set with desired values...
 
-One can then see the activity has been created (`MainActivity`) in one tab and the layout used for the screen in the other tab (`activity_main.xml).
+One can then see the activity has been created `MainActivity` in one tab and the layout used for the screen in the other tab (`activity_main.xml).
 
 ##### Name
 
