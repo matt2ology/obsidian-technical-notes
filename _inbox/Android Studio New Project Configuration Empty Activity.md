@@ -21,6 +21,10 @@ When all filed are set with desired values...
 
 One can then see the activity has been created `MainActivity` in one tab and the layout used for the screen in the other tab (`activity_main.xml).
 
+> `MainActivity` located in:
+>
+> > projectname/app/src/main/java/com/example/myapplication/myapplication/MainActivity
+
 ##### Name
 
 Similar to the name of your Android project, this name will appear as the default name of your app when it’s installed on a phone and visible on Google Play.
