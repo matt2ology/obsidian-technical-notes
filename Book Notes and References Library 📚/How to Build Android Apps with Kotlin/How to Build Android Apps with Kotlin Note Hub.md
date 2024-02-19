@@ -81,4 +81,4 @@ Check off notes with `-` instead of `x`, so it does not cross out line item in [
 ### Exercise 1
 
 - [Exercise 1.01 – creating an Android Studio project for your app](Exercise%201.01%20–%20creating%20an%20Android%20Studio%20project%20for%20your%20app.md)
-
+- [Exercise 1.02 - Setting up a virtual device and running your app](Exercise%201.02%20-%20Setting%20up%20a%20virtual%20device%20and%20running%20your%20app.md)
