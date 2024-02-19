@@ -33,6 +33,13 @@ Android app from scratch and install it on a virtual or physical Android device.
 - [Android Studio New Project Configuration Empty Activity](Android%20Studio%20New%20Project%20Configuration%20Empty%20Activity.md)
 - [Installing Android Studio Settings](Installing%20Android%20Studio%20Settings.md)
 
+#### Exercise 1
+
+- [Exercise 1.01 – creating an Android Studio project for your app](Exercise%201.01%20–%20creating%20an%20Android%20Studio%20project%20for%20your%20app.md)
+- [Exercise 1.02 - Setting up a virtual device and running your app](Exercise%201.02%20-%20Setting%20up%20a%20virtual%20device%20and%20running%20your%20app.md)
+
+#### Exercise 1.03 - configuring the Android manifest internet permission
+
 ### Chapter 2 - Building User Screen Flows
 
 ### Chapter 3 - Developing the UI with Fragments
@@ -75,12 +82,3 @@ Check off notes with `-` instead of `x`, so it does not cross out line item in [
 - [ ] [[What is the Android application structure]]
 - [ ] [[What is AndroidX]]
 - [ ] [[What is an Android Source Set]] SEE TO: <https://developer.android.com/build#sourcesets>
-
-## Book Exercise Notes
-
-### Exercise 1
-
-- [Exercise 1.01 – creating an Android Studio project for your app](Exercise%201.01%20–%20creating%20an%20Android%20Studio%20project%20for%20your%20app.md)
-- [Exercise 1.02 - Setting up a virtual device and running your app](Exercise%201.02%20-%20Setting%20up%20a%20virtual%20device%20and%20running%20your%20app.md)
-
-#### Exercise 1.03 - configuring the Android manifest internet permission
