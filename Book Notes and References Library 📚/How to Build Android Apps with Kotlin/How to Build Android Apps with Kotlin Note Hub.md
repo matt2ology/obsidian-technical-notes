@@ -33,6 +33,17 @@ Android app from scratch and install it on a virtual or physical Android device.
 - [Android Studio New Project Configuration Empty Activity](Android%20Studio%20New%20Project%20Configuration%20Empty%20Activity.md)
 - [Installing Android Studio Settings](Installing%20Android%20Studio%20Settings.md)
 
+#### Questions from Chapter 1
+
+- [-] [What is the Importance of AndroidManifest.xml](../../2-literature-notes-📝/What%20is%20the%20Importance%20of%20AndroidManifest.xml.md)
+- [-] [What is an Android Activity](What%20is%20an%20Android%20Activity.md)
+- [-] [How to configure the Android manifest with internet permission](../../3-permanent-notes-🧲/How%20to%20configure%20the%20Android%20manifest%20with%20internet%20permission.md)
+- [ ] [[What is the Gradle Build Tool]]
+- [ ] [[What is the difference between JetPack and JetPack Compose]]
+- [ ] [[What is the Android application structure]]
+- [ ] [[What is AndroidX]]
+- [ ] [[What is an Android Source Set]] SEE TO: <https://developer.android.com/build#sourcesets>
+
 #### Exercise 1
 
 - [Exercise 1.01 – creating an Android Studio project for your app](Exercise%201.01%20–%20creating%20an%20Android%20Studio%20project%20for%20your%20app.md)
@@ -83,16 +94,3 @@ bottom navigation, and tabbed navigation.
 ### Chapter 16 - Animations and Transitions with `CoordinatorLayout` and `MotionLayout`
 
 ### Chapter 17 - Launching Your App on Google Play
-
-## Questions (Who, What, When, Where, Why, and How)
-
-Check off notes with `-` instead of `x`, so it does not cross out line item in [Obsidian](https://obsidian.md/)
-
-- [-] [What is the Importance of AndroidManifest.xml](../../2-literature-notes-📝/What%20is%20the%20Importance%20of%20AndroidManifest.xml.md)
-- [-] [What is an Android Activity](What%20is%20an%20Android%20Activity.md)
-- [-] [How to configure the Android manifest with internet permission](../../3-permanent-notes-🧲/How%20to%20configure%20the%20Android%20manifest%20with%20internet%20permission.md)
-- [ ] [[What is the Gradle Build Tool]]
-- [ ] [[What is the difference between JetPack and JetPack Compose]]
-- [ ] [[What is the Android application structure]]
-- [ ] [[What is AndroidX]]
-- [ ] [[What is an Android Source Set]] SEE TO: <https://developer.android.com/build#sourcesets>
