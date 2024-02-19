@@ -28,10 +28,10 @@ of this chapter, you will have gained the knowledge required to create an
 Android app from scratch and install it on a virtual or physical Android device.
 
 - [Android Permissions Groups](../../3-permanent-notes-🧲/Android%20Permissions%20Groups.md)
-- [AndroidManifest.xml](../../3-permanent-notes-🧲/AndroidManifest.xml.md)
-- Using Gradle to build, configure, and manage app dependencies
 - [Android Studio New Project Configuration Empty Activity](Android%20Studio%20New%20Project%20Configuration%20Empty%20Activity.md)
+- [AndroidManifest.xml](../../3-permanent-notes-🧲/AndroidManifest.xml.md)
 - [Installing Android Studio Settings](Installing%20Android%20Studio%20Settings.md)
+- Using Gradle to build, configure, and manage app dependencies
 
 #### Questions from Chapter 1
 
