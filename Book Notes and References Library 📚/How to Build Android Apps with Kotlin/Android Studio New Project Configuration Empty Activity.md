@@ -9,9 +9,9 @@ time-created: "01:47 AM"
 
 # Android Studio New Project Configuration Empty Activity
 
-Created from : [How to Build Android Apps with Kotlin Note Hub](../Book%20Notes%20and%20References%20Library%20📚/How%20to%20Build%20Android%20Apps%20with%20Kotlin/How%20to%20Build%20Android%20Apps%20with%20Kotlin%20Note%20Hub.md)
+Created from : [How to Build Android Apps with Kotlin Note Hub](How%20to%20Build%20Android%20Apps%20with%20Kotlin%20Note%20Hub.md)
 
-Related : [What is the Importance of AndroidManifest.xml](../2-literature-notes-📝/What%20is%20the%20Importance%20of%20AndroidManifest.xml.md)
+Related : [What is the Importance of AndroidManifest.xml](../../2-literature-notes-📝/What%20is%20the%20Importance%20of%20AndroidManifest.xml.md)
 
 A template-driven approach will show one the core options one will need to
 configure for your app.
