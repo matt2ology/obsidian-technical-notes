@@ -7,7 +7,7 @@ week-created: Week 52.4
 time-created: 09:59 PM
 ---
 
-# What is the Importance of AndroidManifest.xml
+# What is the Importance of `AndroidManifest.xml`
 
 Related : [[What is an Android Source Set]]
 
