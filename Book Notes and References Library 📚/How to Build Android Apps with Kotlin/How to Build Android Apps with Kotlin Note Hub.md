@@ -80,25 +80,5 @@ Check off notes with `-` instead of `x`, so it does not cross out line item in [
 
 ### Exercise 1
 
-#### Exercise 1.01 – creating an Android Studio project for your app
-
-This template-driven approach covers the core options one would need to configure an app.
-
-1. Create new project
-2. A start-up prompt will display that will help the developer with the initial setup
-3. The developer can then target for a particular mobile platform and select the initial Activity (i.e. the page or screen)
-4. Select "Empty Activity" and click next
-   1. **Name:** Will appear as the default name of the app when it's installed on the phone is visible on Google Play
-   2. **Package Name:** Uses the standard reverse Domain name pattern, used as an address identifier for source code and assets in app, so best to make the package name clear, descriptive, and closely aligned with the intent and purpose of the application as possible.
-   3. **Save location:** The local folder on machine where the application will be initially stored. Can be changed later. A new folder will be created with the name of the app (see list item 4.1).
-   4. **Language:** One should use Kotlin as the language to develop Android with, but at one is at liberty to as they wish.
-   5. **Minimum SDK:** Dependent on the version of Android Studio one may have downloaded, they may not have the state-of-the-art Android [APIs (Application Programming Interfaces)](<APIs%20(Application%20Programming%20Interfaces)>). Using newer API levels allow the use of new features, but at the cost of end-user Android OS version compatibility with the latest and greatest features and hardware to match.
-   6. **Use legacy android.support libraries:** Leave this unchecked (do not mark for use). Modern Android development uses [AndroidX](AndroidX) libraries and is the replacement of the (legacy) android.support libraries since 2018 ([Migrating to AndroidX: The time is right (Android Dev Summit '19)](https://www.youtube.com/watch?v=Hyt7LR5mXLc&ab_channel=AndroidDevelopers)). Using [AndroidX](AndroidX) includes new Android components called [[JetPack]].
-5. Once all values have been set click "Finish".
-
-Project will be built. The activity selected (see list item 3), under the
-"Package Name", will be listed as "MainActivity" in one tab and the layout used
-for the screen is listed as "activity_main.xml" in another tab. Assuming fresh
-installation and default view layout, the application structure folders are in
-the left panel.
+- [Exercise 1.01 – creating an Android Studio project for your app](Exercise%201.01%20–%20creating%20an%20Android%20Studio%20project%20for%20your%20app.md)
 
