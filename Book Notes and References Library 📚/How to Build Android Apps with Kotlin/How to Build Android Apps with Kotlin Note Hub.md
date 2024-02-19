@@ -49,6 +49,11 @@ state and passing data between screens or activities.
 
 ### Chapter 3 - Developing the UI with Fragments
 
+Developing the UI with Fragments, teaches you the fundamentals of using
+fragments for the user interface of an Android application. You will learn how
+to use fragments in multiple ways to build application layouts for phones and
+tablets, including using the Jetpack Navigation component.
+
 ### Chapter 4 - Building App Navigation
 
 ### Chapter 5 - Essential Libraries: Retrofit, Mochi, and Glide
