@@ -23,13 +23,13 @@ Using obsidian to manage note creation and note-link referencing : <https://obsi
 
 ## Areas of Interest
 
+- [Android Development](4-hub-notes-🚉/Android%20Development.md)
 - [Game Development](4-hub-notes-🚉/Game%20Development.md)
 - [Hardware](4-hub-notes-🚉/Hardware.md)
 - [Linux](4-hub-notes-🚉/Linux.md)
 - [Programming Languages](4-hub-notes-🚉/Programming%20Languages.md)
 - [Raspberry Pi](4-hub-notes-🚉/Raspberry%20Pi.md)
 - [Web Development](4-hub-notes-🚉/Web%20Development.md)
-- [Android Development](4-hub-notes-🚉/Android%20Development.md)
 
 ## [Tutorials, Guides, and Courses](tutorials-guides-and-courses/README.md)
 
