@@ -1,6 +1,6 @@
 ---
 aliases:
-  - README - Books Notes and References Library
+  - README - Book Notes and References Library
 note-type: hub
 tags:
   - hub
