@@ -6,7 +6,7 @@ tags:
   - hub
 ---
 
-# Books
+# Book Notes and References Library
 
 Related : [Tutorials and Guides](../tutorials-guides-and-courses/README.md)
 
