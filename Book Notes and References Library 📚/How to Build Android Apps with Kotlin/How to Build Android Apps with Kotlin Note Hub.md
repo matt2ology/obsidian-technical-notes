@@ -42,6 +42,11 @@ Android app from scratch and install it on a virtual or physical Android device.
 
 ### Chapter 2 - Building User Screen Flows
 
+Building User Screen Flows, dives into the Android ecosystem and the building
+blocks of an Android application. Concepts such as activities and their
+lifecycle, intents, and tasks will be introduced, as well as restoring the
+state and passing data between screens or activities.
+
 ### Chapter 3 - Developing the UI with Fragments
 
 ### Chapter 4 - Building App Navigation
