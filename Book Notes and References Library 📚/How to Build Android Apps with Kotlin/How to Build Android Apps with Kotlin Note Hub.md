@@ -56,6 +56,10 @@ tablets, including using the Jetpack Navigation component.
 
 ### Chapter 4 - Building App Navigation
 
+Building App Navigation, goes through the different types of navigation in an
+application. You will learn about navigation drawers with sliding layouts,
+bottom navigation, and tabbed navigation.
+
 ### Chapter 5 - Essential Libraries: Retrofit, Mochi, and Glide
 
 ### Chapter 6 - Adding and Interacting with RecyclerView
