@@ -86,6 +86,12 @@ Kotlin was developed as an alternative to Java, aiming to improve upon several o
 
 ---
 
+When starting a new Android Studio project you can select templates for the targeted mobile platforms (e.g. Phone and Tablet, Wear OS - smart watches, Android TV, and Automotive). It's with the mobile platform's template is where the developer can select an "activity" (i.e. the app's initial page or screen.
+
+> the Android development ecosystem. The word displayed in most of the project types is Activity. In Android, an Activity is a page or screen. ([Location 629](https://readwise.io/to_kindle?action=open&asin=B0BVZX4JHS&location=629))
+
+---
+
 Package name: An address ID for source code and assets in app. Best to name this as clear and descriptive and related to what the application accomplishes. This can be accomplished sub domains (e.g. com.business.shop.candyshop). The "Name" value of the app, in lower case with spaces removed, is then appended to the domain.
 
 > Project configuration ([Location 636](https://readwise.io/to_kindle?action=open&asin=B0BVZX4JHS&location=636))
