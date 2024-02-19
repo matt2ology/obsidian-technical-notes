@@ -12,6 +12,8 @@ Related : [Tutorials and Guides](../tutorials-guides-and-courses/README.md)
 
 [SQ4R Reading System](https://www.usu.edu/academic-support/files/SQ4R_Reading_System.pdf)
 
+Readwise, catch-all, highlights: [Readwise Directory](<../Readwise>)
+
 ## Currently Reading
 
 - [(ISBN-13: 978-1837634934) How to Build Android Apps with Kotlin: A practical guide to developing, testing, and publishing your first Android apps](How%20to%20Build%20Android%20Apps%20with%20Kotlin/How%20to%20Build%20Android%20Apps%20with%20Kotlin%20Note%20Hub.md)
