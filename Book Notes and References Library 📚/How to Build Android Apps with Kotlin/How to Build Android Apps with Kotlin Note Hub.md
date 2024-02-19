@@ -32,6 +32,36 @@ Android app from scratch and install it on a virtual or physical Android device.
 - Using Gradle to build, configure, and manage app dependencies
 - [Android Studio New Project Configuration Empty Activity](../../_inbox/Android%20Studio%20New%20Project%20Configuration%20Empty%20Activity.md)
 
+### Chapter 2 - Building User Screen Flows
+
+### Chapter 3 - Developing the UI with Fragments
+
+### Chapter 4 - Building App Navigation
+
+### Chapter 5 - Essential Libraries: Retrofit, Mochi, and Glide
+
+### Chapter 6 - Adding and Interacting with RecyclerView
+
+### Chapter 7 - Android Permissions and Google Maps
+
+### Chapter 8 - Services, `WorkManager`, and Notifications
+
+### Chapter 9 - Building User Interfaces Using Jetpack Compose
+
+### Chapter 10 - Unit Tests and Integration Tests with JUnit, Mockito, and Espresso
+
+### Chapter 12 - Persisting Data
+
+### Chapter 13 - Dependency Injection with Dagger, Hilt, and Koin
+
+### Chapter 14 - Co-routines and Flow
+
+### Chapter 15 - Architecture Patterns
+
+### Chapter 16 - Animations and Transitions with `CoordinatorLayout` and `MotionLayout`
+
+### Chapter 17 - Launching Your App on Google Play
+
 ## Questions (Who, What, When, Where, Why, and How)
 
 Check off notes with `-` instead of `x`, so it does not cross out line item in [Obsidian](https://obsidian.md/)
