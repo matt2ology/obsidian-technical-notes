@@ -49,7 +49,7 @@ Online instructions and walkthroughs via an article or videos
 2. What is the difference between a compiler and a transpiler?
 3. What is the difference between "Bandwidth" and "throughput"
 
-![October 20th, 2023 Obsidian note graph](attachments/20231020000540-note-graph-view.png)
+![February 19th, 2024 Obsidian note graph view](attachments/20240219-note-graph-view.png)
 
 ## Miscellaneous
 
