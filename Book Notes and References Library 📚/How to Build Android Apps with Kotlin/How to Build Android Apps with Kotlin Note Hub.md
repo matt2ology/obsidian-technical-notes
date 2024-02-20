@@ -55,6 +55,7 @@ Android app from scratch and install it on a virtual or physical Android device.
 - [Exercise 1.02 - Setting up a virtual device and running your app](Exercise%201.02%20-%20Setting%20up%20a%20virtual%20device%20and%20running%20your%20app.md)
 - [Exercise 1.03 - Configuring the Android Manifest Internet Permission](Exercise%201.03%20-%20Configuring%20the%20Android%20Manifest%20Internet%20Permission.md)
   - [Loading a WebView - the Traditional, Outdated, Approach](Loading%20a%20WebView%20-%20the%20Traditional,%20Outdated,%20Approach.md)
+  - [Loading a WebView - the Modern Jetpack Compose Approach](Loading%20a%20WebView%20-%20the%20Modern%20Jetpack%20Compose%20Approach.md)
 
 ### Chapter 2 - Building User Screen Flows
 
