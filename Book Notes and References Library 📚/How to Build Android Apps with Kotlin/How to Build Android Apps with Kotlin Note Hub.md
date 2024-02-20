@@ -36,6 +36,7 @@ Android app from scratch and install it on a virtual or physical Android device.
 #### Questions from Chapter 1
 
 - [-] [What is the Importance of AndroidManifest.xml](../../2-literature-notes-📝/What%20is%20the%20Importance%20of%20AndroidManifest.xml.md)
+- [-] [What is the Gradle Build Tool](../../2-literature-notes-📝/What%20is%20the%20Gradle%20Build%20Tool.md)
 - [-] [What is an Android Activity](What%20is%20an%20Android%20Activity.md)
 - [-] [How to configure the Android manifest with internet permission](../../3-permanent-notes-🧲/How%20to%20configure%20the%20Android%20manifest%20with%20internet%20permission.md)
 - [ ] [[What is the Gradle Build Tool]]
