@@ -31,7 +31,11 @@ Android app from scratch and install it on a virtual or physical Android device.
 - [Android Studio New Project Configuration Empty Activity](Android%20Studio%20New%20Project%20Configuration%20Empty%20Activity.md)
 - [AndroidManifest.xml](../../3-permanent-notes-🧲/AndroidManifest.xml.md)
 - [Installing Android Studio Settings](Installing%20Android%20Studio%20Settings.md)
-- Using Gradle to build, configure, and manage app dependencies
+- [Using Gradle to build, configure, and manage app dependencies](Using%20Gradle%20to%20build,%20configure,%20and%20manage%20app%20dependencies.md)
+- [[The project-level build.gradle file]]
+- [[The app-level build.gradle file]]
+- [[Accessing Views in Layout Files]]
+- [[Further Input Validation]]
 
 #### Questions from Chapter 1
 
