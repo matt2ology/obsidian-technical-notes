@@ -27,8 +27,8 @@ Sometimes your best isn't good enough try harder with v13.
 
 **As of February 14th, 2024** I recommend:
 
-[How to Build Android Apps with Kotlin: A practical guide to developing, testing, and  publishing your first Android apps, 2nd Edition.](https://www.amazon.com/How-Build-Android-Apps-Kotlin-ebook/dp/B0BVZX4JHS/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)
+[How to Build Android Apps with Kotlin: A practical guide to developing, testing, and publishing your first Android apps, 2nd Edition.](https://www.amazon.com/How-Build-Android-Apps-Kotlin-ebook/dp/B0BVZX4JHS/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)
 by Alex Forrester (Author), Eran Boudjnah (Author), Alexandru Dumbravan (Author),
 Jomar Tigcal (Author)
 
-**ISBN-13**:  978-1837634934
+**ISBN-13**: 978-1837634934
