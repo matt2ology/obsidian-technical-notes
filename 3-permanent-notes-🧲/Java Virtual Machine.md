@@ -1,6 +1,7 @@
 ---
 aliases:
   - JVM
+  - Java virtual machine (JVM)
 note-type: permanent
 date-created: 2024-02-11
 long-form-date-created: Sunday, February 11, 2024
