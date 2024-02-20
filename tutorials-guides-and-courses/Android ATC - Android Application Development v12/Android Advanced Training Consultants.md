@@ -12,10 +12,10 @@ time-created: 05:15 PM
 
 Related : [Android ATC - Android Application Development v12](Android%20ATC%20-%20Android%20Application%20Development%20v12.md)
 
-A subpar independent, not affiliated with Google, accreditation company that publishes
-a PDF "e-book" accessible solely through their login portal, featuring a rudimentary web 
-PDF viewer. The e-book exhibits numerous spelling, grammar, and code sample 
-inconsistencies and errors.
+A subpar independent, not affiliated with Google, accreditation company that
+publishes a PDF "e-book" accessible solely through their login portal,
+featuring a rudimentary web PDF viewer. The e-book exhibits numerous spelling,
+grammar, and code sample inconsistencies and errors.
 
 Equally important, the PDF viewer lacks any distinguishing features or enhancements
 (like the ability to take notes on the page or send to Kindle) to justify the premium $14
