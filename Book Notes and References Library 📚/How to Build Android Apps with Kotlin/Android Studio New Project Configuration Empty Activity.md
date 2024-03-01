@@ -19,7 +19,7 @@ configure for your app.
 When all filed are set with desired values...
 
 One can then see the activity has been created `MainActivity` in one tab and
-the layout used for the screen in the other tab (`activity_main.xml).
+the layout used for the screen in the other tab (`activity_main.xml`).
 
 > `MainActivity` located in:
 >
