@@ -58,6 +58,7 @@ Links to all notes, questions, and insights made while reading:
 ### Lab 4: Creating Your First Application
 
 Create your first Android application
+
 Build a "Simple Calculator" Application
 
 ## Questions
