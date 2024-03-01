@@ -21,6 +21,8 @@ When all filed are set with desired values...
 One can then see the activity has been created `MainActivity` in one tab and
 the layout used for the screen in the other tab (`activity_main.xml`).
 
+[Where is the Layout Folder and XML file activity_main](Where%20is%20the%20Layout%20Folder%20and%20XML%20file%20activity_main.md)
+
 > `MainActivity` located in:
 >
 > > projectname/app/src/main/java/com/example/myapplication/myapplication/MainActivity
