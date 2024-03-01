@@ -47,6 +47,7 @@ the left panel.
 
 - Package Name -> "MainActivity"
 - Layout for screen -> "activity_main.xml"
+  - [Where is the Layout Folder and XML file activity_main](Where%20is%20the%20Layout%20Folder%20and%20XML%20file%20activity_main.md)
 
 ---
 
