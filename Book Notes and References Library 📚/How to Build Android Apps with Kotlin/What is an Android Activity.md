@@ -9,6 +9,6 @@ time-created: 01:26 AM
 
 # What is an Android Activity
 
-Related :
+Related : [Android Studio](Android%20Studio)
 
 In Android, an activity is a page or screen.
