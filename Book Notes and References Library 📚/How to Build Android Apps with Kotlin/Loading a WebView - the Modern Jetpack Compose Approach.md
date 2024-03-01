@@ -45,6 +45,7 @@ AndroidView(factory = { context ->
 Now in context:
 
 ```kotlin
+// projectFolderName/app/src/main/java/com/example/appProjectName/MainActivity.kt
 package com.example.myapplication
 
 import android.os.Bundle
