@@ -39,6 +39,7 @@ Android app from scratch and install it on a virtual or physical Android device.
 
 #### Questions from Chapter 1
 
+- [-] [Where is the Layout Folder and XML file activity_main](Where%20is%20the%20Layout%20Folder%20and%20XML%20file%20activity_main.md)
 - [-] [What is the Importance of AndroidManifest.xml](../../2-literature-notes-📝/What%20is%20the%20Importance%20of%20AndroidManifest.xml.md)
 - [-] [What is the Gradle Build Tool](../../2-literature-notes-📝/What%20is%20the%20Gradle%20Build%20Tool.md)
 - [-] [What is Groovy](../../2-literature-notes-📝/What%20is%20Groovy.md)
