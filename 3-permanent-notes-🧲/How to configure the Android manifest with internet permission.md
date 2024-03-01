@@ -169,6 +169,8 @@ The traditional Android View system and the Android XML layout file
 (`activity_main.xml`). This type of Android development is often referred to as
 "View-based" development.
 
+[Where is the Layout Folder and XML file activity_main](../Book%20Notes%20and%20References%20Library%20📚/How%20to%20Build%20Android%20Apps%20with%20Kotlin/Where%20is%20the%20Layout%20Folder%20and%20XML%20file%20activity_main.md)
+
 ```kotlin
 // app > java > com > example > myapplication > ManActivity.kt
 // Original Configuration
