@@ -43,6 +43,7 @@ Android app from scratch and install it on a virtual or physical Android device.
 - [-] [What is the Gradle Build Tool](../../2-literature-notes-📝/What%20is%20the%20Gradle%20Build%20Tool.md)
 - [-] [What is Groovy](../../2-literature-notes-📝/What%20is%20Groovy.md)
 - [-] [What is an Android Activity](What%20is%20an%20Android%20Activity.md)
+- [-] [What is a Package Name in Android Studio](What%20is%20a%20Package%20Name%20in%20Android%20Studio.md)
 - [-] [How to configure the Android manifest with internet permission](../../3-permanent-notes-🧲/How%20to%20configure%20the%20Android%20manifest%20with%20internet%20permission.md)
 - [ ] [[What is the difference between JetPack and JetPack Compose]]
 - [ ] [[What is the Android application structure]]
