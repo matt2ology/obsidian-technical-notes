@@ -15,6 +15,7 @@ Related :
 
 - [JetPack Compose](JetPack%20Compose)
 - [Loading a WebView - the Traditional, Outdated, Approach](Loading%20a%20WebView%20-%20the%20Traditional,%20Outdated,%20Approach.md)
+- [Android Studio New Project Configuration Empty Activity](Android%20Studio%20New%20Project%20Configuration%20Empty%20Activity.md)
 
 ## The Modern JetPack Compose Approach
 
