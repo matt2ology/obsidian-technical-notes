@@ -33,6 +33,8 @@ Play.
 
 ## Package name
 
+[What is a Package Name in Android Studio](What%20is%20a%20Package%20Name%20in%20Android%20Studio.md)
+
 This uses the standard reverse domain name pattern to create a name.
 It will be used as an address identifier for source code and assets in your app.
 It is best to make this name as clear and descriptive and as closely aligned
