@@ -50,3 +50,39 @@ Highlights well in resume. Enables the climb.
 Develop mindset for continual learning.
 
 One can argue that state positions maybe an alternative.
+
+## Follow-up "Thank You" email
+
+Hi Amy,
+
+I want to express my sincere gratitude for taking the time to meet with me earlier to
+discuss career aspirations and provide insights into the software engineering field.
+
+Our conversation isn't sugar coated and speaks directly to my fear, uncertainty, and doubt.
+Your guidance and advice are in line with my personal mindset and to how I was raised.
+
+Here's a summary of the key points we discussed:
+
+- Perform a self-assessment to see that I am ready for an experienced software engineer role. Would I be able to handle myself well in technical interviews; otherwise, I will have to adjust my resume to better reflect my skills and abilities.
+
+- Searching for a first job will have its challenges. Job hunting will be a full-time job in of itself, so be open to all opportunities regardless of the company’s size or prestige.
+
+- Most people don’t stay at their first jobs forever, so it’s important to get your foot in the door and grow the abilities and build the skills required to be successful in my career.
+
+- Don’t stay in a comfort zone; for, it holds me back from the potential career advancement and life achievements.
+
+- If you see yourself in further studying Computer Science it would be to my benefit to obtain a graduate degree; for, a graduate degree is lifelong in contrast to some certificate that will expire.
+
+- A graduate program teaches one to be self-reliant, have independent research skills, and opens the door to career advancing opportunities.
+
+- Carry forward the attributes of your team: have the mindset for continual learning and teaching.
+
+With your permission, I would like to ask if it would be possible for me to continue reaching out to you for mentorship and guidance in the future.
+Whether it’s seeking advice on specific career decisions, discussing industry trends, or simply gaining insights from your experiences.
+I’d be grateful for all I can learn, and benefit from your mentorship.
+
+Once again, thank you for your invaluable advice and encouragement.
+I am truly grateful for your mentorship and look forward to implementing your insights as I navigate my career journey.
+
+Warm regards,
+Matt
