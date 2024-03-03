@@ -9,7 +9,7 @@ time-created: "09:47 PM"
 
 # Loading a WebView - the Modern JetPack Compose Approach
 
-Created from : [Exercise 1.03 - Configuring the Android Manifest Internet Permission](Exercise%201.03%20-%20Configuring%20the%20Android%20Manifest%20Internet%20Permission.md)
+Created from : [Exercise 1.03 - Configuring the Android Manifest Internet Permission](Activities%20and%20Exercises/Exercise%201.03%20-%20Configuring%20the%20Android%20Manifest%20Internet%20Permission.md)
 
 Related :
 
