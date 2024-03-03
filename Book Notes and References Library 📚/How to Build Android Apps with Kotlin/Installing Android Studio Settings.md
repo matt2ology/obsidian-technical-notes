@@ -9,7 +9,7 @@ author:
 
 # Settings when Installing Android Studio
 
-Related : [Exercise 1.01 – creating an Android Studio project for your app](Exercise%201.01%20–%20creating%20an%20Android%20Studio%20project%20for%20your%20app.md)
+Related : [Exercise 1.01 – creating an Android Studio project for your app](Activities%20and%20Exercises/Exercise%201.01%20–%20creating%20an%20Android%20Studio%20project%20for%20your%20app.md)
 
 Source : [How to Build Android Apps with Kotlin Note Hub](How%20to%20Build%20Android%20Apps%20with%20Kotlin%20Note%20Hub.md)
 
