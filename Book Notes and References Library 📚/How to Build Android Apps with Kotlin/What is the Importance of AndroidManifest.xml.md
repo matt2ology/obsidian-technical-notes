@@ -9,13 +9,13 @@ time-created: 09:59 PM
 
 # What is the Importance of `AndroidManifest.xml`
 
-Related : [[What is an Android Source Set]] - [Android Permissions Groups](../3-permanent-notes-🧲/Android%20Permissions%20Groups.md)
+Related : [[What is an Android Source Set]] - [Android Permissions Groups](../../3-permanent-notes-🧲/Android%20Permissions%20Groups.md)
 
-Source : [How to Build Android Apps with Kotlin Note Hub](../Book%20Notes%20and%20References%20Library%20📚/How%20to%20Build%20Android%20Apps%20with%20Kotlin/How%20to%20Build%20Android%20Apps%20with%20Kotlin%20Note%20Hub.md)
+Source : [How to Build Android Apps with Kotlin Note Hub](How%20to%20Build%20Android%20Apps%20with%20Kotlin%20Note%20Hub.md)
 
-Topics : [Android Development](../4-hub-notes-🚉/Android%20Development.md)
+Topics : [Android Development](../../4-hub-notes-🚉/Android%20Development.md)
 
-TL;DR : [AndroidManifest.xml](../3-permanent-notes-🧲/AndroidManifest.xml.md)
+TL;DR : [AndroidManifest.xml](../../3-permanent-notes-🧲/AndroidManifest.xml.md)
 
 ## Notes
 
