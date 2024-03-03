@@ -47,9 +47,9 @@ Android app from scratch and install it on a virtual or physical Android device.
 - [-] [What is Groovy](What%20is%20Groovy.md)
 - [-] [What is the Gradle Build Tool](What%20is%20the%20Gradle%20Build%20Tool.md)
 - [-] [What is the Importance of AndroidManifest.xml](What%20is%20the%20Importance%20of%20AndroidManifest.xml.md)
+- [-] [What is the purpose of RepositoriesMode.FAIL_ON_PROJECT_REPOS in the settings.gradle](What%20is%20the%20purpose%20of%20RepositoriesMode.FAIL_ON_PROJECT_REPOS%20in%20the%20settings.gradle.md)
 - [-] [What is the settings.gradle](What%20is%20the%20settings.gradle.md)
 - [-] [Where is the Layout Folder and XML file activity_main](Where%20is%20the%20Layout%20Folder%20and%20XML%20file%20activity_main.md)
-- [-] [What is the purpose of RepositoriesMode.FAIL_ON_PROJECT_REPOS in the settings.gradle](What%20is%20the%20purpose%20of%20RepositoriesMode.FAIL_ON_PROJECT_REPOS%20in%20the%20settings.gradle.md)
 - [ ] [[What is the Maven Project Object Model (POM)]]
 - [ ] [[What is the difference between JetPack and JetPack Compose]]
 - [ ] [[What is the Android application structure]]
