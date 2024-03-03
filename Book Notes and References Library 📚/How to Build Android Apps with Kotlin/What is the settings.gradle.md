@@ -14,7 +14,7 @@ Related :
 - [The app-level build.gradle file](The%20app-level%20build.gradle%20file.md)
 - [Using Gradle to build, configure, and manage app dependencies](Using%20Gradle%20to%20build,%20configure,%20and%20manage%20app%20dependencies.md)
 - [What are feature modules](What%20are%20feature%20modules)
-- [What is the purpose of RepositoriesMode.FAIL_ON_PROJECT_REPOS in the settings.gradle](What%20is%20the%20purpose%20of%20RepositoriesMode.FAIL_ON_PROJECT_REPOS%20in%20the%20settings.gradle)
+- [What is the purpose of RepositoriesMode.FAIL_ON_PROJECT_REPOS in the settings.gradle](What%20is%20the%20purpose%20of%20RepositoriesMode.FAIL_ON_PROJECT_REPOS%20in%20the%20settings.gradle.md)
 
 Topics : [Android Studio](Android%20Studio)
 
