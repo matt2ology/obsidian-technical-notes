@@ -13,7 +13,7 @@ Created from : [Exercise 1.03 - Configuring the Android Manifest Internet Permis
 
 Related :
 
-- [What is the Importance of AndroidManifest.xml](../../2-literature-notes-📝/What%20is%20the%20Importance%20of%20AndroidManifest.xml.md)
+- [What is the Importance of AndroidManifest.xml](What%20is%20the%20Importance%20of%20AndroidManifest.xml.md)
 - [Where is the Layout Folder and XML file activity_main](Where%20is%20the%20Layout%20Folder%20and%20XML%20file%20activity_main.md)
 
 ## The Traditional Approach
