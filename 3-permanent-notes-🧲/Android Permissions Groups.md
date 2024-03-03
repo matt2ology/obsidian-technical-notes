@@ -13,7 +13,7 @@ time-created: 11:42 PM
 Related :
 
 - [AndroidManifest.xml](../3-permanent-notes-🧲/AndroidManifest.xml.md)
-- [What is the Importance of AndroidManifest.xml](../2-literature-notes-📝/What%20is%20the%20Importance%20of%20AndroidManifest.xml.md)
+- [What is the Importance of AndroidManifest.xml](../Book%20Notes%20and%20References%20Library%20📚/How%20to%20Build%20Android%20Apps%20with%20Kotlin/What%20is%20the%20Importance%20of%20AndroidManifest.xml.md)
 
 Topic : [Android Development](../4-hub-notes-🚉/Android%20Development.md)
 
