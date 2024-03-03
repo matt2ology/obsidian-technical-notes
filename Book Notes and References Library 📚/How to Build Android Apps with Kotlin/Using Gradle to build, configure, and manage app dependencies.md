@@ -9,7 +9,7 @@ author:
 
 # Using Gradle to build, configure, and manage app dependencies
 
-Related : [What is the Gradle Build Tool](../../2-literature-notes-📝/What%20is%20the%20Gradle%20Build%20Tool.md) - [What is Groovy](../../2-literature-notes-📝/What%20is%20Groovy.md)
+Related : [What is the Gradle Build Tool](What%20is%20the%20Gradle%20Build%20Tool.md) - [What is Groovy](What%20is%20Groovy.md)
 
 Source : [How to Build Android Apps with Kotlin Note Hub](How%20to%20Build%20Android%20Apps%20with%20Kotlin%20Note%20Hub.md)
 
@@ -23,7 +23,7 @@ The Android build system used the Gradle build tool to set up and runs the app
 in development.
 
 Android Studio can also use Kotlin to configure builds; but, by default,
-uses [Groovy](Groovy) to function as a dependency manager where it allows one
+uses [Groovy](../../3-permanent-notes-🧲/Groovy.md) to function as a dependency manager where it allows one
 to add libraries to their project and specify the versions.
 Sorta like PIP in Python.
 
