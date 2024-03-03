@@ -32,23 +32,27 @@ Android app from scratch and install it on a virtual or physical Android device.
 - [AndroidManifest.xml](../../3-permanent-notes-🧲/AndroidManifest.xml.md)
 - [Installing Android Studio Settings](Installing%20Android%20Studio%20Settings.md)
 - [Using Gradle to build, configure, and manage app dependencies](Using%20Gradle%20to%20build,%20configure,%20and%20manage%20app%20dependencies.md)
-- [[The project-level build.gradle file]]
-- [[The app-level build.gradle file]]
+- [The project-level build.gradle file](The%20project-level%20build.gradle%20file.md)
+- [The app-level build.gradle file](The%20app-level%20build.gradle%20file.md)
 - [[Accessing Views in Layout Files]]
 - [[Further Input Validation]]
 
 #### Questions from Chapter 1
 
 - [-] [Where is the Layout Folder and XML file activity_main](Where%20is%20the%20Layout%20Folder%20and%20XML%20file%20activity_main.md)
-- [-] [What is the Importance of AndroidManifest.xml](../../2-literature-notes-📝/What%20is%20the%20Importance%20of%20AndroidManifest.xml.md)
-- [-] [What is the Gradle Build Tool](../../2-literature-notes-📝/What%20is%20the%20Gradle%20Build%20Tool.md)
-- [-] [What is Groovy](../../2-literature-notes-📝/What%20is%20Groovy.md)
+- [-] [What is the Importance of AndroidManifest.xml](What%20is%20the%20Importance%20of%20AndroidManifest.xml.md)
+- [-] [What is the Gradle Build Tool](What%20is%20the%20Gradle%20Build%20Tool.md)
+- [-] [What is Groovy](What%20is%20Groovy.md)
+- [-] [What is AndroidX](What%20is%20AndroidX.md)
 - [-] [What is an Android Activity](What%20is%20an%20Android%20Activity.md)
 - [-] [What is a Package Name in Android Studio](What%20is%20a%20Package%20Name%20in%20Android%20Studio.md)
 - [-] [How to configure the Android manifest with internet permission](../../3-permanent-notes-🧲/How%20to%20configure%20the%20Android%20manifest%20with%20internet%20permission.md)
+- [-] [What is the settings.gradle](What%20is%20the%20settings.gradle.md)
+- [-] [What are feature modules](What%20are%20feature%20modules)
+- [ ] [[What is the purpose of RepositoriesMode.FAIL_ON_PROJECT_REPOS in the settings.gradle]]
+- [ ] [[What is the Maven Project Object Model (POM)]]
 - [ ] [[What is the difference between JetPack and JetPack Compose]]
 - [ ] [[What is the Android application structure]]
-- [ ] [[What is AndroidX]]
 - [ ] [[What is an Android Source Set]] SEE TO: <https://developer.android.com/build#sourcesets>
 
 #### Exercise 1
