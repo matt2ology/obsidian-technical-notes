@@ -15,6 +15,7 @@ Source : [How to Build Android Apps with Kotlin Note Hub](How%20to%20Build%20And
 
 Topics : [Android Development](../../4-hub-notes-🚉/Android%20Development.md)
 
-[Groovy](Groovy) is Android Studio's default, dynamically typed, [Java virtual machine (JVM)](../3-permanent-notes-🧲/Java%20Virtual%20Machine.md) language
-used to configure the build process and allows easy dependency management; so, allows
-one to add libraries to their project and specify the versions.
+[Groovy](../../3-permanent-notes-🧲/Groovy.md) is Android Studio's default, dynamically typed,
+[Java virtual machine (JVM)](../../3-permanent-notes-🧲/Java%20Virtual%20Machine.md)
+language used to configure the build process and allows easy dependency management;
+so, allows one to add libraries to their project and specify the versions.
