@@ -51,7 +51,42 @@ Develop mindset for continual learning.
 
 One can argue that state positions maybe an alternative.
 
-## Follow-up "Thank You" email
+## Follow-up "Thank You" email in Reverse Chronological Order
+
+Monday, March 4, 2024 9:27 AM
+
+Good Morning Amy,
+
+I'm glad you found my notes and summary a useful ability to have!
+
+I appreciate your insights regarding potential career paths. Communication and organization are areas I value, and I'm open to exploring opportunities that leverage these skills.
+Your suggestion about project or program management roles aligns well with my interests in process management and coordination.
+
+I'll definitely keep Solidigm's Telemachus Program in mind for mentorship opportunities. Having guidance and support as I navigate my career path would be invaluable.
+
+Thanks again for your email and for taking the time to chat with me last week, Amy.
+I look forward to staying in touch and exploring potential opportunities both externally and, when positions are available, here at Solidigm.
+
+Best regards,
+Matt
+
+---
+
+Friday, March 1, 2024 4:55 PM
+
+Hi, Matt,
+
+Glad to chat with you! Thanks for making notes and summarize the conversation. This is very good step!
+
+From the conversation, I do feel you potentially can be good at communication, maybe good at organizing things. I am not sure how strong technically you are, but you can also consider project management, program management type of job if you prefer having a less technical, more towards to process management.
+
+Yeah, please feel free to reach out to me in the future. Solidigm also has a Telemachus Program where you can pick a mentor to coach you.
+
+Amy
+
+---
+
+Friday, March 1, 2024 4:42 PM
 
 Hi Amy,
 
@@ -86,15 +121,3 @@ I am truly grateful for your mentorship and look forward to implementing your in
 
 Warm regards,
 Matt
-
-## Amy's, Same Day, Response
-
-Hi, Matt,
-
-Glad to chat with you! Thanks for making notes and summarize the conversation. This is very good step!
-
-From the conversation, I do feel you potentially can be good at communication, maybe good at organizing things. I am not sure how strong technically you are, but you can also consider project management, program management type of job if you prefer having a less technical, more towards to process management.
-
-Yeah, please feel free to reach out to me in the future. Solidigm also has a Telemachus Program where you can pick a mentor to coach you.  
-
-Amy
