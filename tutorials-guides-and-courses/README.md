@@ -1,6 +1,7 @@
 ---
 aliases:
   - README - Tutorials and Guides
+  - README - Tutorials, Guides, and Online Courses
   - Tutorials, Guides, and Online Courses
 note-type: hub
 tags:
