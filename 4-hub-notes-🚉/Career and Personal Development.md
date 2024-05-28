@@ -9,7 +9,7 @@ tags:
 
 [Back to root README](../README.md)
 
-Related : [Job Tracker Template](../3-permanent-notes-🧲/Job%20Tracker%20Template.md)
+Related : [Job Tracker Template](../3-permanent-notes-🧲/Job%20Tracker%20Template.md) - [Career and Industry](../Career%20and%20Industry/README.md)
 
 Topics : [Career](Career)
 

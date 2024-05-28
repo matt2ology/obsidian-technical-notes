@@ -3,22 +3,19 @@ author: Alex Forrester, Eran Boudjnah, Alexandru Dumbravan, and Jomar Tigcal
 category-tag: books
 source-tag: kindle
 ---
-
 # How to Build Android Apps With Kotlin
 
 ![rw-book-cover](https://m.media-amazon.com/images/I/816f9tBDLbL._SY160.jpg)
 
 ## Metadata
-
 - Author: [[Alex Forrester, Eran Boudjnah, Alexandru Dumbravan, and Jomar Tigcal]]
 - Full Title: How to Build Android Apps With Kotlin
 - Category: #books
 
 ## Highlights
-
 This book uses Android Studio, with Kotlin, to create a IMDb like app, write test, and run on virtual devices. Development will be learned from structuring an app, building out the UI with fragments via Jetpack Compose, fragments, and various navigation patterns.
 We will use Android's RecyclerView Class, and the library that contains it, to display large sets of data, and learn how to fetch data and images from the web.
-Then we'll learn about location services, and the permissions model before working with notifications and how to persist data. Utilize Android Architecture Components (AAC) to cleanly structure code and experiment with architecture patters and the benefits of dependency injection. Co-routines and Flow API are covered for asynchronous programming.
+Then we'll learn about location services, and the permissions model before working with notifications and how to persist data. Utilize Android Architecture Components (AAC) to cleanly structure code and experiment with architecture patters and the benefits of dependency injection. Coroutines and Flow API are covered for asynchronous programming.
 After you'll learn how to publish the app on the Google Play Store.
 
 > What this book covers ([Location 417](https://readwise.io/to_kindle?action=open&asin=B0BVZX4JHS&location=417))
@@ -34,13 +31,13 @@ On windows Android Studio Hedgehog, android-studio-2023.1.1.26, installs Intel®
 
 Example code found there 🙂
 
-> You can download the example code files for this book from GitHub at <https://github.com/PacktPublishing/How-to-Build-Android-Apps-with-Kotlin-Second-Edition>. If there’s an update to the code, it will be updated in the GitHub repository. ([Location 507](https://readwise.io/to_kindle?action=open&asin=B0BVZX4JHS&location=507))
+> You can download the example code files for this book from GitHub at https://github.com/PacktPublishing/How-to-Build-Android-Apps-with-Kotlin-Second-Edition. If there’s an update to the code, it will be updated in the GitHub repository. ([Location 507](https://readwise.io/to_kindle?action=open&asin=B0BVZX4JHS&location=507))
 
 ---
 
 Color images download
 
-> You can download it here: <https://packt.link/vnOCn>. ([Location 514](https://readwise.io/to_kindle?action=open&asin=B0BVZX4JHS&location=514))
+> You can download it here: https://packt.link/vnOCn. ([Location 514](https://readwise.io/to_kindle?action=open&asin=B0BVZX4JHS&location=514))
 
 ---
 
@@ -125,8 +122,50 @@ When you provide an explicit type for a variable or a function return type, and 
 
 ---
 
-The Android Manifest
+The Android Manifest, like a ship's manifest, describes and records what data
+can be stored or accessed to and from the application.
 
-> It lists all the components and permissions your app uses. ([Location 873](https://readwise.io/to_kindle?action=open&asin=B0BVZX4JHS&location=873))
+> The Android Manifest can be thought of as a table of contents of your app. It lists all the components and permissions your app uses. As you have seen from starting the app from the launcher, it also provides the entry points into your app. ([Location 873](https://readwise.io/to_kindle?action=open&asin=B0BVZX4JHS&location=873))
 
 ---
+
+In addition to the Android platform SDK and core libraries downloaded when
+Android was installed, there are other underlying technologies used to configure
+and build the Android project or app: a build tool called Gradle.
+
+> In the course of creating this project, you have principally used the Android platform SDK. The necessary Android libraries were downloaded when you installed Android Studio. However, these are not the only libraries that are used to create your app. To configure and build your Android project or app, a build tool called Gradle is used. Gradle is a multi-purpose build tool that Android Studio uses to build your app. ([Location 878](https://readwise.io/to_kindle?action=open&asin=B0BVZX4JHS&location=878))
+
+---
+
+
+
+> Android Studio uses Groovy, a dynamically typed Java virtual machine (JVM) language, to configure the build process and allows easy dependency management so you can add libraries to your project and specify the versions. ([Location 882](https://readwise.io/to_kindle?action=open&asin=B0BVZX4JHS&location=882))
+
+---
+
+Is where one would set up all the root project settings and can then be applied to sub-modules/projects. Gradle is plugin system and one can write their own plugin to perform a series of tasks, and plug it into their own pipeline.
+
+> The project-level build.gradle file ([Location 890](https://readwise.io/to_kindle?action=open&asin=B0BVZX4JHS&location=890))
+
+---
+
+## New highlights added March 5, 2024 at 9:17 PM
+Material design started with Google's designers took the perspective that software UI is 
+more than just bits on screen, but behaved as they were tangible object that can be 
+manipulated. This notion of "material design", practically, amounts to clean, card like,
+UI elements one can move around like paper, bright colors, animation that gives a sense of
+location in space, and consistent drop shadows. All this was applied, in 2014, with Android L
+(Android Lollipop, version 5.0-5.1.1, API level 21-22)
+Source:
+- [The Verge: How Google designed Android L](https://www.youtube.com/watch?v=VcG7XtVOCX8&ab_channel=TheVerge)
+- [Google for Developers - This is material design](https://developers.googleblog.com/2014/06/this-is-material-design.html)
+In 2021, with Android 12 Google announced "Material You".
+Google's all-new design and it focuses on Dynamic color, motion, and widgets.
+source:
+- [The Verge: Android 12 preview: here's Google's radical new design](https://www.youtube.com/watch?v=NrPBGglB4x8&ab_channel=TheVerge)
+- [Android Open Source Project - Material You Design](https://source.android.com/docs/core/display/material)
+
+> Material Design is a design language created by Google that adds enriched UI elements based on real-world effects such as lighting, depth, shadows, and animations. ([Location 993](https://readwise.io/to_kindle?action=open&asin=B0BVZX4JHS&location=993))
+
+---
+
