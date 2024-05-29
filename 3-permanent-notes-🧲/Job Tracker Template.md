@@ -9,7 +9,7 @@ time-created: 09:54 PM
 
 # 2024 Job Tracker Template
 
-Related : [Career and Personal Development](../4-hub-notes-🚉/Career%20and%20Personal%20Development.md)
+Related : [Career Industry and Personal Development](../4-hub-notes-🚉/Career%20Industry%20and%20Personal%20Development.md)
 
 Job Spreadsheet Trackers:
 

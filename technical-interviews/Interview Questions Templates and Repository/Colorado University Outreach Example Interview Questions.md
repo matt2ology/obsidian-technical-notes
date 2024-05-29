@@ -9,9 +9,9 @@ time-created: 06:25 PM
 
 # Colorado University Outreach Example Interview Questions
 
-Related :
+Related : [Technical Interview - README](../README.md)
 
-Source : [CU_InterviewQuestions_v1](../attachments/CU_InterviewQuestions_v1.pdf)
+Source : [CU_InterviewQuestions_v1](../../attachments/CU_InterviewQuestions_v1.pdf)
 
 ## General
 

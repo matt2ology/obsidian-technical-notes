@@ -2,7 +2,8 @@
 aliases:
   - ROOT README
   - MAIN README
-  - README - Technical Notes
+  - Tech Notes - README
+  - Tech Notes Repository's README
 note-type: readme
 ---
 
@@ -19,7 +20,7 @@ Using obsidian to manage note creation and note-link referencing : <https://obsi
 
 [Tech Talks](4-hub-notes-🚉/Tech%20Talks.md)
 
-[Career and Personal Development](4-hub-notes-🚉/Career%20and%20Personal%20Development.md)
+[Career Industry and Personal Development](4-hub-notes-🚉/Career%20Industry%20and%20Personal%20Development.md)
 
 ## Areas of Interest
 

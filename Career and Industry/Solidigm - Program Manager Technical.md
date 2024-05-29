@@ -9,8 +9,7 @@ time-created: 11:31 PM
 
 # Solidigm - Program Manager Technical
 
-Related :
-Source : <https://www.smartrecruiters.com/Solidigm/743999976687886-program-manager-technical?trid=998bc6c9-cfbe-4db9-af4b-d7bb8407f264>
+Related : 
 
 ## Job Description
 
@@ -18,7 +17,7 @@ We are looking for a dedicated individual to join our team to help lead our proj
 
 To be successful as a PMO Manager, you should demonstrate strong leadership, communication and thought leadership skills. Ultimately, a top-notch PMO Manager should be well organized and able to work under pressure.
 
-Key responsibilities include:
+### Key responsibilities include
 
 - Collaborating with other department leaders to define, prioritize, and develop projects.
 

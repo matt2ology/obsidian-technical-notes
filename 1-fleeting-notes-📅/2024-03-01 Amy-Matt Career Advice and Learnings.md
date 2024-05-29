@@ -11,7 +11,7 @@ week-created: Week 09.5
 
 Related :
 
-Topics : [Career and Personal Development](../4-hub-notes-🚉/Career%20and%20Personal%20Development.md)
+Topics : [Career Industry and Personal Development](../4-hub-notes-🚉/Career%20Industry%20and%20Personal%20Development.md)
 
 **Attendees**:
 

@@ -29,8 +29,8 @@ granted processor time.
   - [Time-shared mode](Time-shared%20mode) - user interacts with running software
 - Various process components:
   1. Program code (in antique IBM terms: text section).
-  2. Hardware resources, including [registers](registers), [static memory](static%20memory), [stack](stack.md), [heap](heap.md)
-  3. [Stack](stack.md) containing temporary and local data, varies in size during run, grows at call, shrinks at return, starts and ends at ~0 size
+  2. Hardware resources, including [registers](registers), [static memory](static%20memory), [Stack](../_inbox/Stack%20Data%20Structure.md), [heap](heap.md)
+  3. [Stack](../_inbox/Stack%20Data%20Structure.md) containing temporary and local data, varies in size during run, grows at call, shrinks at return, starts and ends at ~0 size
   4. Functions and function parameters, return address, local objects
   5. Data section containing global objects; possibly shared
   6. Files for data to be read (input) and generated (output)
