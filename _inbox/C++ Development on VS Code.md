@@ -57,7 +57,7 @@ You are using a windows machine with the MSVC compiler, so you need to start VS 
 
 Open file hit `F5`
 
-## Customize debugging
+### Customize debugging
 
 To customize your debug configuration, select the Explorer in the activity bar
 and open a folder that includes your C++ file. Open the C++ file, and select
