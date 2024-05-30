@@ -9,7 +9,9 @@ time-created: 09:51 PM
 
 # Kritanjali's Stack Challenge
 
-Related : [Stack Data Structure](../_inbox/Stack%20Data%20Structure.md)
+Related : [Stack Data Structure](../_inbox/Stack%20Data%20Structure.md) - [Kritanjali's Queue Insert Challenge](Kritanjali's%20Queue%20Insert%20Challenge.md)
+
+Topics : [Data Structures](Data%20Structures)
 
 ## Prompt
 
@@ -255,9 +257,60 @@ int main() {
 }
 ```
 
-## Resources
+## Resources for C Implementation
 
 - [The `malloc` function](https://cplusplus.com/reference/cstdlib/malloc/) - Reminder what the function does and how it behaves
 - [C - Type Casting](https://www.tutorialspoint.com/cprogramming/c_type_casting.htm) - To help understand what `(Element *)` is doing
 - [CSC130 - Data Structures and Algorithm Analysis - Section 1.3: Queues & Stacks in Practice Lecture Slide](https://github.com/matt2ology/csus-computer-science-csc/blob/main/csc130-data-structures-and-algorithm-analysis/lectures/3-queues%26StacksinPractice-CSC130-Fall2019.pdf) - A reminder on the Stack Data Structure
 - [C – Pointer to Pointer (Double Pointer)](https://www.geeksforgeeks.org/c-pointer-to-pointer-double-pointer/) - **Handling the Top Pointer**
+
+## Generated Python Solution
+
+```python
+class Stack:
+    def __init__(self, max_size):
+        self.items = []
+        self.max_size = max_size
+
+    def is_empty(self):
+        return len(self.items) == 0
+
+    def is_full(self):
+        return len(self.items) >= self.max_size
+
+    def push(self, item):
+        if self.is_full():
+            raise OverflowError("push to a full stack")
+        self.items.append(item)
+
+    def pop(self):
+        if self.is_empty():
+            raise IndexError("pop from empty stack")
+        return self.items.pop()
+
+    def peek(self):
+        if self.is_empty():
+            raise IndexError("peek from empty stack")
+        return self.items[-1]
+
+    def size(self):
+        return len(self.items)
+
+    def __str__(self):
+        return "Stack: " + str(self.items)
+
+# Example usage:
+s = Stack(max_size=3)
+s.push(1)
+s.push(2)
+s.push(3)
+print(s)         # Output: Stack: [1, 2, 3]
+try:
+    s.push(4)    # Should raise an OverflowError
+except OverflowError as e:
+    print(e)     # Output: push to a full stack
+print(s.pop())   # Output: 3
+print(s)         # Output: Stack: [1, 2]
+print(s.peek())  # Output: 2
+print(s.size())  # Output: 2
+```

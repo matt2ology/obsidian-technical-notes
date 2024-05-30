@@ -11,9 +11,12 @@ tags:
 
 Related : [Career Industry and Personal Development](../4-hub-notes-🚉/Career%20Industry%20and%20Personal%20Development.md)
 
+Repo : [GitHub - Code Challenges](https://github.com/matt2ology/technical-notes-code-challenges)
+
 ## Challenges
 
 - [Kritanjali's Stack Challenge](Kritanjali's%20Stack%20Challenge.md)
+- [LeetCode - 20 - Valid Parentheses](LeetCode%20-%2020%20-%20Valid%20Parentheses.md)
 
 ## Interview Questions, Templates, and Repository
 
