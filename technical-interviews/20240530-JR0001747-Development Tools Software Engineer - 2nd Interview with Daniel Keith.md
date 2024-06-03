@@ -9,7 +9,7 @@ week-created: Week 22.4
 
 # 20240530-JR0001747-Development Tools Software Engineer - 2nd Interview with Daniel Keith
 
-Related : [Technical Interview Note Hub](Technical%20Interview%20Note%20Hub.md)
+Related : [Technical Interview Note Hub](Technical%20Interview%20Note%20Hub.md) - [20240603 - JR0001747-Development Tools Software Engineer - 2nd Interview with Benjamin Black](20240603%20-%20JR0001747-Development%20Tools%20Software%20Engineer%20-%202nd%20Interview%20with%20Benjamin%20Black.md)
 
 Source : [Interview Code Challenge Implementation - encode.py](https://github.com/matt2ology/technical-notes-code-challenges/blob/main/JR0001747-encode.py)
 
