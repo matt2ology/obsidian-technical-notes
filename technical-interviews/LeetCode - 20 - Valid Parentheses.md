@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 note-type: permanent
 date-created: 2024-05-29
 long-form-date-created: Wednesday, May 29, 2024
