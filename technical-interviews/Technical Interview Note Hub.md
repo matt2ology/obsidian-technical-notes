@@ -13,10 +13,14 @@ Related : [Career Industry and Personal Development](../4-hub-notes-🚉/Career%
 
 Repo : [GitHub - Code Challenges](https://github.com/matt2ology/technical-notes-code-challenges)
 
+## Interviews
+
+- [20240530-JR0001747-Development Tools Software Engineer - 2nd Interview with Daniel Keith](20240530-JR0001747-Development%20Tools%20Software%20Engineer%20-%202nd%20Interview%20with%20Daniel%20Keith.md)
+
 ## Challenges
 
 - [Kritanjali's Stack Challenge](Kritanjali's%20Stack%20Challenge.md)
-- [LeetCode - 20 - Valid Parentheses](LeetCode%20-%2020%20-%20Valid%20Parentheses.md)
+- [Kritanjali's Queue Insert Challenge](Kritanjali's%20Queue%20Insert%20Challenge.md)
 
 ## Interview Questions, Templates, and Repository
 

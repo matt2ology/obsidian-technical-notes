@@ -8,7 +8,7 @@ time-created: 07:00 PM
 
 # Career Discussion with [Shankar Swamy](https://www.linkedin.com/in/shankarswamy/)
 
-Related : [Artificial Intelligence](Artificial%20Intelligence) - [LeetCode - 20 - Valid Parentheses](../technical-interviews/LeetCode%20-%2020%20-%20Valid%20Parentheses.md) - [Python](../4-hub-notes-🚉/Python.md)
+Related : [Artificial Intelligence](Artificial%20Intelligence) - [LeetCode - 20 - Valid Parentheses](../CompSci%20Algorithms%20and%20Concepts/LeetCode%20-%2020%20-%20Valid%20Parentheses.md) - [Python](../4-hub-notes-🚉/Python.md)
 
 Topics : [Career](Career)
 
