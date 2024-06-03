@@ -1,7 +1,7 @@
 ---
 note-type: meeting
-meeting-type: 
-company: 
+meeting-type:
+company:
 date-created: 2024-05-30
 long-form-date-created: Thursday, May 30, 2024
 week-created: Week 22.4
@@ -49,7 +49,7 @@ Topics : [Processes](../3-permanent-notes-🧲/Processes.md) - [Thread](Thread) 
 A function that when given two strings write a function that check if the two strings
 can be encoded.
 
-"cat"     -> "dog"   (123 -> 123)       True
-"mom" ->  "dad"   (121 -> 121)       True
-"talk"    -> "look"   (1234 -> 1223)   False
-"mmo" ->  "dad"   (112 -> 121)       False
+"cat" -> "dog" (123 -> 123) True
+"mom" -> "dad" (121 -> 121) True
+"talk" -> "look" (1234 -> 1223) False
+"mmo" -> "dad" (112 -> 121) False
