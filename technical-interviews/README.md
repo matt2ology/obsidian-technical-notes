@@ -15,7 +15,7 @@ Note hub : [Technical Interview Note Hub](Technical%20Interview%20Note%20Hub.md)
 
 Related : [Career and Industry](../Career%20and%20Industry/README.md)
 
-Repo :
+Repo : [Technical Notes Code Challenges](https://github.com/matt2ology/technical-notes-code-challenges)
 
 Topics : 
 
