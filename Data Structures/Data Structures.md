@@ -7,6 +7,6 @@ tags:
 
 # Data Structures
 
-Related : [Algorithms](Algorithms)
+Related : [Algorithms](../Algorithms/Algorithms.md)
 
 Topics :
