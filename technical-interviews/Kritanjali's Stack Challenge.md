@@ -11,7 +11,7 @@ time-created: 09:51 PM
 
 Related : [Stack Data Structure](../_inbox/Stack%20Data%20Structure.md) - [Kritanjali's Queue Insert Challenge](Kritanjali's%20Queue%20Insert%20Challenge.md)
 
-Topics : [Data Structures](Data%20Structures)
+Topics : [Data Structures](../Data%20Structures/Data%20Structures.md)
 
 ## Prompt
 
@@ -40,7 +40,7 @@ int pop(Element *top)
 }
 ```
 
-## Implementation
+## Implementation in C
 
 ```c
 #include <stdio.h> // used for printf
@@ -264,7 +264,7 @@ int main() {
 - [CSC130 - Data Structures and Algorithm Analysis - Section 1.3: Queues & Stacks in Practice Lecture Slide](https://github.com/matt2ology/csus-computer-science-csc/blob/main/csc130-data-structures-and-algorithm-analysis/lectures/3-queues%26StacksinPractice-CSC130-Fall2019.pdf) - A reminder on the Stack Data Structure
 - [C – Pointer to Pointer (Double Pointer)](https://www.geeksforgeeks.org/c-pointer-to-pointer-double-pointer/) - **Handling the Top Pointer**
 
-## Generated Python Solution
+## Chat GPT Generated Python Solution
 
 ```python
 class Stack:
