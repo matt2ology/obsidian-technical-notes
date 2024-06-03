@@ -15,7 +15,7 @@ Source : [LeetCode 20. Valid Parentheses](https://leetcode.com/problems/valid-pa
 
 Topics : [String Problems](String%20Problems) - [Stack Data Structure](../_inbox/Stack%20Data%20Structure.md)
 
-## Solution
+## Solution in Python
 
 ```python
 class Solution:
