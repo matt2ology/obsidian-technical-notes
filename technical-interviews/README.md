@@ -23,6 +23,7 @@ Topics :
 - [C Programming Language](C%20Programming%20Language)
 - [C++](C++) 
 - [Computer Organization](../4-hub-notes-🚉/Computer%20Organization.md)
+- [Data Structures](../Data%20Structures/Data%20Structures.md)
 - [Python](../4-hub-notes-🚉/Python.md) 
 
 This is a place for all technical interview questions, practices, problems, and notes on them.
