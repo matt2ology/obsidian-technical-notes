@@ -17,14 +17,14 @@ Related : [Career and Industry](../Career%20and%20Industry/README.md)
 
 Repo : [Technical Notes Code Challenges](https://github.com/matt2ology/technical-notes-code-challenges)
 
-Topics : 
+Topics :
 
 - [Algorithms](../Algorithms/Algorithms.md)
 - [C Programming Language](C%20Programming%20Language)
-- [C++](C++) 
+- [C++](C++)
 - [Computer Organization](../4-hub-notes-🚉/Computer%20Organization.md)
 - [Data Structures](../Data%20Structures/Data%20Structures.md)
-- [Python](../4-hub-notes-🚉/Python.md) 
+- [Python](../4-hub-notes-🚉/Python.md)
 
 This is a place for all technical interview questions, practices, problems, and notes on them.
 This will house all of my notes on code challenges and my solutions, and interview
