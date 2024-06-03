@@ -17,7 +17,7 @@ Topics : [Processes](../3-permanent-notes-🧲/Processes.md) - [Thread](Thread) 
 
 **Attendees**:
 
-- Daniel Keith
+- Daniel Keith - Software Engineering Manager
 
 ## Agenda/Questions
 
