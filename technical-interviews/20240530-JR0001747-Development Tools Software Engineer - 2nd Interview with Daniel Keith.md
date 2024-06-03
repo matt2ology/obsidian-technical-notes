@@ -11,7 +11,7 @@ week-created: Week 22.4
 
 Related : [Technical Interview Note Hub](Technical%20Interview%20Note%20Hub.md)
 
-Source : [encode.py](https://github.com/matt2ology/technical-notes-code-challenges/blob/main/JR0001747-encode.py)
+Source : [Interview Code Challenge Implementation - encode.py](https://github.com/matt2ology/technical-notes-code-challenges/blob/main/JR0001747-encode.py)
 
 Topics : [Processes](../3-permanent-notes-🧲/Processes.md) - [Thread](Thread) - [[Linked List]] - [[Hash table]] - [[Node]] - [[array]] - [[Big-O]] - [[Tree]] - [[Top-Down Programming]] - [[Event Driven Programming]] - [[Python]]
 
