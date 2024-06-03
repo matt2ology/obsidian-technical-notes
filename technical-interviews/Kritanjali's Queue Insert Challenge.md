@@ -11,7 +11,7 @@ time-created: 08:24 AM
 
 Related : [Kritanjali's Stack Challenge](../technical-interviews/Kritanjali's%20Stack%20Challenge.md) - [Queue Data Structure](Queue%20Data%20Structure)
 
-Topic : [Data Structures](Data%20Structures)
+Topic : [Data Structures](../Data%20Structures/Data%20Structures.md)
 
 > Kritanjali Balakrishnan - Wed 5/29/2024 6:29 AM
 >
@@ -30,7 +30,47 @@ structure this time, along with speed and whiteboarding; and then, do it in C
 ## My Implementation
 
 ```c
-void
+#define MAX 3
+
+// Queue Structure
+struct Queue {
+    int items[MAX];
+    int front;
+    int rear;
+};
+
+// The means to create a queue
+struct Queue *createQueue(){
+    struct Queue *q = (struct Queue *)malloc(sizeof(struct Queue));
+    if(q == NULL){  // In the event that malloc fails
+        printf("Memory allocation failed \n")
+        return NULL;
+    }
+    q -> front = -1;
+    q -> rear = -1;
+    return q;
+}
+
+// Add an element to the queue
+void insert(struct Queue *q, int value){
+    if (isFull(q)){
+        printf("Queue is full\n");
+        return;
+    }
+    if (q -> front == -1){
+        q -> front = 0;
+    }
+    q -> rear = (q -> rear + 1) % MAX;
+    q -> items[q -> rear] = values;
+    printf("Inserted %d \n", value);
+}
+
+bool isFull(struct Queue *q){
+    if((q -> rear + 1) % MAX == q -> front){
+        return true;
+    }
+    return false;
+}
 ```
 
 ![Python Whiteboarding Solution](../attachments/Pasted%20image%2020240529141841.png)
