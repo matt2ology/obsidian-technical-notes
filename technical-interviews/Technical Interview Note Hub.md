@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 note-type: hub
 tags:
   - hub
@@ -16,6 +16,7 @@ Repo : [GitHub - Code Challenges](https://github.com/matt2ology/technical-notes-
 ## Interviews
 
 - [20240530-JR0001747-Development Tools Software Engineer - 2nd Interview with Daniel Keith](20240530-JR0001747-Development%20Tools%20Software%20Engineer%20-%202nd%20Interview%20with%20Daniel%20Keith.md)
+- [20240603 - JR0001747-Development Tools Software Engineer - 2nd Interview with Benjamin Black](20240603%20-%20JR0001747-Development%20Tools%20Software%20Engineer%20-%202nd%20Interview%20with%20Benjamin%20Black.md)
 
 ## Challenges
 
