@@ -26,10 +26,14 @@ Topics : [Backtracking Algorithms](Backtracking%20Algorithms) - [Dynamic Program
 
 ### N Queen Problem
 
+See to: [GeeksforGeeks: N Queen Problem](https://www.geeksforgeeks.org/n-queen-problem-backtracking-3/)
+
 The **N** Queen is the problem of placing **N** chess queens on an **N×N**
 chessboard so that no two queens attack each other.
 
 ### Search a Word in a 2D Grid of characters (Word Search)
+
+See to: [GeeksforGeeks: 2D Grid of characters (Word Search)](https://www.geeksforgeeks.org/search-a-word-in-a-2d-grid-of-characters/)
 
 Given a 2D grid of characters and a single word/an array of words, find all
 occurrences of the given word/words in the grid. A word can be matched in all 8
