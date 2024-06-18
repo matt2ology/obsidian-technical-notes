@@ -11,4 +11,4 @@ tags:
 
 Related :
 
-Topics : [Data Structures](../Data%20Structures/Data%20Structures.md) [Algorithms](../Algorithms/Algorithms.md)
+Topics : [Data Structures](../Data%20Structures/Data%20Structures.md) [Algorithm Hub](../Algorithms/Algorithm%20Hub.md)

@@ -19,7 +19,7 @@ Repo : [Technical Notes Code Challenges](https://github.com/matt2ology/technical
 
 Topics :
 
-- [Algorithms](../Algorithms/Algorithms.md)
+- [Algorithm Hub](../Algorithms/Algorithm%20Hub.md)
 - [C Programming Language](C%20Programming%20Language)
 - [C++](C++)
 - [Computer Organization](../4-hub-notes-🚉/Computer%20Organization.md)

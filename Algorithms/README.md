@@ -10,7 +10,7 @@ time-created: 10:04 AM
 
 # README
 
-Note hub : [Algorithms](Algorithms.md)
+Note hub : [Algorithm Hub](Algorithm%20Hub.md)
 
 Related : [Technical Interview - README](../technical-interviews/README.md) - [Data Structures - README](../Data%20Structures/README.md)
 

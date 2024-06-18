@@ -9,7 +9,7 @@ time-created: 10:14 PM
 
 # What is an Algorithm?
 
-Related : [Algorithms](../Algorithms/Algorithms.md)
+Related : [Algorithm Hub](../Algorithms/Algorithm%20Hub.md)
 
 An algorithm is a set of instructions that a computer will follow step-by-step to solve a problem.
 

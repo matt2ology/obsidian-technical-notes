@@ -9,7 +9,7 @@ time-created: 09:25 PM
 
 # Introduction to Big-O
 
-Related : [Algorithms](../../Algorithms/Algorithms.md)
+Related : [Algorithm Hub](../../Algorithms/Algorithm%20Hub.md)
 
 Topic : [Big-O](Big-O)
 

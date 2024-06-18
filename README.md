@@ -24,7 +24,7 @@ Using obsidian to manage note creation and note-link referencing : <https://obsi
 
 ## Areas of Interest
 
-- [Algorithms](Algorithms/Algorithms.md)
+- [Algorithm Hub](Algorithms/Algorithm%20Hub.md)
 - [Android Development](4-hub-notes-🚉/Android%20Development.md)
 - [Data Structures](Data%20Structures/Data%20Structures.md)
 - [Game Development](4-hub-notes-🚉/Game%20Development.md)
