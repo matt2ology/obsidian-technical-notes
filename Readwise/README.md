@@ -14,3 +14,6 @@ Related : [README - Book Notes and References Library](../Book%20Notes%20and%20R
 
 A paid service that syncs all my readings and consume-later content notes and
 highlights to Obsidian.
+
+- [Articles](./Articles)
+- [Books](./Books)
