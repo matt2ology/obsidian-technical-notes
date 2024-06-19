@@ -10,11 +10,13 @@ time-created: 08:48 PM
 
 # README: LeetCode's Interview Crash Course Data Structures and Algorithms
 
-Note hub : [LeetCode Interview Crash Course Data Structures and Algorithms](LeetCode%20Interview%20Crash%20Course%20Data%20Structures%20and%20Algorithms.md)
+Note hub : [Note hub for LeetCode Interview Crash Course Data Structures and Algorithms](LeetCode%20Interview%20Crash%20Course%20Data%20Structures%20and%20Algorithms.md)
 
-Related : [DSA](../../4-hub-notes-🚉/Data%20Structures%20and%20Algorithms.md)
+Related : [Data Structures and Algorithms (DSA)](../../4-hub-notes-🚉/Data%20Structures%20and%20Algorithms.md)
 
 Repo : [Matt2ology: LeetCode's Interview Crash Course Data Structures and Algorithms](https://github.com/matt2ology/LeetCodes-Interview-Crash-Course-Data-Structures-and-Algorithms/tree/main)
+
+Source : [LeetCode's Interview Crash Course Data Structures and Algorithms](https://leetcode.com/explore/interview/card/leetcodes-interview-crash-course-data-structures-and-algorithms/)
 
 ## Introduction
 
