@@ -55,3 +55,4 @@ In practice one would, for example, say:
 - The time complexity of this algorithm is $O\left(n\right)$ (oh-of-n)
 - The space complexity of my algorithm is $O\left(n^2\right)$ (oh-of-n-squared)
 
+## Calculating complexity
