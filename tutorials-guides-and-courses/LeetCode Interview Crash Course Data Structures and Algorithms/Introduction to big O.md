@@ -44,7 +44,7 @@ array of 4 or 9,001 elements/items.
 Complexity, as written, is represented as a function with a capital "O" (oh)
 and some, arbitrary, input size argument variable `n`:
 
-- $O\left(n\right)$
+- $O\left(n\right)$: Linear
 - $O\left(n^2\right)$
 - $O\left(2^n\right)$
 - $O\left(\log n\right)$
