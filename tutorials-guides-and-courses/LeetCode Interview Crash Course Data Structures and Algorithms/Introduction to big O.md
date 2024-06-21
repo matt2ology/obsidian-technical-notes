@@ -56,3 +56,34 @@ In practice one would, for example, say:
 - The space complexity of my algorithm is $O\left(n^2\right)$ (oh-of-n-squared)
 
 ## Calculating complexity
+
+There are, normally, three cases in complexity analysis:
+
+- Best case scenario
+- Average case
+- Worst case scenario
+
+In most algorithms, all three cases (i.e. best case scenario, average case, worst case scenario)
+will all share the same complexity (big-O), but other will differ. Algorithms are judged based
+on their worst case scenario.
+
+Functions, or algorithm, calculate the number of operations (time) or the amount of
+memory (space) relative to the input size.
+
+Having the ability to abstract a(n) algorithm/function's complexity benefit's ones ability to
+potentially optimize their own algorithm/function; in addition, interviewers will almost always
+ask Big-O (time and space complexity) assess one's ability to determine what parts of a
+algorithm/function can be improved.
+
+### Rules
+
+The rules when calculating complexity:
+
+- **Ignore constants**: The point is to analyze the algorithm **_as the input changes_**.
+  - We don't care that one algorithm versus another is 5x or 10x slower as the input size increases; for, the number of operations required increases $O\left(n\right)$ - **linearly**.
+- Consider the complexity as the variables **tend to infinity**
+  - Ignore all terms except the most powerful one; for example, $O\left(2^n+n^2-500n\right)\:=\:O\left(2^n\right)$: $O\left(2^n\right)$ is the most significant in the equation.
+  - As `n` tends to infinity, $2^n$ becomes significantly large that the other terms are effectively zero in comparison
+
+The best complexity possible is "constant time" or "constant space": $O\left(1\right)$ for
+the algorithm/function ALWAYS uses the same amount of resources regardless of input size.
