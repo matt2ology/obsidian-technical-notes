@@ -11,7 +11,7 @@ author:
 
 Related : [The app-level build.gradle file](The%20app-level%20build.gradle%20file.md)
 
-Source : [How to Build Android Apps with Kotlin Note Hub](How%20to%20Build%20Android%20Apps%20with%20Kotlin%20Note%20Hub.md)
+Source : [Note Hub - How to Build Android Apps with Kotlin](Note%20Hub%20-%20How%20to%20Build%20Android%20Apps%20with%20Kotlin.md)
 
 Topics : [Android Development](../../4-hub-notes-🚉/Android%20Development.md)
 

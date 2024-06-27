@@ -9,7 +9,7 @@ time-created: 11:01 AM
 
 # Exercise 1.04 - Exploring How Material Design is used to Theme an App
 
-Related : [How to Build Android Apps with Kotlin Note Hub](How%20to%20Build%20Android%20Apps%20with%20Kotlin%20Note%20Hub.md)
+Related : [Note Hub - How to Build Android Apps with Kotlin](../Note%20Hub%20-%20How%20to%20Build%20Android%20Apps%20with%20Kotlin.md)
 
 In this exercise, you’ve learned how Material Design can be used to theme an app.
 As you are currently only displaying TextView on the screen, it is not clear

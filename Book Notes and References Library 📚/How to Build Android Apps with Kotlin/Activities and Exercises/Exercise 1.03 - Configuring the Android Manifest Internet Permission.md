@@ -9,7 +9,7 @@ time-created: "09:38 PM"
 
 # Exercise 1.03 - Configuring the Android Manifest Internet Permission
 
-Created from : [How to Build Android Apps with Kotlin Note Hub](How%20to%20Build%20Android%20Apps%20with%20Kotlin%20Note%20Hub.md)
+Created from : [Note Hub - How to Build Android Apps with Kotlin](../Note%20Hub%20-%20How%20to%20Build%20Android%20Apps%20with%20Kotlin.md)
 
 Related :
 

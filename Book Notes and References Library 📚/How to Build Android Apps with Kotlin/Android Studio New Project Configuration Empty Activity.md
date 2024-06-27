@@ -9,7 +9,7 @@ time-created: "01:47 AM"
 
 # Android Studio New Project Configuration Empty Activity
 
-Created from : [How to Build Android Apps with Kotlin Note Hub](How%20to%20Build%20Android%20Apps%20with%20Kotlin%20Note%20Hub.md)
+Created from : [Note Hub - How to Build Android Apps with Kotlin](Note%20Hub%20-%20How%20to%20Build%20Android%20Apps%20with%20Kotlin.md)
 
 Related : [What is the Importance of AndroidManifest.xml](What%20is%20the%20Importance%20of%20AndroidManifest.xml.md)
 

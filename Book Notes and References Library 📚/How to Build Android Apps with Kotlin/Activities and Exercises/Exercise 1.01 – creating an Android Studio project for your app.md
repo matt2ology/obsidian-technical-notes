@@ -9,7 +9,7 @@ time-created: "09:06 PM"
 
 # Exercise 1.01 – creating an Android Studio project for your app
 
-Created from : [How to Build Android Apps with Kotlin Note Hub](How%20to%20Build%20Android%20Apps%20with%20Kotlin%20Note%20Hub.md)
+Created from : [Note Hub - How to Build Android Apps with Kotlin](../Note%20Hub%20-%20How%20to%20Build%20Android%20Apps%20with%20Kotlin.md)
 
 Related :
 

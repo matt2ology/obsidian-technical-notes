@@ -11,7 +11,7 @@ author:
 
 Related : [Android Studio](Android%20Studio) - [What is the Gradle Build Tool](What%20is%20the%20Gradle%20Build%20Tool.md) - [Java virtual machine (JVM)](../../3-permanent-notes-🧲/Java%20Virtual%20Machine.md)
 
-Source : [How to Build Android Apps with Kotlin Note Hub](How%20to%20Build%20Android%20Apps%20with%20Kotlin%20Note%20Hub.md)
+Source : [Note Hub - How to Build Android Apps with Kotlin](Note%20Hub%20-%20How%20to%20Build%20Android%20Apps%20with%20Kotlin.md)
 
 Topics : [Android Development](../../4-hub-notes-🚉/Android%20Development.md)
 

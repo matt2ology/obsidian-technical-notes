@@ -14,7 +14,7 @@ Related :
 - [The app-level build.gradle file](The%20app-level%20build.gradle%20file.md)
 - [Using Gradle to build, configure, and manage app dependencies](Using%20Gradle%20to%20build,%20configure,%20and%20manage%20app%20dependencies.md)
 
-Source : [How to Build Android Apps with Kotlin Note Hub](How%20to%20Build%20Android%20Apps%20with%20Kotlin%20Note%20Hub.md)
+Source : [Note Hub - How to Build Android Apps with Kotlin](Note%20Hub%20-%20How%20to%20Build%20Android%20Apps%20with%20Kotlin.md)
 
 Topics : [Android Development](../../4-hub-notes-🚉/Android%20Development.md)
 

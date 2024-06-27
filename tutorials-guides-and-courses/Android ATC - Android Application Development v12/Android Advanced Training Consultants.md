@@ -33,4 +33,4 @@ Jomar Tigcal (Author)
 
 **ISBN-13**: 978-1837634934
 
-**My notes going though the book can be found here**: [How to Build Android Apps with Kotlin Note Hub](../../Book%20Notes%20and%20References%20Library%20📚/How%20to%20Build%20Android%20Apps%20with%20Kotlin/How%20to%20Build%20Android%20Apps%20with%20Kotlin%20Note%20Hub.md)
+**My notes going though the book can be found here**: [Note Hub - How to Build Android Apps with Kotlin](../../Book%20Notes%20and%20References%20Library%20📚/How%20to%20Build%20Android%20Apps%20with%20Kotlin/Note%20Hub%20-%20How%20to%20Build%20Android%20Apps%20with%20Kotlin.md)
