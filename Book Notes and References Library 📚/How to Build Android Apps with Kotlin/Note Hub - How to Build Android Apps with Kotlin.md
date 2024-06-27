@@ -18,7 +18,7 @@ Topics : [Android Development](../../4-hub-notes-🚉/Android%20Development.md) 
 
 Links to all notes, questions, and insights made while reading: [Amazon link to book: How to Build Android Apps with Kotlin: A practical guide to developing, testing, and publishing your first Android apps](https://www.amazon.com/How-Build-Android-Apps-Kotlin-ebook/dp/B0BVZX4JHS/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)
 
-The complete code for all the exercises and the activity in this chapter is available on GitHub at https://packt.link/96l1D
+The complete code for all the exercises and the activity in this chapter is available on GitHub at <https://packt.link/96l1D>
 
 ## Notes and Insights
 
