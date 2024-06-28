@@ -16,7 +16,8 @@ Readwise, catch-all, highlights: [Readwise Directory](../Readwise/README.md)
 
 ## Currently Reading
 
-- [(ISBN-13: 978-1837634934) How to Build Android Apps with Kotlin: A practical guide to developing, testing, and publishing your first Android apps](How%20to%20Build%20Android%20Apps%20with%20Kotlin/Note%20Hub%20-%20How%20to%20Build%20Android%20Apps%20with%20Kotlin.md)
+- [(ISBN-13: 978-1718503106) The Rust Programming Language, 2nd Edition 2nd Edition by Steve Klabnik (Author), Carol Nichols (Author)](The%20Rust%20Programming%20Language%20-%202nd%20Edition/NOTE%20HUB.md) ▶️
+- [(ISBN-13: 978-1837634934) How to Build Android Apps with Kotlin: A practical guide to developing, testing, and publishing your first Android apps](How%20to%20Build%20Android%20Apps%20with%20Kotlin/Note%20Hub%20-%20How%20to%20Build%20Android%20Apps%20with%20Kotlin.md) ⏸️
 
 ## Books in Backlog
 
@@ -25,7 +26,6 @@ Readwise, catch-all, highlights: [Readwise Directory](../Readwise/README.md)
 
 ## Books Read
 
-- [ ] 
 
 ## Rejected
 
