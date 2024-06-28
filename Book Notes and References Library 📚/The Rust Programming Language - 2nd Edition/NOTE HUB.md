@@ -8,6 +8,8 @@ tags:
 
 # NOTE HUB for The Rust Programming Language, 2nd Edition
 
+[GitHub of exercises and projects from the book](https://github.com/matt2ology/the-rust-programming-language)
+
 Kindle notes and highlights :
 
 - Synced by [Kindle Highlights](https://github.com/hadynz/obsidian-kindle-plugin): [Klabnik-Nichols-The Rust Programming Language, 2nd Edition](../../kindle-highlights/Klabnik-Nichols-The%20Rust%20Programming%20Language,%202nd%20Edition.md)
