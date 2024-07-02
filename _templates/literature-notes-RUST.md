@@ -11,8 +11,8 @@ author:
 
 Related :
 
-Source : [Android ATC - Android Application Development v12](../tutorials-guides-and-courses/Android%20ATC%20-%20Android%20Application%20Development%20v12/Android%20ATC%20-%20Android%20Application%20Development%20v12.md)
+Source : [NOTE HUB for Klabnik, Steve; Nichols, Carol. The Rust Programming Language, 2nd Edition. No Starch Press. Kindle Edition.](NOTE%20HUB.md)
 
-Topics :
+Topics : [Rust Programming Language](../4-hub-notes-🚉/Rust.md)
 
 <!-- Takeaways and Inspirations -->

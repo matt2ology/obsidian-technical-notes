@@ -4,9 +4,9 @@ kindle-sync:
   title: "The Rust Programming Language, 2nd Edition"
   author: Steve Klabnik and Carol Nichols
   asin: B0B7QTX8LL
-  lastAnnotatedDate: "2024-06-28"
+  lastAnnotatedDate: "2024-07-01"
   bookImageUrl: "https://m.media-amazon.com/images/I/71aCEjlQBoL._SY160.jpg"
-  highlightsCount: 1
+  highlightsCount: 6
 ---
 
 # Kindle Highlights of The Rust Programming Language, 2nd Edition
@@ -25,5 +25,35 @@ Run `rustc --version` in the command prompt: this command will output the versio
 Currently I have: `rustc 1.68.0 (2c8cc3432 2023-03-06)` ^ref-29512
 
 > This version of the text assumes you’re using Rust 1.62.0 (released 2022-06-30) or later with edition="2021" in the Cargo.toml file of all projects to configure them to use Rust 2021 edition idioms. — location: [1362](kindle://book?action=open&asin=B0B7QTX8LL&location=1362)
+
+---
+
+Rust's robust and verbose error messages is also a means of support in either directing one what is the issue or provide a hint as to what is wrong with the code.
+
+> An important part of the process of learning Rust is learning how to read the error messages the compiler displays: these will guide you toward working code. As such, we’ll provide many examples that don’t compile along with the error message the compiler will show you in each situation. Know that if you enter and run a random example, it may not compile! Make sure you read the surrounding text to see whether the example you’re trying to run is meant to error. In most situations, we’ll lead you to the correct version of any code that doesn’t compile. — location: [1476](kindle://book?action=open&asin=B0B7QTX8LL&location=1476) ^ref-62458
+
+---
+
+The alternative method to install Rust can be found there: https://forge.rust-lang.org/infra/other-installation-methods.html
+
+> rustup, a command line tool for managing Rust versions and associated tools. — location: [1497](kindle://book?action=open&asin=B0B7QTX8LL&location=1497) ^ref-62851
+
+---
+
+The Rust file naming convention
+
+> Rust files always end with the .rs extension. If you’re using more than one word in your filename, the convention is to use an underscore to separate them. For example, use hello_world.rs rather than helloworld.rs. — location: [1600](kindle://book?action=open&asin=B0B7QTX8LL&location=1600) ^ref-47516
+
+---
+
+Question: is there a case that you'll have a Rust program that intentially doesn't run? Why is there an articulation that it "runs in every executable Rust program"?
+
+> it is always the first code that runs in every executable Rust program. — location: [1627](kindle://book?action=open&asin=B0B7QTX8LL&location=1627) ^ref-27769
+
+---
+
+Question: How do you know when a line of Rust code requires a semicolon or not?
+
+> end the line with a semicolon (;), which indicates that this expression is over and the next one is ready to begin. Most lines of Rust code end with a semicolon. — location: [1651](kindle://book?action=open&asin=B0B7QTX8LL&location=1651) ^ref-33202
 
 ---
