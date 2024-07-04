@@ -10,7 +10,7 @@ time-created: 08:48 PM
 
 # README: LeetCode's Interview Crash Course Data Structures and Algorithms
 
-Note hub : [Note hub for LeetCode Interview Crash Course Data Structures and Algorithms](LeetCode%20Interview%20Crash%20Course%20Data%20Structures%20and%20Algorithms.md)
+Note hub : [Note hub for LeetCode Interview Crash Course Data Structures and Algorithms](NOTE%20HUB.md)
 
 Related : [Data Structures and Algorithms (DSA)](../../4-hub-notes-🚉/Data%20Structures%20and%20Algorithms.md)
 

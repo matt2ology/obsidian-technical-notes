@@ -23,7 +23,7 @@ Related : [README: Books Notes and References Library](../Book%20Notes%20and%20R
 
 Items listed are in progress or forgotten about. Try not to have more than 3 items active.
 
-1. [LeetCode Interview Crash Course Data Structures and Algorithms](LeetCode%20Interview%20Crash%20Course%20Data%20Structures%20and%20Algorithms/LeetCode%20Interview%20Crash%20Course%20Data%20Structures%20and%20Algorithms.md) ✅
+1. [NOTE HUB](LeetCode%20Interview%20Crash%20Course%20Data%20Structures%20and%20Algorithms/NOTE%20HUB.md) ✅
 2. [thenewboston - Django Tutorials for Beginners](thenewboston-django-tutorial-for-beginners/thenewboston-django-tutorial-for-beginners.md) ⏱
 3. [thenewboston-pro-django-tutorials](thenewboston-pro-django-tutorials/thenewboston-pro-django-tutorials.md) ⏱
 

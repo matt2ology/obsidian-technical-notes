@@ -9,7 +9,7 @@ time-created: 01:43 PM
 
 # LeetCode - 20 - Valid Parentheses
 
-Related : [LeetCode Interview Crash Course Data Structures and Algorithms](../tutorials-guides-and-courses/LeetCode%20Interview%20Crash%20Course%20Data%20Structures%20and%20Algorithms/LeetCode%20Interview%20Crash%20Course%20Data%20Structures%20and%20Algorithms.md)
+Related : [NOTE HUB](../tutorials-guides-and-courses/LeetCode%20Interview%20Crash%20Course%20Data%20Structures%20and%20Algorithms/NOTE%20HUB.md)
 
 Source : [LeetCode 20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 

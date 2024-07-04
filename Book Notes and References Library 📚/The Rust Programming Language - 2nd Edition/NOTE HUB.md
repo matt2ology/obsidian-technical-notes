@@ -46,7 +46,17 @@ The Rust Programming Language - 2nd ed chapter 01 Summary
 - [Rust Building for Release](Rust%20Building%20for%20Release.md) - `cargo build --release`
 - [Rust Cargo as Convention](Rust%20Cargo%20as%20Convention)
 
-The Rust Programming Language - 2nd ed chapter 02 Project
+The Rust Programming Language - 2nd ed chapter 02 Project Guessing Game
+
+You’ll learn about let, match, methods, associated functions, external crates,
+and more!
+
+- [How to read user input in Rust](How%20to%20read%20user%20input%20in%20Rust.md)
+- [What is Rust standard library prelude](What%20is%20Rust%20standard%20library%20prelude.md)
+- [Storing Values and Variables in Rust](Storing%20Values%20and%20Variables%20in%20Rust)
+- [What is a growable?](What%20is%20a%20growable) 🙋‍♂️
+- [What is an associated function](What%20is%20an%20associated%20function.md)
+
 The Rust Programming Language - 2nd ed chapter 03 Summary
 The Rust Programming Language - 2nd ed chapter 04 Summary
 The Rust Programming Language - 2nd ed chapter 05 Summary

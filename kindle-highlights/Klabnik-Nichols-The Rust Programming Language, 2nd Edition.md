@@ -1,12 +1,12 @@
 ---
 kindle-sync:
-  bookId: "5825"
-  title: "The Rust Programming Language, 2nd Edition"
+  bookId: '5825'
+  title: 'The Rust Programming Language, 2nd Edition'
   author: Steve Klabnik and Carol Nichols
   asin: B0B7QTX8LL
-  lastAnnotatedDate: "2024-07-01"
-  bookImageUrl: "https://m.media-amazon.com/images/I/71aCEjlQBoL._SY160.jpg"
-  highlightsCount: 6
+  lastAnnotatedDate: '2024-07-04'
+  bookImageUrl: 'https://m.media-amazon.com/images/I/71aCEjlQBoL._SY160.jpg'
+  highlightsCount: 10
 ---
 
 # Kindle Highlights of The Rust Programming Language, 2nd Edition
@@ -55,5 +55,25 @@ Question: is there a case that you'll have a Rust program that intentially doesn
 Question: How do you know when a line of Rust code requires a semicolon or not?
 
 > end the line with a semicolon (;), which indicates that this expression is over and the next one is ready to begin. Most lines of Rust code end with a semicolon. — location: [1651](kindle://book?action=open&asin=B0B7QTX8LL&location=1651) ^ref-33202
+
+---
+
+Rust's solution to C language make files. Also draws inspiration from Python's package manager PIP.
+
+> Just compiling with rustc is fine for simple programs, but as your project grows, you’ll want to manage all the options and make it easy to share your code. Next, we’ll introduce you to the Cargo tool, which will help you write real-world Rust programs. — location: [1682](kindle://book?action=open&asin=B0B7QTX8LL&location=1682) ^ref-43362
+
+---
+A makefile and package manager all wrapped into one tool.
+
+> Cargo is Rust’s build system and package manager. Most Rustaceans use this tool to manage their Rust projects because Cargo handles a lot of tasks for you, such as building your code, downloading the libraries your code depends on, and building those libraries. (We call the libraries that your code needs dependencies.) — location: [1686](kindle://book?action=open&asin=B0B7QTX8LL&location=1686) ^ref-10815
+
+---
+Rust is not so restrictive to dis-allow others from adopting it's opinionated structure and quickly gain benifits from RUST tooling.
+
+> If you started a project that doesn’t use Cargo, as we did with the “Hello, world!” project, you can convert it to a project that does use Cargo. Move the project code into the src directory and create an appropriate Cargo.toml file. — location: [1748](kindle://book?action=open&asin=B0B7QTX8LL&location=1748) ^ref-36167
+
+---
+
+> You’ll learn about let, match, methods, associated functions, external crates, and more! — location: [1833](kindle://book?action=open&asin=B0B7QTX8LL&location=1833) ^ref-25829
 
 ---
