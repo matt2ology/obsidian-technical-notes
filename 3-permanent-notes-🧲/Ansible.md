@@ -7,7 +7,7 @@ time-created: 11:33 AM
 
 # Ansible
 
-Related : [Vagrant](../3-permanent-notes-🧲/Vagrant.md), [Configuration Management (CM)](<../3-permanent-notes-🧲/Configuration%20Management%20(CM).md>), [Vagrant and Ansible](../3-permanent-notes-🧲/Vagrant%20and%20Ansible.md)
+Related : [Vagrant](../3-permanent-notes-🧲/Vagrant.md), [Configuration Management (CM)](<../3-permanent-notes-🧲/Configuration%20Management%20(CM).md>), [Vagrant and Ansible](../Book%20Notes%20and%20References%20Library%20📚/DevOps%20for%20the%20Desperate/Vagrant%20and%20Ansible.md)
 
 Topics : [DevOps](DevOps)
 
