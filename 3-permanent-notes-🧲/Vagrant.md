@@ -7,7 +7,7 @@ time-created: 11:25 AM
 
 # Vagrant
 
-Related : [Ansible](Ansible.md), [Infrastructure as Code (IaC)](<Infrastructure%20as%20Code%20(IaC).md>), [Vagrant and Ansible](Vagrant%20and%20Ansible.md)
+Related : [Ansible](Ansible.md), [Infrastructure as Code (IaC)](<Infrastructure%20as%20Code%20(IaC).md>), [Vagrant and Ansible](../Book%20Notes%20and%20References%20Library%20📚/DevOps%20for%20the%20Desperate/Vagrant%20and%20Ansible.md)
 
 Topics : [DevOps](DevOps)
 
