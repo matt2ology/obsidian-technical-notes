@@ -15,7 +15,7 @@ Provisioning, setting up, a virtual machine to be configured for a specific purp
 running an application, testing new software across different platforms, or applying updates
 requires two steps: creating and then configuring the [Virtual Machine (VM)](<../../3-permanent-notes-🧲/Virtual%20Machine%20(VM).md>).
 
-Software like [Vagrant](../../3-permanent-notes-🧲/Vagrant.md) and [Ansible](Ansible) are used to build and configure a Virtual Machine (VM).
+Software like [Vagrant](../../3-permanent-notes-🧲/Vagrant.md) and [Ansible](../../3-permanent-notes-🧲/Ansible.md) are used to build and configure a Virtual Machine (VM).
 Vagrant is used to automate the process of creating [Virtual Machine (VM)](<../../3-permanent-notes-🧲/Virtual%20Machine%20(VM).md>) and Ansible
 configures the [Virtual Machine (VM)](<../../3-permanent-notes-🧲/Virtual%20Machine%20(VM).md>).
 
