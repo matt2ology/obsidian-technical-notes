@@ -38,7 +38,8 @@ Discusses the concepts of [Infrastructure as Code (IaC)](<../../3-permanent-note
 that you’ll use to create and provision an Ubuntu VM.
 
 - [VM Provisioning Basics](VM%20Provisioning%20Basics.md)
-- [Vagrant and Ansible](../../3-permanent-notes-🧲/Vagrant%20and%20Ansible.md)
+- [Vagrant and Ansible](Vagrant%20and%20Ansible.md)
+- 
 
 #### **Chapter 2:** Using Ansible to Manage Passwords, Users, and Groups
 
