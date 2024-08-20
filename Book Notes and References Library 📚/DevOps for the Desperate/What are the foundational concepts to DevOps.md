@@ -11,7 +11,7 @@ time-created: 10:34 PM
 
 Related :
 
-Source : [NOTE HUB for DevOps for the Desperate: A Hands-On Survival Guide](../Book%20Notes%20and%20References%20Library%20📚/DevOps%20for%20the%20Desperate/NOTE%20HUB.md)
+Source : [NOTE HUB for DevOps for the Desperate: A Hands-On Survival Guide](NOTE%20HUB.md)
 
 Topics : [DevOps](DevOps)
 
