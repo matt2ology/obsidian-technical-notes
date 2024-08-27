@@ -27,6 +27,11 @@ Source code samples: https://github.com/bradleyd/devops_for_the_desperate.git.
 
 ## Notes and Insights
 
+If you're running Windows you'll need Windows 10 Pro or 11 Pro to enable nested
+virtualization for Hyper-V, native to Windows, allows one to use VirtualBox and
+install Ubuntu VM. Hyper-V is not available on the "Home" edition of the Windows
+operating system.
+
 ### PART I: INFRASTRUCTURE AS CODE, CONFIGURATION MANAGEMENT, SECURITY, AND ADMINISTRATION
 
 [Infrastructure as Code (IaC)](<../../3-permanent-notes-🧲/Infrastructure%20as%20Code%20(IaC).md>) and [Configuration Management (CM)](<../../3-permanent-notes-🧲/Configuration%20Management%20(CM).md>) builds systems with a repeatable, versioned, and predictable state.
@@ -39,7 +44,7 @@ that you’ll use to create and provision an Ubuntu VM.
 
 - [VM Provisioning Basics](VM%20Provisioning%20Basics.md)
 - [Vagrant and Ansible](Vagrant%20and%20Ansible.md)
-- 
+- [Installing Vagrant](Installing%20Vagrant.md)
 
 #### **Chapter 2:** Using Ansible to Manage Passwords, Users, and Groups
 
