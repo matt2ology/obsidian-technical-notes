@@ -9,7 +9,7 @@ time-created: 05:43 PM
 
 # Windows Hyper-V and Hypervisor Platform
 
-Related : [VirtualBox](VirtualBox)
+Related : [VirtualBox](../../3-permanent-notes-🧲/VirtualBox.md)
 
 Windows Hyper-V and Hypervisor Platform are related but distinct technologies
 in the Windows ecosystem.
