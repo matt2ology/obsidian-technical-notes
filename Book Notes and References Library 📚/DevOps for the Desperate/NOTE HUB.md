@@ -25,6 +25,15 @@ Links to all notes, questions, and insights made while reading
 
 Source code samples: https://github.com/bradleyd/devops_for_the_desperate.git.
 
+## Questions (Who, What, When, Where, Why, and How)
+
+Check off notes with `-` instead of `x`, so it does not cross out line item in [Obsidian](https://obsidian.md/)
+
+- [ ] Is Vagrant and Nix comparable
+- [-] [What are the foundational concepts to DevOps?](What%20are%20the%20foundational%20concepts%20to%20DevOps.md)
+- [-] [What is a Vagrantfile](What%20is%20a%20Vagrantfile.md)
+- [-] [Why Use Code to Build Infrastructure?](Why%20Use%20Code%20to%20Build%20Infrastructure.md)
+
 ## Notes and Insights
 
 If you're running Windows you'll need Windows 10 Pro or 11 Pro to enable nested
@@ -111,10 +120,3 @@ and alert on it when things are out of scope.
 Discusses common issues and errors on a host and some tools you can use to troubleshoot
 them. Being able to analyze issues on a host will help you in times of crisis and help you
 understand performance issues in your own code and applications.
-
-## Questions (Who, What, When, Where, Why, and How)
-
-Check off notes with `-` instead of `x`, so it does not cross out line item in [Obsidian](https://obsidian.md/)
-
-- [-] [What are the foundational concepts to DevOps?](What%20are%20the%20foundational%20concepts%20to%20DevOps.md)
-- [-] [Why Use Code to Build Infrastructure?](Why%20Use%20Code%20to%20Build%20Infrastructure.md)
