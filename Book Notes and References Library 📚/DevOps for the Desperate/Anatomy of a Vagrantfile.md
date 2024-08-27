@@ -9,10 +9,10 @@ time-created: 02:49 PM
 
 # Anatomy of a Vagrantfile
 
-Related : [Installing Vagrant](../Book%20Notes%20and%20References%20Library%20📚/DevOps%20for%20the%20Desperate/Installing%20Vagrant.md) - [Vagrant](../3-permanent-notes-🧲/Vagrant.md) - [Ruby Programming Language](Ruby%20Programming%20Language) - [Basic Vagrant Commands](Basic%20Vagrant%20Commands)
+Related : [Installing Vagrant](Installing%20Vagrant.md) - [Vagrant](../../3-permanent-notes-🧲/Vagrant.md) - [Ruby Programming Language](Ruby%20Programming%20Language) - [Basic Vagrant Commands](Basic%20Vagrant%20Commands)
 
 A Vagrantfile describes how to build and provision a
-[Virtual Machine (VM)](<../3-permanent-notes-🧲/Virtual%20Machine%20(VM).md>).
+[Virtual Machine (VM)](../../3-permanent-notes-🧲/Virtual%20Machine%20(VM).md).
 It's best practice to use ONE, and just only one,
 [Vagrantfile](What%20is%20a%20Vagrantfile.md) per project, so one can add the
 configuration file to one's project's version control and share it with their team.
@@ -23,7 +23,7 @@ The configuration file, Vagrantfile, uses Ruby programming language syntax.
 
 ### Operating System
 
-Vagrant supports multiple [Operating Systems (OS)](../4-hub-notes-🚉/Operating%20Systems.md)
+Vagrant supports multiple [Operating Systems (OS)](../../4-hub-notes-🚉/Operating%20Systems.md)
 base images, called "boxes", by default. Supported boxes that Vagrant supports
 can be found here: <https://portal.cloud.hashicorp.com/vagrant/discover>.
 
@@ -38,7 +38,7 @@ The `vm.box` identifier is set to `ubuntu/focal64`
 
 ### Networking
 
-One can configure the [Virtual Machine (VM)](<../3-permanent-notes-🧲/Virtual%20Machine%20(VM).md>)'s
+One can configure the [Virtual Machine (VM)](../../3-permanent-notes-🧲/Virtual%20Machine%20(VM).md)'s
 network options for various network scenarios to define a static IP or
 [Dynamic Host Configuration Protocol (DHPC)](<Dynamic%20Host%20Configuration%20Protocol%20(DHPC)>).
 
@@ -48,24 +48,24 @@ This is done via the `vm.network` option near the middle of the file.
 config.vm.network "private_network", type: "dhcp"
 ```
 
-The snippet allows the [Virtual Machine (VM)](<../3-permanent-notes-🧲/Virtual%20Machine%20(VM).md>)
+The snippet allows the [Virtual Machine (VM)](../../3-permanent-notes-🧲/Virtual%20Machine%20(VM).md)
 to obtain its IP address from a private network using
 [Dynamic Host Configuration Protocol (DHPC)](<Dynamic%20Host%20Configuration%20Protocol%20(DHPC)>)
 
 Doing so makes it easy to access resources like a web server on the
-[Virtual Machine (VM)](<../3-permanent-notes-🧲/Virtual%20Machine%20(VM).md>)
+[Virtual Machine (VM)](../../3-permanent-notes-🧲/Virtual%20Machine%20(VM).md)
 from the local host.
 
 #### Providers
 
 A "provider" is a plug-in that knows to create and manage a
-[Virtual Machine (VM)](<../3-permanent-notes-🧲/Virtual%20Machine%20(VM).md>)
+[Virtual Machine (VM)](../../3-permanent-notes-🧲/Virtual%20Machine%20(VM).md)
 Vagrant supports multiple types of different machines.
 
 Each provider has common options like CPU, disk, and memory.
 
-Vagrant will use the provider's [APIs (Application Programming Interfaces)](<../3-permanent-notes-🧲/APIs%20(Application%20Programming%20Interfaces).md>)
-or command line options to create the [Virtual Machine (VM)](<../3-permanent-notes-🧲/Virtual%20Machine%20(VM).md>).
+Vagrant will use the provider's [APIs (Application Programming Interfaces)](../../3-permanent-notes-🧲/APIs%20(Application%20Programming%20Interfaces).md)
+or command line options to create the [Virtual Machine (VM)](../../3-permanent-notes-🧲/Virtual%20Machine%20(VM).md).
 SEE TO: [Basic Vagrant Commands](Basic%20Vagrant%20Commands)
 
 The provider is set near the bottom of the file and looks like the following:
