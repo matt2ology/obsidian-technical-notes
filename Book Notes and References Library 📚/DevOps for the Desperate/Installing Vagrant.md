@@ -15,7 +15,7 @@ Topics : [DevOps](DevOps)
 
 Navigate to Vagrant’s website: <https://www.vagrantup.com/downloads.html>
 
-Windows Pro has Hyper-V feature. On the home edition
+Windows Pro has Hyper-V feature.
 
 Windows 11 Home has the following features you can enable:
 
