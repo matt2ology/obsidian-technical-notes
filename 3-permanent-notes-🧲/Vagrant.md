@@ -12,8 +12,21 @@ Related : [Ansible](Ansible.md), [Infrastructure as Code (IaC)](<Infrastructure%
 Topics : [DevOps](DevOps)
 
 Is a framework that automates the process of creating and managing [Virtual Machines (VM)](<../3-permanent-notes-🧲/Virtual%20Machine%20(VM).md>)
-and supports multiple [Operating Systems](../4-hub-notes-🚉/Operating%20Systems.md) across various platforms.
+and supports multiple [Operating Systems](../4-hub-notes-🚉/Operating%20Systems.md)
+across various platforms.
 
-a "Vagrantfile" is the single framework specific configuration file that
+A "Vagrantfile" is the single framework specific configuration file that
 describes the virtual environment in one's code used to create the local
 infrastructure.
+
+## Installation
+
+Prerequisite: Make sure that your VirtualBox has "guest additions" installed on
+it. "Guest additions" provide better driver support, port forwarding, and have
+more options available.
+
+1. Download: <https://developer.hashicorp.com/vagrant/install>
+2. Enter the following command in the terminal to install Vagrant plug-in for guest additions
+   1. `vagrant plugin install vagrant-vbguest`
+
+It is good practice to update this plug-in anytime you upgrade Vagrant and VirtualBox.
