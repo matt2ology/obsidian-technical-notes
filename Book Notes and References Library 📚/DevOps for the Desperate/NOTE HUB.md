@@ -47,25 +47,36 @@ operating system.
 
 #### **Chapter 1:** Setting Up a Virtual Machine
 
+10 pages
+
 Discusses the concepts of [Infrastructure as Code (IaC)](<../../3-permanent-notes-🧲/Infrastructure%20as%20Code%20(IaC).md>) and
 [Configuration Management (CM)](<../../3-permanent-notes-🧲/Configuration%20Management%20(CM).md>); also, introduces two technologies, Vagrant and Ansible,
 that you’ll use to create and provision an Ubuntu VM.
 
 - [VM Provisioning Basics](VM%20Provisioning%20Basics.md)
 - [Vagrant and Ansible](Vagrant%20and%20Ansible.md)
+- [Why Use Code to Build Infrastructure?](Why%20Use%20Code%20to%20Build%20Infrastructure.md)
 - [Installing Vagrant](Installing%20Vagrant.md)
+- [Anatomy of a Vagrantfile](Anatomy%20of%20a%20Vagrantfile.md)
+- [Basic Vagrant Commands](Basic%20Vagrant%20Commands)
 
 #### **Chapter 2:** Using Ansible to Manage Passwords, Users, and Groups
+
+12 pages
 
 How to use CM for user and group creation to restrict file and directory access.
 It also explains how to use CM to enforce complex passwords.
 
 #### **Chapter 3:** Using Ansible to Configure SSH
 
+12 pages
+
 How to set up public key and two-factor authentication over SSH, so making it harder for
 unauthorized users to gain access to your host and sensitive data.
 
 #### **Chapter 4:** Controlling User Commands with `sudo`
+
+12 pages
 
 How to create a security policy that delegates command access for a specific user and group.
 Controlling the command access that users and groups have on a host can help you avoid
@@ -73,6 +84,8 @@ unnecessary exposure to attackers. At a minimum, it prevents you from having a p
 configured OS.
 
 #### **Chapter 5:** Automating and Testing a Host-Based Firewall
+
+10 pages
 
 How to create and test a minimal firewall that will block all unwanted access while
 permitting approved traffic. By limiting port exposure, you can reduce the vulnerabilities
@@ -85,6 +98,8 @@ components that make up a modern stack.
 
 #### **Chapter 6:** Containerizing an Application with Docker
 
+16 pages
+
 Introduces containers and containerization, and it shows how to create a sample
 containerized application. A basic understanding of containers and how to use them for local
 development and production is key to your ability to work with any modern application
@@ -92,11 +107,15 @@ stack.
 
 #### **Chapter 7:** Orchestrating with Kubernetes
 
+18 pages
+
 Introduces container orchestration and explores how to use technologies like Kubernetes
 and minikube to deploy an application on a local cluster. It also serves as an example of
 how to set up a local development environment.
 
 #### **Chapter 8:** Deploying Code
+
+12 pages
 
 Discusses the concept of continuous integration and continuous deployment (CI/CD).
 It also explores some core technologies, like Skaffold, that allow you to create a pipeline on
@@ -111,11 +130,15 @@ application issues, as well as tools you can use to diagnose them.
 
 #### **Chapter 9:** Observability
 
+16 pages
+
 Concept of a monitoring and alerting stack, and it explores the technologies (Prometheus,
 Alertmanager, and Grafana) that make up this stack. Learn how to detect a system’s state
 and alert on it when things are out of scope.
 
 #### **Chapter 10:** Troubleshooting Hosts
+
+28 pages
 
 Discusses common issues and errors on a host and some tools you can use to troubleshoot
 them. Being able to analyze issues on a host will help you in times of crisis and help you
